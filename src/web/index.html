@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Epic Malaria — Demo UI</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0; }
+    #app { display: flex; gap: 16px; padding: 12px; }
+    #controls { width: 360px; max-width: 40%; }
+    #map { flex: 1; height: 82vh; min-height: 480px; }
+    .card { background: #fff; border-radius: 8px; padding: 12px; box-shadow: 0 1px 6px rgba(0,0,0,0.08); margin-bottom: 12px; }
+    .symptom { display: flex; align-items: center; gap: 8px; margin: 6px 0; }
+    button { background:#0b69ff; color:#fff; border:none; padding:8px 12px; border-radius:6px; cursor:pointer; }
+    pre { background:#f6f8fa; padding:8px; border-radius:6px; overflow:auto; max-height:160px; }
+    .prob-list { list-style:none; padding:0; margin:8px 0; }
+    .prob-list li { margin:4px 0; }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <div id="controls">
+      <div class="card">
+        <h3>Symptom Checker</h3>
+        <form id="symptomForm">
+          <div id="symptoms"></div>
+          <div style="margin-top:8px;">
+            <label>Location: <input type="text" id="location" placeholder="e.g. Delhi" style="width:70%"/></label>
+          </div>
+          <div style="margin-top:12px;">
+            <button type="submit">Predict</button>
+            <button type="button" id="resetBtn" style="margin-left:8px;background:#666">Reset</button>
+          </div>
+        </form>
+      </div>
+
+      <div class="card">
+        <h4>Prediction</h4>
+        <div id="predictionArea">
+          <p><em>No prediction yet.</em></p>
+        </div>
+      </div>
+
+      <div class="card">
+        <h4>API & Map Debug</h4>
+        <div>
+          <label>API base URL: <input id="apiBase" value="http://127.0.0.1:8000" style="width:70%"/></label>
+          <div style="margin-top:8px;">
+            <button id="reloadMapBtn">Reload Map</button>
+          </div>
+        </div>
+        <pre id="log">Logs will appear here.</pre>
+      </div>
+    </div>
+
+    <div id="map" class="card"></div>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- heat plugin -->
+  <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+
+  <script>
+  // FEATURES: must match your model's feature list saved in models/feature_list.pkl
+  // If you changed feature names, update this array accordingly.
+  const FEATURES = ["fever","headache","body_pain","nausea","vomiting","diarrhea","abdominal_pain","jaundice","chills","rash","joint_pain","eye_redness"];
+
+  // Utility: log to UI
+  function uiLog(s){ const el=document.getElementById('log'); el.textContent = (new Date()).toLocaleTimeString() + " — " + s + "\n" + el.textContent; }
+
+  // Build symptom checkboxes
+  const symptomsDiv = document.getElementById('symptoms');
+  FEATURES.forEach(f=>{
+    const id = "sym_"+f;
+    const wrapper = document.createElement('div');
+    wrapper.className = "symptom";
+    wrapper.innerHTML = `<input type="checkbox" id="${id}" name="${f}" value="1"><label for="${id}">${f.replace(/_/g,' ')}</label>`;
+    symptomsDiv.appendChild(wrapper);
+  });
+
+  // Map setup
+  const map = L.map('map').setView([21.0,78.0], 5); // center roughly on India
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{ maxZoom: 18 }).addTo(map);
+  let heatLayer = null;
+
+  // Fetch and draw heatmap from /map-data
+  async function loadMapDisease(disease="Malaria"){
+    const base = document.getElementById('apiBase').value.replace(/\/+$/,'');
+    const url = `${base}/map-data?disease=${encodeURIComponent(disease)}`;
+    uiLog("Fetching map data: " + url);
+    try{
+      const r = await fetch(url);
+      if(!r.ok) throw new Error("HTTP " + r.status);
+      const j = await r.json();
+      const points = (j.locations || []).map(rec => [rec.lat, rec.lon, rec.count || 1]).filter(p => p[0] && p[1]);
+      if(heatLayer){ map.removeLayer(heatLayer); heatLayer = null; }
+      if(points.length){
+        heatLayer = L.heatLayer(points, {radius: 25, blur: 25, maxZoom: 10}).addTo(map);
+        uiLog(`Loaded ${points.length} points for ${disease}`);
+        // zoom to points
+        const latlngs = points.map(p=>[p[0],p[1]]);
+        map.fitBounds(latlngs, {maxZoom:8});
+      } else {
+        uiLog("No map points returned.");
+      }
+    }catch(err){
+      uiLog("Map load error: " + err);
+      alert("Map error: " + err);
+    }
+  }
+
+  // Form submit -> call /predict
+  document.getElementById('symptomForm').addEventListener('submit', async e=>{
+    e.preventDefault();
+    const base = document.getElementById('apiBase').value.replace(/\/+$/,'');
+    const payload = {};
+    FEATURES.forEach(f => {
+      const el = document.getElementById('sym_' + f);
+      payload[f] = el && el.checked ? 1 : 0;
+    });
+    payload.location = document.getElementById('location').value || null;
+
+    uiLog("Calling /predict with payload: " + JSON.stringify(payload));
+    try{
+      const res = await fetch(base + "/predict", {
+        method: "POST",
+        headers: {"Content-Type":"application/json"},
+        body: JSON.stringify(payload)
+      });
+      if(!res.ok){ const text = await res.text(); throw new Error("HTTP " + res.status + " - " + text); }
+      const j = await res.json();
+      showPrediction(j);
+      // optionally reload map to focus on location or disease
+      if(j.top && j.top.toLowerCase() === "malaria"){
+        loadMapDisease("Malaria");
+      }
+    }catch(err){
+      uiLog("Predict error: " + err);
+      alert("Prediction failed: " + err);
+    }
+  });
+
+  function showPrediction(j){
+    const area = document.getElementById('predictionArea');
+    if(!j || !j.probabilities){ area.innerHTML = "<p>No result</p>"; return; }
+    const top = j.top;
+    const probs = j.probabilities;
+    let html = `<h4>Top: ${top}</h4>`;
+    html += "<ul class='prob-list'>";
+    // sort probs descending
+    Object.keys(probs).sort((a,b)=>probs[b]-probs[a]).forEach(k=>{
+      html += `<li>${k}: ${(probs[k]*100).toFixed(1)}%</li>`;
+    });
+    html += "</ul>";
+    area.innerHTML = html;
+  }
+
+  // Reset button
+  document.getElementById('resetBtn').addEventListener('click', ()=>{
+    FEATURES.forEach(f => { const el=document.getElementById('sym_'+f); if(el) el.checked=false; });
+    document.getElementById('location').value = "";
+    document.getElementById('predictionArea').innerHTML = "<em>No prediction yet.</em>";
+  });
+
+  // reload map button
+  document.getElementById('reloadMapBtn').addEventListener('click', ()=> loadMapDisease("Malaria"));
+
+  // initial map load (use default API base)
+  window.addEventListener('load', ()=> {
+    setTimeout(()=> loadMapDisease("Malaria"), 400);
+  });
+  </script>
+</body>
+</html>
