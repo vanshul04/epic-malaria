@@ -1,0 +1,3835 @@
+location,disease,fever,headache,body_pain,nausea,vomiting,diarrhea,abdominal_pain,jaundice,chills,rash,joint_pain,eye_redness
+Assam,Hepatitis,1,0,0,0,1,1,0,1,0,0,0,0
+West Bengal,Cholera,1,0,0,0,1,1,1,0,0,0,1,0
+Delhi,Dengue,1,1,1,0,1,0,0,0,1,1,0,0
+Rajasthan,Typhoid,1,0,1,1,1,1,1,0,0,0,0,0
+Tamil Nadu,Cholera,1,0,0,1,1,1,1,0,0,0,0,0
+Assam,Dengue,1,0,1,1,0,0,1,0,0,1,1,1
+Karnataka,Dengue,1,1,1,0,1,0,0,0,0,0,0,0
+Maharashtra,Dengue,1,0,1,0,0,0,1,0,0,1,0,0
+Assam,Amoebiasis,1,0,0,1,0,1,1,0,0,0,0,0
+Delhi,Amoebiasis,1,1,0,0,1,1,1,0,1,0,0,0
+Delhi,Dengue,1,1,1,1,1,0,0,0,0,1,1,0
+Rajasthan,Amoebiasis,1,0,1,1,0,1,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,0,0,0,0,0,1,1,1,0,0,0,1
+West Bengal,Dengue,1,0,1,0,0,0,0,0,1,1,0,0
+Rajasthan,Hepatitis,0,1,0,1,1,0,1,1,0,0,0,0
+Rajasthan,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,0
+Maharashtra,Dengue,1,1,1,1,0,0,0,0,1,0,0,0
+Kerala,Typhoid,1,0,1,1,1,1,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,1,1,0,0,1,0,1,0
+Bihar,Dengue,1,1,1,1,0,0,0,0,1,0,0,0
+Rajasthan,Amoebiasis,0,0,0,0,0,1,1,0,0,0,0,0
+Odisha,Dengue,1,1,1,0,0,0,1,0,0,1,0,0
+Kerala,Typhoid,1,0,1,1,0,0,1,0,1,0,0,1
+Bihar,Amoebiasis,0,0,0,1,0,1,1,0,0,0,0,0
+Odisha,Malaria,0,0,1,0,1,0,0,0,1,0,0,0
+Tamil Nadu,Malaria,1,0,0,0,0,0,0,0,1,0,1,0
+Uttar Pradesh,Hepatitis,0,0,1,1,1,0,1,1,0,0,0,0
+Odisha,Hepatitis,1,0,1,0,1,0,0,1,0,0,0,0
+Karnataka,Typhoid,1,0,0,1,0,1,1,0,0,0,0,0
+Kerala,Cholera,0,0,1,1,1,1,1,1,0,0,0,0
+Odisha,Malaria,1,1,0,0,0,1,0,0,1,1,0,0
+Gujarat,Hepatitis,0,0,0,0,0,1,0,1,0,0,1,0
+Uttar Pradesh,Malaria,1,0,0,0,1,0,0,0,1,0,0,0
+Delhi,Typhoid,1,1,0,1,1,1,1,0,0,0,0,0
+Delhi,Typhoid,0,1,1,1,0,1,0,0,0,0,0,1
+Karnataka,Cholera,1,0,0,1,1,1,0,0,1,0,0,0
+Odisha,Cholera,0,1,0,1,0,1,1,0,0,0,0,0
+Odisha,Amoebiasis,1,0,0,0,0,1,1,0,0,0,0,0
+Maharashtra,Typhoid,1,1,0,1,0,1,1,0,1,0,1,0
+Odisha,Hepatitis,1,0,0,1,0,0,1,0,0,0,0,0
+Assam,Malaria,1,1,1,1,0,0,0,0,1,0,0,0
+West Bengal,Dengue,1,0,1,1,1,0,1,0,1,0,0,0
+Gujarat,Cholera,0,0,1,0,1,1,0,0,0,0,0,0
+Maharashtra,Dengue,1,1,1,1,0,1,0,0,0,1,1,0
+Tamil Nadu,Hepatitis,1,0,1,0,0,0,0,1,0,0,0,0
+Maharashtra,Cholera,0,0,1,0,1,1,0,0,0,0,0,0
+Assam,Dengue,1,0,1,1,1,1,1,0,0,1,0,0
+Tamil Nadu,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,0
+Gujarat,Malaria,1,1,0,0,0,1,0,0,1,0,0,0
+Assam,Hepatitis,1,1,0,0,0,0,1,1,0,0,0,0
+Bihar,Amoebiasis,1,0,0,1,0,1,1,0,0,0,0,0
+West Bengal,Cholera,1,1,1,0,1,1,0,0,1,0,0,0
+Gujarat,Typhoid,0,0,0,0,0,1,0,0,1,0,0,0
+Odisha,Malaria,1,1,0,0,0,0,0,0,1,0,0,0
+Bihar,Dengue,1,1,1,0,1,1,0,0,0,1,1,0
+Karnataka,Cholera,1,0,0,1,0,1,0,0,1,0,0,0
+Gujarat,Typhoid,1,1,0,0,0,1,0,0,0,0,0,0
+Karnataka,Hepatitis,1,1,0,1,0,0,0,1,0,0,0,0
+Tamil Nadu,Typhoid,1,0,0,1,1,0,1,0,0,0,0,0
+Bihar,Cholera,1,0,0,1,1,1,1,0,0,0,0,0
+West Bengal,Cholera,0,0,0,1,1,1,0,1,0,0,0,0
+Odisha,Amoebiasis,0,0,0,0,1,1,1,0,0,0,0,0
+Odisha,Amoebiasis,0,0,0,1,1,1,1,0,0,0,0,0
+Assam,Typhoid,1,1,1,1,1,1,1,0,0,0,0,0
+Odisha,Hepatitis,0,0,1,1,0,0,0,1,0,1,1,0
+Rajasthan,Typhoid,0,1,0,0,0,0,1,0,0,0,0,0
+Maharashtra,Cholera,0,0,1,1,0,0,0,0,0,0,1,0
+Uttar Pradesh,Cholera,0,0,0,0,1,1,0,0,1,0,0,0
+West Bengal,Dengue,1,1,1,1,1,0,1,0,1,0,0,0
+Bihar,Amoebiasis,0,0,0,0,1,1,1,0,0,0,0,0
+Rajasthan,Dengue,1,0,1,0,1,0,1,0,0,1,1,0
+West Bengal,Malaria,0,0,1,1,0,0,0,0,1,0,0,0
+Bihar,Cholera,0,0,1,0,1,1,0,0,0,0,0,1
+Kerala,Dengue,1,0,1,1,0,0,0,0,0,1,1,0
+Kerala,Typhoid,1,1,0,1,0,0,1,0,0,0,0,0
+Karnataka,Amoebiasis,1,0,0,1,1,1,1,0,0,0,0,0
+West Bengal,Amoebiasis,0,1,0,1,0,1,1,0,0,0,0,0
+Kerala,Hepatitis,1,1,1,0,0,0,0,1,0,0,0,0
+Bihar,Typhoid,1,1,0,1,1,0,1,0,0,0,0,0
+Karnataka,Hepatitis,0,0,1,0,0,0,1,1,0,0,0,0
+Odisha,Dengue,1,1,1,1,0,0,1,0,1,1,1,0
+Bihar,Malaria,1,0,0,0,1,1,0,0,0,1,0,0
+Karnataka,Typhoid,0,0,1,1,0,0,1,0,0,0,0,0
+West Bengal,Typhoid,1,0,1,0,0,0,1,0,0,1,0,0
+Rajasthan,Typhoid,1,0,1,1,0,0,1,0,0,0,0,0
+Assam,Hepatitis,1,0,0,0,0,0,1,1,0,0,0,0
+Odisha,Dengue,1,1,1,1,0,0,1,0,1,1,0,0
+Gujarat,Typhoid,0,1,1,1,1,1,1,0,0,0,1,0
+Rajasthan,Typhoid,1,1,0,1,1,1,1,0,0,0,0,0
+Tamil Nadu,Amoebiasis,1,0,1,0,1,1,1,0,0,0,0,0
+Bihar,Malaria,1,1,0,0,0,0,1,1,0,0,0,0
+Tamil Nadu,Amoebiasis,0,0,0,0,0,1,1,1,0,0,0,0
+Karnataka,Malaria,1,0,1,0,0,0,0,0,1,0,0,0
+Gujarat,Dengue,1,1,1,0,0,0,1,0,0,0,1,0
+Odisha,Amoebiasis,0,0,0,1,1,0,1,0,0,0,0,0
+Odisha,Dengue,1,1,1,1,0,0,1,0,0,1,0,0
+Odisha,Amoebiasis,0,0,1,1,1,1,1,0,1,0,0,0
+Gujarat,Cholera,0,0,0,1,1,1,1,0,0,0,0,1
+Uttar Pradesh,Malaria,0,1,1,1,0,0,1,0,1,0,0,0
+Gujarat,Amoebiasis,1,1,0,1,1,1,1,0,0,0,0,0
+Assam,Cholera,1,0,0,1,1,1,0,0,0,0,0,0
+Gujarat,Hepatitis,1,0,0,0,0,0,0,1,0,0,0,0
+Rajasthan,Cholera,0,0,0,1,1,1,0,0,1,0,0,0
+Uttar Pradesh,Typhoid,1,0,0,0,1,0,1,0,0,0,0,0
+Odisha,Amoebiasis,1,0,1,1,1,1,1,0,0,0,0,0
+Rajasthan,Cholera,0,1,0,1,1,0,0,1,0,0,0,0
+Rajasthan,Dengue,1,0,0,0,0,0,1,1,0,0,0,0
+Delhi,Hepatitis,0,0,1,0,0,0,0,1,0,1,0,0
+Maharashtra,Amoebiasis,0,1,1,1,1,1,0,0,0,1,0,0
+Uttar Pradesh,Typhoid,1,0,0,1,1,1,0,0,0,0,0,0
+Rajasthan,Cholera,0,0,0,0,1,1,0,0,0,0,0,0
+Maharashtra,Hepatitis,1,1,0,1,0,1,0,1,0,0,0,0
+Maharashtra,Amoebiasis,0,1,0,1,1,1,1,0,0,0,1,0
+Uttar Pradesh,Hepatitis,0,1,0,1,0,0,0,1,0,0,0,1
+Delhi,Typhoid,1,0,0,1,0,0,1,0,0,0,0,0
+Tamil Nadu,Cholera,0,0,0,1,1,1,0,0,0,0,0,0
+Karnataka,Hepatitis,1,1,1,0,1,0,1,1,0,0,0,0
+Assam,Hepatitis,0,0,0,0,1,0,0,1,0,0,0,0
+Karnataka,Malaria,1,1,1,1,0,1,0,0,1,0,1,0
+Gujarat,Hepatitis,0,0,0,0,0,0,1,1,0,0,0,0
+Odisha,Malaria,1,1,1,0,0,0,0,0,0,0,0,1
+Assam,Cholera,1,1,1,0,1,1,0,0,0,0,0,0
+Gujarat,Amoebiasis,0,0,0,0,1,1,1,0,0,0,0,0
+Rajasthan,Amoebiasis,1,1,0,1,0,1,1,0,0,0,0,0
+Odisha,Cholera,0,0,0,0,1,1,0,0,0,0,0,0
+Bihar,Cholera,1,0,0,0,1,1,1,0,0,1,0,0
+Uttar Pradesh,Dengue,0,1,1,1,1,1,1,0,1,1,1,0
+Assam,Cholera,0,0,0,0,1,1,1,0,0,0,0,0
+Assam,Hepatitis,0,0,0,0,0,0,1,1,0,0,0,0
+Rajasthan,Amoebiasis,0,1,1,1,1,1,0,0,0,1,0,0
+Tamil Nadu,Typhoid,1,1,0,1,0,1,1,1,0,0,0,0
+Maharashtra,Amoebiasis,0,0,0,1,1,1,1,0,0,0,0,0
+Odisha,Malaria,1,1,1,1,0,0,0,1,1,0,0,0
+Rajasthan,Amoebiasis,0,1,0,1,1,0,1,0,1,0,0,0
+Kerala,Dengue,1,1,1,0,0,1,0,0,0,1,0,0
+Delhi,Cholera,1,0,0,0,0,1,1,1,0,0,0,0
+Maharashtra,Cholera,0,0,0,0,0,1,0,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,1,1,1,1,1,1,1,0,0,0,0,0
+Maharashtra,Typhoid,0,1,1,1,1,0,1,0,1,0,0,0
+Tamil Nadu,Typhoid,1,1,1,1,0,1,1,0,1,0,0,0
+Maharashtra,Dengue,1,1,1,1,0,0,0,0,0,1,1,0
+Uttar Pradesh,Malaria,1,0,0,0,0,1,0,0,1,0,0,0
+Tamil Nadu,Amoebiasis,1,0,1,1,1,1,1,0,0,0,0,0
+Karnataka,Cholera,0,0,0,0,0,1,1,0,0,0,0,0
+Assam,Amoebiasis,1,0,0,1,0,0,1,0,1,0,0,0
+Assam,Dengue,1,1,0,0,1,1,0,0,0,0,0,0
+Delhi,Hepatitis,0,1,0,1,0,1,0,1,0,0,0,0
+Gujarat,Hepatitis,1,0,0,1,0,1,0,1,0,0,0,0
+Karnataka,Dengue,1,1,1,0,0,0,0,0,1,0,1,0
+Karnataka,Cholera,0,0,0,0,0,1,0,0,0,0,1,0
+Odisha,Dengue,1,0,1,0,0,0,1,0,0,1,0,0
+Maharashtra,Cholera,1,1,0,1,0,1,0,0,0,0,0,0
+Assam,Typhoid,1,1,1,0,0,0,0,0,0,0,0,0
+Uttar Pradesh,Dengue,0,0,1,1,0,1,1,0,0,1,1,0
+West Bengal,Cholera,0,0,0,1,1,1,0,0,0,0,0,0
+West Bengal,Dengue,1,1,1,1,1,0,0,0,0,1,0,0
+Tamil Nadu,Dengue,1,0,1,0,1,0,0,0,1,1,0,0
+Assam,Cholera,1,0,1,0,1,0,0,0,0,0,0,0
+Delhi,Malaria,1,1,1,1,0,1,0,0,1,0,1,0
+West Bengal,Dengue,1,1,1,0,1,0,0,1,0,0,0,0
+Assam,Hepatitis,1,0,1,1,1,0,1,1,0,0,0,0
+Delhi,Dengue,1,1,1,1,0,0,0,0,0,0,1,0
+Maharashtra,Dengue,1,1,1,0,0,0,0,0,0,1,0,0
+Kerala,Cholera,1,0,0,1,1,1,0,0,0,0,0,0
+Odisha,Dengue,1,1,1,1,0,0,0,0,0,1,0,0
+Bihar,Amoebiasis,0,1,1,0,1,1,1,0,0,1,0,0
+Karnataka,Dengue,1,1,1,0,0,0,0,0,0,1,0,0
+Gujarat,Amoebiasis,0,0,1,0,1,1,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,0
+Kerala,Cholera,0,0,0,1,1,1,0,0,0,0,0,0
+Odisha,Dengue,1,1,1,1,0,0,1,0,0,0,1,0
+Odisha,Amoebiasis,1,1,0,1,1,1,1,0,1,0,0,0
+Odisha,Amoebiasis,0,0,0,1,0,0,1,0,0,0,0,0
+Odisha,Amoebiasis,1,0,1,1,0,1,1,0,0,0,0,0
+West Bengal,Typhoid,1,1,0,1,1,1,1,0,0,0,0,0
+Delhi,Malaria,1,1,1,1,1,0,0,0,1,0,0,1
+Karnataka,Hepatitis,1,0,1,0,0,0,1,1,0,0,0,0
+Assam,Dengue,1,1,1,1,1,0,1,1,0,1,0,0
+Odisha,Typhoid,1,1,0,0,1,1,1,0,0,0,1,0
+Gujarat,Dengue,1,1,1,1,1,0,0,0,1,1,1,1
+Assam,Dengue,1,1,1,0,0,1,0,0,1,0,0,0
+Uttar Pradesh,Cholera,0,0,1,1,1,1,0,0,0,0,0,0
+Uttar Pradesh,Cholera,0,0,0,1,1,1,0,0,0,0,0,0
+Gujarat,Cholera,0,0,0,1,1,1,1,0,0,0,0,0
+Delhi,Typhoid,0,1,0,1,1,0,1,0,1,0,1,0
+Gujarat,Dengue,1,0,1,1,1,0,1,1,0,1,0,0
+West Bengal,Malaria,0,0,0,1,0,0,0,0,1,1,0,0
+Gujarat,Hepatitis,1,1,0,0,1,0,1,1,0,0,0,0
+Maharashtra,Cholera,0,1,0,0,1,1,0,0,0,0,0,0
+Assam,Cholera,0,0,0,1,1,1,0,0,0,0,0,0
+Kerala,Dengue,1,0,1,1,1,0,0,0,0,1,1,0
+Rajasthan,Dengue,1,1,1,1,0,0,0,0,0,0,0,0
+Delhi,Typhoid,1,1,0,1,0,0,1,0,0,0,0,1
+Gujarat,Typhoid,1,1,0,0,0,0,1,0,1,0,0,0
+Tamil Nadu,Cholera,0,0,1,0,1,1,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,1,1,1,1,0,0,1,0,0
+Maharashtra,Malaria,1,0,1,0,1,0,0,0,1,0,0,0
+Karnataka,Hepatitis,0,0,0,1,0,0,1,1,0,0,0,0
+Odisha,Dengue,1,0,1,0,1,0,1,0,0,0,1,0
+Rajasthan,Dengue,1,1,1,0,0,1,0,0,0,0,0,0
+Delhi,Amoebiasis,0,0,0,0,1,1,1,0,0,0,0,0
+Kerala,Typhoid,0,0,0,0,0,1,1,0,0,0,0,0
+Rajasthan,Hepatitis,1,1,0,0,1,1,0,1,0,0,0,0
+Gujarat,Cholera,1,0,0,0,0,1,0,0,0,0,0,0
+West Bengal,Dengue,1,1,1,0,1,0,0,0,0,1,1,0
+Uttar Pradesh,Cholera,0,0,0,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,1,1,0,0,0,0,1,0,0
+Karnataka,Cholera,1,0,0,1,0,1,0,0,0,0,1,1
+West Bengal,Hepatitis,1,1,1,1,0,0,1,1,0,0,0,0
+Odisha,Typhoid,0,1,1,0,0,1,1,0,0,0,0,0
+Assam,Hepatitis,1,1,0,0,1,0,0,1,1,0,0,0
+Bihar,Amoebiasis,1,1,0,0,0,1,1,0,0,0,0,0
+Maharashtra,Malaria,1,1,1,0,1,1,0,0,1,0,1,0
+Uttar Pradesh,Typhoid,1,0,0,1,1,1,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,0,1,0,0,1,0,1,1,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,0,0,1,1,1,0,0,0,0,0
+Rajasthan,Malaria,1,1,0,0,0,0,0,0,1,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,0,1,0,1,1,0,1,0,0,1
+Uttar Pradesh,Dengue,1,0,1,1,0,0,0,0,0,1,0,0
+Bihar,Cholera,1,0,0,1,0,1,0,0,0,0,0,0
+Bihar,Typhoid,1,1,0,1,0,0,1,0,0,0,0,0
+Kerala,Amoebiasis,1,0,0,1,1,0,1,0,0,0,0,0
+Assam,Typhoid,1,0,0,1,0,0,1,1,1,0,0,0
+Tamil Nadu,Dengue,1,0,1,0,1,1,0,0,1,0,1,0
+Uttar Pradesh,Cholera,0,1,0,1,1,1,1,0,1,0,0,0
+Uttar Pradesh,Hepatitis,1,1,0,1,1,0,0,1,0,0,0,1
+Maharashtra,Cholera,1,0,0,0,1,0,0,0,1,0,0,0
+Bihar,Malaria,1,0,1,0,0,1,1,0,1,0,1,0
+Tamil Nadu,Dengue,1,1,1,1,1,0,0,0,0,1,1,0
+Odisha,Malaria,1,1,0,1,0,0,0,0,1,0,0,0
+Karnataka,Malaria,1,1,0,1,1,0,0,0,1,0,0,0
+Kerala,Amoebiasis,0,1,1,0,1,1,1,0,0,0,0,0
+Assam,Typhoid,1,0,0,1,1,1,1,0,1,0,0,0
+West Bengal,Amoebiasis,0,1,1,1,0,1,0,0,0,0,0,0
+Assam,Dengue,1,1,1,1,1,0,0,0,0,1,0,0
+Delhi,Malaria,1,0,0,1,1,0,1,0,1,0,1,0
+Rajasthan,Hepatitis,1,1,0,1,1,0,1,1,0,0,0,0
+Delhi,Malaria,1,0,1,0,1,0,0,0,1,0,0,0
+Uttar Pradesh,Hepatitis,0,1,0,0,0,0,0,1,0,0,0,0
+Kerala,Amoebiasis,1,1,1,0,1,1,1,0,0,0,0,0
+Rajasthan,Amoebiasis,0,0,0,1,0,1,1,0,0,0,0,0
+Tamil Nadu,Typhoid,1,0,1,1,1,0,1,0,1,0,0,0
+West Bengal,Malaria,1,0,0,0,1,1,0,0,1,0,0,0
+Bihar,Cholera,0,0,0,1,0,0,0,0,0,0,0,0
+Kerala,Amoebiasis,0,0,0,0,1,1,1,0,0,0,0,0
+Kerala,Amoebiasis,1,0,0,0,1,1,0,0,0,0,0,0
+Delhi,Typhoid,1,0,1,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Hepatitis,0,0,0,1,0,0,1,1,0,0,0,1
+Gujarat,Typhoid,0,1,0,1,1,1,1,0,0,0,0,0
+Odisha,Malaria,1,1,1,1,1,0,0,0,1,0,0,0
+Delhi,Dengue,1,1,1,0,1,1,0,1,0,1,0,0
+Kerala,Dengue,1,1,1,1,1,0,0,0,1,1,1,0
+Maharashtra,Hepatitis,1,0,0,0,0,0,1,1,0,0,0,0
+West Bengal,Amoebiasis,0,0,0,0,0,0,1,0,0,0,0,0
+Odisha,Hepatitis,1,1,0,0,1,0,0,1,0,0,1,0
+Delhi,Amoebiasis,1,0,0,1,1,1,1,0,0,1,0,0
+West Bengal,Amoebiasis,0,1,0,1,1,1,1,1,1,0,0,0
+Maharashtra,Dengue,1,1,1,0,0,0,1,0,0,0,0,0
+Karnataka,Hepatitis,1,1,1,1,1,0,0,1,0,0,0,0
+Maharashtra,Typhoid,1,1,1,1,0,0,1,0,0,0,0,0
+Maharashtra,Amoebiasis,1,1,1,0,0,0,1,0,0,0,0,0
+West Bengal,Cholera,0,0,0,0,0,1,1,0,1,1,0,0
+West Bengal,Typhoid,0,0,1,1,1,0,1,0,0,0,0,0
+Gujarat,Cholera,0,0,0,1,0,1,0,0,0,0,0,0
+Uttar Pradesh,Malaria,1,1,1,0,0,0,0,0,1,0,0,0
+Rajasthan,Amoebiasis,1,0,0,0,1,0,0,0,0,0,1,0
+Assam,Typhoid,0,1,1,1,0,1,0,0,0,1,0,0
+Bihar,Hepatitis,1,0,0,1,0,0,0,0,0,0,0,0
+Rajasthan,Amoebiasis,0,1,0,0,1,1,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,1,1,0,1,1,0,1,0,0,0,0,0
+Delhi,Dengue,1,1,1,1,1,0,0,0,0,1,0,0
+Odisha,Hepatitis,0,0,0,1,1,0,0,1,0,0,0,0
+Gujarat,Dengue,1,1,1,0,1,1,0,0,0,0,0,0
+Gujarat,Amoebiasis,0,0,1,0,0,1,0,0,0,0,0,0
+Bihar,Hepatitis,1,0,0,1,0,1,0,1,0,0,0,0
+Assam,Cholera,0,0,0,1,1,1,1,0,0,0,0,0
+Karnataka,Typhoid,1,0,0,1,1,0,0,0,0,1,0,0
+Maharashtra,Amoebiasis,1,1,0,1,0,0,1,0,0,0,0,0
+Assam,Malaria,1,0,0,0,0,1,0,0,1,0,0,0
+Odisha,Hepatitis,0,0,0,1,1,0,1,1,0,0,0,0
+Karnataka,Hepatitis,1,1,0,0,0,1,0,1,0,0,0,0
+Gujarat,Amoebiasis,1,0,0,1,1,1,1,0,0,0,0,0
+West Bengal,Amoebiasis,1,0,0,0,0,1,1,0,1,0,0,0
+Odisha,Dengue,1,0,0,1,0,0,0,1,0,1,0,1
+Bihar,Dengue,1,0,1,1,1,0,0,0,0,1,1,0
+Uttar Pradesh,Dengue,1,1,1,1,1,0,1,0,0,0,0,0
+Odisha,Cholera,1,0,0,1,0,1,1,0,0,0,0,0
+Tamil Nadu,Malaria,1,1,1,0,0,0,1,0,1,0,1,1
+Tamil Nadu,Dengue,1,1,1,1,0,1,0,0,0,0,1,0
+Delhi,Dengue,1,1,1,1,0,0,0,0,0,1,0,0
+Assam,Hepatitis,0,0,0,0,0,1,0,1,0,0,0,0
+Gujarat,Cholera,0,0,0,0,1,1,0,0,0,0,0,0
+Gujarat,Typhoid,1,1,1,1,1,0,1,0,0,0,0,0
+Maharashtra,Malaria,1,0,1,0,0,0,0,0,1,0,0,0
+Maharashtra,Malaria,1,1,0,0,1,0,0,1,1,0,0,0
+Maharashtra,Cholera,0,0,1,1,1,1,0,0,0,0,0,0
+West Bengal,Amoebiasis,0,0,1,0,0,1,1,0,0,0,0,0
+Rajasthan,Amoebiasis,0,1,1,0,0,1,1,0,0,1,1,1
+Kerala,Hepatitis,0,0,1,0,1,0,0,1,0,0,0,0
+Rajasthan,Hepatitis,0,1,0,0,0,1,0,1,0,0,0,0
+Uttar Pradesh,Cholera,1,1,1,0,0,1,1,0,0,0,0,0
+Rajasthan,Hepatitis,0,0,1,1,0,0,1,1,0,0,0,0
+West Bengal,Malaria,1,0,1,0,0,1,0,0,1,0,0,0
+Delhi,Malaria,1,1,0,0,1,1,0,0,1,0,0,1
+Uttar Pradesh,Typhoid,0,0,0,1,1,0,1,0,0,0,0,0
+Rajasthan,Amoebiasis,1,0,0,1,1,1,1,0,0,0,0,0
+West Bengal,Cholera,1,0,0,1,1,1,0,0,1,0,0,0
+Kerala,Dengue,1,1,1,1,1,0,0,0,1,1,0,0
+Rajasthan,Amoebiasis,1,1,0,0,0,0,1,0,0,0,0,0
+West Bengal,Dengue,1,1,1,1,1,0,0,0,1,1,0,0
+Maharashtra,Typhoid,0,1,1,1,1,0,1,0,0,1,1,0
+Gujarat,Typhoid,1,0,1,1,1,1,1,0,0,0,0,0
+Gujarat,Typhoid,1,1,1,0,0,0,1,0,0,0,0,0
+Bihar,Typhoid,1,1,0,1,0,0,0,0,1,0,0,0
+Bihar,Dengue,1,1,1,1,0,0,1,0,0,0,1,0
+Bihar,Hepatitis,0,0,0,0,0,1,0,1,0,0,0,0
+Kerala,Typhoid,1,0,0,0,0,1,1,0,0,0,0,0
+Maharashtra,Amoebiasis,1,0,0,1,1,1,1,0,0,1,0,0
+Gujarat,Typhoid,1,1,0,1,0,0,1,0,0,0,0,0
+West Bengal,Hepatitis,1,1,1,1,0,0,1,1,0,0,1,0
+Uttar Pradesh,Cholera,0,1,0,1,0,1,0,0,0,0,1,0
+West Bengal,Hepatitis,1,0,1,1,1,0,1,1,0,0,0,1
+Uttar Pradesh,Dengue,1,1,1,1,0,0,0,0,1,0,0,0
+Tamil Nadu,Cholera,1,1,0,1,1,1,0,0,0,0,0,0
+West Bengal,Amoebiasis,1,0,0,0,0,1,1,0,0,0,0,0
+Rajasthan,Malaria,1,0,1,0,0,0,0,0,1,0,0,0
+Rajasthan,Hepatitis,1,1,0,0,0,0,0,1,0,0,0,1
+Assam,Dengue,1,1,1,0,1,0,0,0,0,1,0,0
+Maharashtra,Amoebiasis,1,0,1,0,1,1,1,0,0,0,1,0
+Uttar Pradesh,Cholera,1,0,0,1,1,1,1,0,1,1,0,0
+Uttar Pradesh,Amoebiasis,1,0,0,0,1,1,1,0,0,0,0,0
+Odisha,Hepatitis,0,0,0,0,1,1,0,1,0,0,0,0
+Delhi,Typhoid,0,1,1,1,1,0,0,0,0,0,0,0
+Maharashtra,Hepatitis,0,1,0,1,0,1,0,1,0,0,0,0
+Kerala,Malaria,1,1,0,1,1,0,1,0,0,0,0,0
+Assam,Hepatitis,1,0,1,0,1,0,1,1,1,0,0,0
+Kerala,Cholera,0,1,0,1,1,1,0,0,0,0,0,0
+Kerala,Cholera,0,0,0,1,0,1,1,0,0,1,0,0
+Kerala,Hepatitis,1,0,0,1,0,1,1,1,0,0,0,0
+Maharashtra,Cholera,1,0,0,0,1,1,0,0,0,0,0,0
+Kerala,Typhoid,1,1,1,1,1,0,1,0,0,0,0,1
+Rajasthan,Amoebiasis,0,0,0,1,1,1,1,0,0,0,0,0
+Delhi,Hepatitis,0,0,0,0,1,0,1,1,0,0,0,0
+Delhi,Typhoid,1,1,0,1,0,1,1,0,0,0,0,0
+Bihar,Amoebiasis,0,0,0,1,0,1,0,0,0,0,0,0
+Tamil Nadu,Amoebiasis,0,0,0,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,1,1,0,0,0,0,1,0,0,0,0,0
+Odisha,Dengue,1,1,1,0,1,0,0,0,1,1,0,0
+Uttar Pradesh,Hepatitis,0,0,1,1,0,1,0,1,0,0,1,0
+Tamil Nadu,Amoebiasis,0,0,0,1,0,0,1,1,0,0,0,0
+Odisha,Amoebiasis,0,0,0,0,0,1,1,0,0,1,0,0
+West Bengal,Amoebiasis,0,1,0,1,1,0,1,0,0,0,0,0
+Maharashtra,Typhoid,0,1,1,1,0,0,1,0,0,0,1,0
+Uttar Pradesh,Amoebiasis,1,0,0,0,0,1,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,0,0,1,1,0,0,1,0,0
+Odisha,Hepatitis,1,0,1,0,1,0,1,1,1,0,0,1
+Odisha,Hepatitis,0,0,1,1,0,1,1,1,0,0,0,0
+Tamil Nadu,Amoebiasis,0,1,1,0,1,1,1,0,0,0,0,0
+Kerala,Malaria,1,1,1,0,0,0,0,0,1,0,0,1
+Maharashtra,Malaria,1,1,1,1,1,0,0,0,0,0,0,1
+Odisha,Typhoid,1,0,1,1,1,1,1,0,0,0,0,0
+Gujarat,Malaria,1,0,0,0,0,0,0,0,1,1,1,0
+Tamil Nadu,Typhoid,1,1,1,0,1,1,1,1,0,0,0,0
+Rajasthan,Cholera,0,0,1,0,1,1,0,0,0,0,0,1
+Uttar Pradesh,Typhoid,0,0,0,0,0,1,0,0,0,0,0,0
+Tamil Nadu,Malaria,1,0,1,0,1,1,1,1,1,0,1,1
+Maharashtra,Amoebiasis,0,0,1,0,1,1,1,0,0,1,0,0
+Odisha,Cholera,0,0,1,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Malaria,1,1,1,1,1,0,1,0,1,0,0,0
+West Bengal,Typhoid,1,1,0,0,0,0,0,0,1,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,0,0,0,0,1,1,1,0
+Assam,Hepatitis,0,0,1,1,1,0,1,1,0,0,0,0
+Uttar Pradesh,Malaria,1,1,1,0,1,0,0,1,1,0,0,0
+Maharashtra,Typhoid,0,1,1,1,1,0,1,1,0,0,0,0
+Bihar,Cholera,1,0,0,1,1,1,0,0,0,1,0,0
+Gujarat,Malaria,1,0,1,1,0,0,0,0,1,0,0,0
+Karnataka,Malaria,1,1,0,0,0,0,0,0,1,0,0,0
+Kerala,Hepatitis,1,0,0,1,1,1,0,1,0,0,0,0
+Karnataka,Typhoid,1,0,1,1,0,1,1,0,1,1,0,0
+Maharashtra,Dengue,1,1,0,0,1,0,0,0,1,1,0,0
+Rajasthan,Cholera,0,1,0,0,0,1,0,1,0,0,0,0
+Rajasthan,Typhoid,1,0,1,1,0,1,1,0,1,0,0,0
+Bihar,Cholera,0,0,0,0,1,1,0,0,0,0,0,0
+Kerala,Malaria,1,0,1,1,0,0,0,1,1,1,1,0
+Assam,Hepatitis,0,1,0,1,1,0,0,1,0,0,0,0
+Bihar,Hepatitis,0,0,0,1,1,0,1,1,0,0,0,0
+Delhi,Amoebiasis,0,0,0,1,0,1,1,0,0,0,0,0
+Karnataka,Dengue,0,1,1,1,0,0,0,0,0,1,0,1
+Bihar,Hepatitis,0,0,1,1,0,0,1,1,0,0,0,0
+Karnataka,Malaria,1,1,1,0,0,0,0,0,1,0,0,0
+Uttar Pradesh,Dengue,1,1,0,1,1,0,0,0,0,0,0,0
+Rajasthan,Typhoid,1,0,1,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Hepatitis,1,1,0,1,0,0,1,1,0,0,0,0
+Gujarat,Dengue,1,1,1,1,0,0,0,0,0,1,1,0
+Delhi,Malaria,1,0,1,0,0,0,0,0,1,0,0,0
+Kerala,Amoebiasis,1,1,0,0,0,1,1,0,0,0,0,0
+Assam,Cholera,0,0,1,0,1,1,1,0,0,0,0,0
+Karnataka,Cholera,0,0,0,0,1,1,1,0,0,0,0,0
+Assam,Malaria,1,1,1,1,0,0,0,0,1,0,1,0
+Karnataka,Malaria,1,0,1,1,0,0,0,0,1,0,0,0
+Maharashtra,Cholera,1,0,0,1,1,1,1,1,0,0,0,0
+Bihar,Amoebiasis,0,0,0,0,1,1,0,0,0,0,0,0
+Gujarat,Dengue,1,1,1,0,0,0,0,0,0,1,0,0
+Rajasthan,Cholera,0,0,0,1,1,1,1,0,0,0,0,0
+Odisha,Malaria,1,0,0,1,1,0,0,0,1,0,0,0
+Karnataka,Hepatitis,1,1,0,1,0,1,0,1,0,0,0,0
+Assam,Typhoid,1,1,1,1,1,0,1,0,0,0,0,0
+West Bengal,Amoebiasis,0,0,0,1,1,1,1,0,0,0,0,0
+West Bengal,Hepatitis,1,1,0,0,1,1,0,1,0,0,0,0
+Uttar Pradesh,Hepatitis,1,0,0,1,0,1,0,1,0,0,0,1
+Rajasthan,Malaria,1,0,1,1,0,0,1,0,1,0,0,0
+Odisha,Cholera,0,0,0,0,1,1,0,0,0,0,1,0
+Maharashtra,Dengue,1,1,1,0,1,0,0,0,0,0,1,1
+Assam,Amoebiasis,0,1,0,0,1,1,1,0,0,0,0,0
+Odisha,Amoebiasis,0,0,0,1,0,1,1,0,1,0,0,0
+Bihar,Hepatitis,0,0,1,1,0,0,0,1,0,0,0,0
+Bihar,Cholera,1,0,0,0,1,1,0,0,0,0,0,0
+Assam,Amoebiasis,1,1,0,1,1,1,1,0,0,0,0,0
+Kerala,Dengue,1,1,1,0,1,0,0,0,0,1,0,0
+Maharashtra,Hepatitis,1,0,0,0,1,0,0,1,0,0,0,0
+Gujarat,Dengue,1,0,1,0,1,0,0,0,0,0,0,1
+Karnataka,Cholera,0,0,0,1,0,1,1,0,0,0,0,0
+Kerala,Amoebiasis,0,0,0,0,0,0,1,0,0,0,0,0
+Karnataka,Typhoid,1,0,1,0,0,0,1,0,0,0,0,0
+Karnataka,Amoebiasis,0,0,1,0,0,1,1,0,0,0,0,0
+Kerala,Cholera,0,0,0,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,1,0,1,0,0,0,0,0,0,0,0
+West Bengal,Amoebiasis,1,0,1,1,1,1,1,0,0,0,0,0
+Karnataka,Malaria,0,0,0,1,1,0,0,0,1,0,1,0
+Kerala,Amoebiasis,1,0,1,0,0,1,1,0,0,0,0,0
+Kerala,Amoebiasis,0,0,0,0,0,1,1,0,0,0,0,0
+Delhi,Dengue,1,1,1,0,1,1,1,0,1,1,0,1
+Odisha,Typhoid,1,0,0,1,1,0,1,1,1,0,0,0
+Tamil Nadu,Dengue,1,1,1,0,1,0,0,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,0,1,1,0,0,0,0,0,0
+Rajasthan,Hepatitis,1,1,0,0,0,0,1,0,0,0,0,0
+Tamil Nadu,Malaria,1,0,0,1,1,1,0,0,1,0,0,0
+Odisha,Dengue,1,0,1,1,1,0,0,0,0,0,0,0
+Odisha,Cholera,0,0,1,1,1,1,0,1,0,0,1,0
+Odisha,Cholera,0,0,1,1,1,1,0,1,0,0,0,0
+Tamil Nadu,Amoebiasis,1,1,0,0,0,1,1,0,0,0,1,0
+Assam,Hepatitis,1,1,1,1,1,0,1,1,0,0,0,0
+West Bengal,Malaria,1,1,0,0,0,0,0,1,1,0,0,0
+Kerala,Malaria,1,1,1,0,1,0,0,0,1,0,0,0
+Maharashtra,Cholera,0,0,0,0,0,1,1,0,0,0,0,0
+Assam,Typhoid,1,0,1,1,0,1,1,0,0,0,0,0
+Rajasthan,Hepatitis,1,0,0,1,1,0,0,1,0,0,0,0
+West Bengal,Amoebiasis,1,1,0,0,0,1,1,0,0,0,0,0
+Bihar,Hepatitis,1,0,0,1,0,0,1,1,0,0,1,0
+Odisha,Cholera,1,1,1,1,1,1,1,0,0,0,0,0
+Karnataka,Cholera,0,0,0,1,0,1,0,0,1,0,0,0
+Maharashtra,Typhoid,1,0,0,0,0,1,0,0,0,0,0,0
+Uttar Pradesh,Typhoid,0,0,0,0,0,0,1,0,0,0,0,0
+Rajasthan,Malaria,1,0,1,1,1,0,1,0,1,0,0,0
+Maharashtra,Hepatitis,0,1,1,1,1,1,1,1,0,0,0,1
+Odisha,Hepatitis,0,1,0,1,0,0,1,1,1,0,0,0
+Karnataka,Cholera,1,1,0,1,1,0,1,0,0,0,0,0
+Assam,Malaria,1,1,1,0,0,0,1,0,0,1,1,0
+Karnataka,Amoebiasis,0,0,0,0,1,1,1,0,0,0,0,0
+Karnataka,Malaria,1,1,1,0,0,0,0,0,1,1,0,0
+Tamil Nadu,Malaria,1,1,1,1,0,0,0,0,0,0,1,0
+Assam,Cholera,1,0,0,0,1,1,1,0,1,0,0,0
+Gujarat,Malaria,1,0,1,0,0,0,0,0,1,0,1,1
+Odisha,Typhoid,1,0,0,1,0,0,1,0,0,0,0,0
+Tamil Nadu,Typhoid,1,1,1,1,1,1,0,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,0,0,0,0,0,1,0,1,1,0
+Karnataka,Cholera,0,1,0,0,1,1,0,0,0,0,0,0
+Karnataka,Amoebiasis,0,1,1,0,0,1,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,1,1,0,1,1,0,0,0,0
+Bihar,Typhoid,0,0,0,1,0,1,1,0,0,0,0,0
+Gujarat,Cholera,1,0,0,1,1,1,0,0,0,0,0,0
+Rajasthan,Cholera,1,0,0,0,0,1,0,0,0,0,0,0
+Tamil Nadu,Malaria,1,1,1,1,0,0,0,0,1,0,0,0
+Uttar Pradesh,Hepatitis,1,1,1,1,1,0,0,1,0,0,0,0
+Assam,Malaria,1,0,0,1,0,0,0,0,1,0,0,0
+Kerala,Typhoid,1,0,0,0,1,1,0,0,0,0,0,0
+Assam,Amoebiasis,1,0,0,1,0,1,1,0,0,0,1,0
+Maharashtra,Typhoid,1,0,0,1,1,0,1,0,1,0,0,0
+Odisha,Malaria,1,0,1,0,0,0,1,0,1,0,0,0
+Karnataka,Amoebiasis,0,0,1,0,1,1,1,0,0,0,0,0
+Maharashtra,Cholera,1,0,1,1,1,1,0,0,1,0,0,0
+Tamil Nadu,Typhoid,1,1,0,1,1,0,1,0,0,0,0,0
+Gujarat,Amoebiasis,0,0,0,0,0,1,1,0,0,0,0,0
+Odisha,Amoebiasis,1,1,0,0,1,1,1,0,0,0,0,0
+Tamil Nadu,Typhoid,0,1,0,1,0,1,1,0,0,0,1,0
+West Bengal,Dengue,1,0,1,1,0,1,0,0,0,1,0,0
+Tamil Nadu,Cholera,1,0,0,0,1,1,1,0,0,0,0,0
+Odisha,Amoebiasis,1,0,0,0,1,1,1,0,0,0,0,0
+Karnataka,Cholera,1,0,1,0,1,1,1,0,0,0,0,1
+Karnataka,Malaria,1,1,1,0,0,1,0,0,1,0,1,0
+Tamil Nadu,Dengue,1,1,1,1,0,0,1,0,0,1,1,0
+Assam,Hepatitis,0,0,0,1,0,0,1,1,1,0,0,0
+West Bengal,Malaria,1,1,1,1,1,1,0,0,1,0,0,0
+Uttar Pradesh,Hepatitis,0,0,0,1,0,0,0,1,0,0,0,0
+Tamil Nadu,Typhoid,1,0,0,1,0,1,1,0,0,0,0,0
+Assam,Hepatitis,1,0,1,1,1,0,0,1,0,0,0,0
+Karnataka,Cholera,0,0,1,0,1,1,0,0,0,0,0,0
+Karnataka,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,0
+Kerala,Amoebiasis,0,0,1,1,0,1,1,0,0,0,0,0
+Tamil Nadu,Malaria,1,1,0,1,0,0,0,0,1,0,0,0
+West Bengal,Malaria,1,0,0,0,0,0,1,0,1,0,0,0
+Bihar,Hepatitis,1,1,0,1,1,1,0,1,0,0,0,0
+West Bengal,Malaria,1,1,0,0,0,0,1,0,1,0,0,0
+Karnataka,Amoebiasis,0,0,0,1,0,0,1,0,0,0,0,0
+Maharashtra,Hepatitis,1,0,1,0,1,0,0,1,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,1,1,0,0,0,0,1,1,0
+Rajasthan,Typhoid,1,1,0,0,0,0,1,0,1,0,0,0
+Tamil Nadu,Malaria,1,0,1,1,0,0,1,0,1,0,0,0
+West Bengal,Hepatitis,0,1,1,1,1,0,0,0,0,0,0,0
+Rajasthan,Malaria,1,0,0,1,0,1,1,0,1,0,0,0
+Bihar,Amoebiasis,1,0,0,0,0,1,1,0,0,0,0,0
+Uttar Pradesh,Malaria,0,0,1,0,0,1,0,0,0,0,0,0
+Odisha,Malaria,1,0,1,0,1,0,1,0,1,0,0,0
+Delhi,Dengue,1,1,1,0,1,0,0,0,0,0,1,0
+West Bengal,Amoebiasis,0,1,0,1,0,1,0,0,0,0,0,0
+Rajasthan,Hepatitis,1,1,0,1,1,1,0,0,0,0,0,0
+Odisha,Malaria,1,1,1,0,0,1,1,0,1,0,0,0
+Bihar,Dengue,1,0,1,1,0,0,1,0,0,1,1,0
+Maharashtra,Typhoid,0,0,1,0,1,0,1,0,0,0,0,0
+Odisha,Amoebiasis,0,0,1,0,0,1,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,0,1,0,0,0,0,1,0,0
+Uttar Pradesh,Dengue,1,0,1,1,1,0,0,0,0,0,1,0
+Maharashtra,Dengue,1,1,0,0,0,0,1,0,0,0,0,0
+Delhi,Malaria,1,1,1,0,0,0,0,0,1,0,0,0
+Odisha,Typhoid,1,1,0,1,1,0,0,0,0,0,0,0
+Maharashtra,Cholera,0,0,0,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Cholera,0,1,0,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Cholera,0,1,0,1,1,1,0,0,0,0,0,1
+Rajasthan,Amoebiasis,1,1,0,1,1,0,1,0,0,0,0,0
+Karnataka,Amoebiasis,1,0,0,0,0,1,1,0,0,0,0,0
+Delhi,Typhoid,1,1,1,0,1,0,0,0,1,0,0,1
+Odisha,Amoebiasis,1,1,1,1,1,1,1,0,0,0,0,0
+Odisha,Cholera,1,0,0,0,1,1,0,0,0,0,0,0
+Bihar,Cholera,0,0,1,1,0,1,0,0,0,0,0,0
+Maharashtra,Dengue,1,0,1,1,0,0,0,0,1,0,1,0
+Bihar,Amoebiasis,1,1,0,0,1,1,1,0,0,0,0,0
+Maharashtra,Malaria,1,0,0,1,0,0,1,0,1,0,0,0
+Assam,Malaria,1,1,0,0,0,0,0,0,1,0,0,0
+Karnataka,Dengue,1,1,1,1,1,0,0,1,0,0,0,1
+Rajasthan,Dengue,1,1,1,0,0,0,1,0,1,0,0,0
+Karnataka,Cholera,0,0,0,1,0,1,0,0,0,0,0,0
+Karnataka,Dengue,1,1,1,0,1,0,0,0,0,1,1,0
+Bihar,Typhoid,1,0,0,1,1,0,1,0,0,0,0,0
+Maharashtra,Dengue,1,1,1,0,1,0,1,0,0,1,0,0
+Gujarat,Hepatitis,0,1,0,1,0,0,0,1,0,0,1,0
+Assam,Dengue,1,1,1,0,0,0,1,0,1,1,0,0
+West Bengal,Malaria,1,1,1,1,0,0,0,0,1,0,0,0
+Karnataka,Amoebiasis,0,0,1,0,1,0,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,0,1,0,0,0,1,0,0,0,0,0
+Bihar,Amoebiasis,1,0,1,0,0,1,0,0,0,0,0,0
+Delhi,Hepatitis,1,1,0,1,0,0,0,1,0,0,0,0
+Rajasthan,Typhoid,0,1,0,1,1,0,1,0,0,0,0,0
+West Bengal,Amoebiasis,1,0,1,1,1,1,0,0,0,0,0,0
+Gujarat,Cholera,0,0,1,0,0,1,1,0,0,0,1,0
+Tamil Nadu,Dengue,1,1,1,1,0,0,1,0,0,1,0,0
+Gujarat,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,0
+West Bengal,Hepatitis,1,0,0,1,1,0,0,0,0,0,0,0
+Karnataka,Amoebiasis,0,0,1,0,0,1,0,0,0,0,0,0
+Tamil Nadu,Typhoid,1,0,1,0,0,0,1,0,0,0,0,0
+Gujarat,Malaria,1,0,1,0,0,0,0,1,1,0,0,1
+Rajasthan,Dengue,1,0,1,1,0,0,1,0,1,1,0,0
+Maharashtra,Hepatitis,1,1,0,1,0,0,1,1,0,0,0,0
+Uttar Pradesh,Typhoid,0,1,1,0,1,1,1,0,0,0,0,0
+West Bengal,Hepatitis,0,1,0,1,1,0,1,1,0,0,0,0
+Bihar,Typhoid,0,1,0,1,0,1,1,0,1,0,0,0
+Uttar Pradesh,Malaria,1,1,0,0,0,0,1,0,1,0,0,0
+Assam,Malaria,1,0,0,1,1,0,0,0,1,0,0,0
+Tamil Nadu,Amoebiasis,0,0,1,0,1,1,1,0,0,0,0,0
+Odisha,Dengue,1,0,1,1,0,0,0,0,1,1,1,0
+Uttar Pradesh,Typhoid,1,0,1,0,1,1,1,0,0,0,0,0
+Assam,Hepatitis,0,1,0,0,0,1,0,1,0,0,0,0
+Gujarat,Amoebiasis,1,0,0,0,1,1,0,0,0,0,0,0
+Maharashtra,Dengue,1,1,1,1,0,1,0,0,0,0,0,0
+Gujarat,Hepatitis,1,0,1,1,0,0,1,1,0,0,0,0
+Uttar Pradesh,Malaria,1,0,0,1,0,0,1,0,1,0,0,0
+Uttar Pradesh,Typhoid,0,0,0,1,1,0,1,0,1,0,0,0
+West Bengal,Typhoid,1,1,1,1,0,1,1,0,1,0,0,0
+Gujarat,Malaria,1,1,1,1,1,0,1,0,1,0,0,1
+Kerala,Hepatitis,1,1,0,1,1,0,0,1,0,0,0,0
+Delhi,Typhoid,1,0,0,1,1,1,1,0,0,0,0,0
+Maharashtra,Hepatitis,1,1,0,1,0,0,0,1,0,1,0,0
+Uttar Pradesh,Amoebiasis,0,0,0,1,0,1,0,0,0,0,0,0
+West Bengal,Hepatitis,0,1,0,1,1,0,0,1,0,0,0,0
+Odisha,Dengue,1,1,1,1,1,0,0,0,0,1,0,0
+Gujarat,Malaria,1,1,0,1,0,0,0,0,1,1,0,0
+Maharashtra,Hepatitis,1,1,0,1,0,0,0,1,0,0,1,0
+Odisha,Amoebiasis,1,1,0,1,0,1,1,0,0,0,0,0
+Gujarat,Cholera,1,1,0,0,0,0,0,0,0,0,0,0
+Assam,Malaria,1,0,1,0,0,1,0,0,1,0,1,0
+Odisha,Typhoid,1,1,0,1,1,1,1,0,0,0,1,0
+West Bengal,Dengue,1,1,1,0,1,0,1,0,0,0,1,0
+Maharashtra,Typhoid,1,1,1,1,1,0,1,0,1,0,0,0
+Karnataka,Amoebiasis,0,1,1,1,1,1,1,0,0,1,0,0
+Tamil Nadu,Amoebiasis,1,0,0,1,0,1,0,0,0,0,0,0
+Tamil Nadu,Typhoid,1,1,0,1,1,1,1,0,0,0,0,0
+Maharashtra,Malaria,1,0,1,1,0,1,1,0,1,0,0,0
+Odisha,Typhoid,1,0,1,0,1,1,1,0,1,0,0,0
+Gujarat,Hepatitis,0,1,0,1,0,0,0,1,0,0,0,0
+West Bengal,Typhoid,1,1,1,0,0,0,1,0,0,0,1,0
+Delhi,Dengue,1,0,1,1,1,0,0,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,0,1,0,1,0,1,1,0,0
+West Bengal,Cholera,0,0,1,1,1,1,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,0,0,1,1,0,0,0,1,0
+Assam,Typhoid,1,1,0,1,1,0,0,0,0,0,0,0
+Gujarat,Dengue,1,1,0,1,0,0,0,0,0,0,0,0
+Assam,Malaria,1,0,0,0,0,0,0,0,1,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,1,0,0,0,1,0,0,0
+Assam,Cholera,0,1,0,0,0,1,0,0,0,0,0,0
+Karnataka,Hepatitis,0,1,1,1,0,0,1,0,0,0,1,0
+Tamil Nadu,Typhoid,1,1,1,1,0,0,1,1,0,0,0,0
+Maharashtra,Typhoid,1,0,0,1,0,0,0,0,0,0,1,0
+Assam,Typhoid,0,0,1,1,0,0,1,0,0,0,0,0
+Delhi,Hepatitis,1,0,0,0,0,0,0,1,0,1,0,0
+Delhi,Hepatitis,1,0,0,0,0,0,0,1,0,0,0,0
+Bihar,Hepatitis,1,1,0,1,0,0,1,1,0,0,0,0
+Odisha,Malaria,1,1,0,0,0,0,0,1,1,0,0,0
+Gujarat,Amoebiasis,0,0,0,1,0,1,1,0,0,0,0,0
+Karnataka,Malaria,1,0,0,0,1,0,1,0,1,0,0,0
+Karnataka,Typhoid,1,0,0,1,1,1,1,0,0,0,0,0
+Odisha,Amoebiasis,0,0,1,0,1,0,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,1,1,0,0,0,0,0,1,0
+Kerala,Typhoid,1,1,1,0,0,1,0,0,0,0,0,0
+Assam,Cholera,1,1,0,0,1,1,0,0,0,0,1,0
+Rajasthan,Malaria,1,1,0,0,0,0,0,0,1,0,0,1
+Karnataka,Hepatitis,1,0,0,1,0,1,1,1,0,0,1,0
+Gujarat,Malaria,0,0,0,1,1,1,0,0,1,0,0,0
+Bihar,Hepatitis,0,0,0,0,1,1,1,1,0,0,0,1
+Delhi,Amoebiasis,0,0,0,1,1,1,1,0,0,0,0,1
+Karnataka,Cholera,0,0,0,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Cholera,1,0,0,0,1,1,0,0,0,0,0,0
+Tamil Nadu,Malaria,1,1,1,0,0,0,0,0,1,0,0,0
+Kerala,Hepatitis,1,1,0,0,0,0,1,1,0,0,0,0
+Maharashtra,Amoebiasis,1,1,0,0,0,1,1,0,0,0,0,0
+Rajasthan,Cholera,0,0,0,1,1,1,1,0,0,0,1,0
+Uttar Pradesh,Typhoid,1,1,1,0,0,0,1,0,0,0,0,1
+Kerala,Typhoid,0,1,0,1,0,0,1,0,0,0,0,1
+Uttar Pradesh,Hepatitis,1,1,0,0,0,0,1,1,0,0,0,0
+Assam,Amoebiasis,1,0,0,1,1,1,1,0,0,0,0,0
+Gujarat,Malaria,1,1,1,0,0,1,0,0,1,0,0,0
+West Bengal,Cholera,0,0,1,1,1,1,0,0,0,0,1,0
+West Bengal,Malaria,1,0,1,1,0,0,0,0,1,0,0,0
+Kerala,Typhoid,1,1,1,1,0,1,1,0,0,0,0,0
+Odisha,Cholera,0,0,0,1,1,0,0,0,0,0,0,0
+Maharashtra,Amoebiasis,1,0,1,1,0,1,1,0,0,0,0,0
+Odisha,Malaria,1,1,1,0,0,0,0,0,1,0,0,0
+Kerala,Dengue,1,1,1,1,0,0,1,0,0,0,0,0
+Assam,Hepatitis,0,1,0,1,0,0,0,1,0,0,0,0
+Delhi,Hepatitis,1,0,0,0,0,0,0,0,0,0,0,0
+Karnataka,Dengue,1,0,1,1,0,0,0,0,0,1,0,0
+Karnataka,Typhoid,0,1,0,1,1,0,1,0,0,1,0,0
+Maharashtra,Cholera,1,0,1,1,1,0,0,0,0,0,0,0
+Assam,Hepatitis,0,0,0,0,1,0,1,1,0,0,0,0
+Maharashtra,Dengue,1,1,1,1,0,0,0,0,0,0,1,0
+Odisha,Dengue,1,1,1,1,1,0,1,0,1,0,0,0
+West Bengal,Typhoid,1,1,1,0,1,1,0,0,0,0,0,0
+Odisha,Malaria,1,0,1,1,0,0,0,0,1,0,1,0
+Rajasthan,Hepatitis,1,1,0,1,0,1,0,1,0,0,0,0
+Gujarat,Malaria,1,1,1,0,0,0,1,0,1,1,0,0
+Assam,Dengue,1,1,1,0,1,0,0,0,0,0,1,0
+Uttar Pradesh,Cholera,1,0,0,0,0,1,0,0,0,0,1,0
+Maharashtra,Cholera,0,0,0,1,1,1,0,0,0,0,0,0
+Odisha,Typhoid,1,1,0,1,0,1,0,0,0,0,0,0
+Gujarat,Cholera,0,0,1,1,1,1,0,0,0,0,0,0
+Odisha,Cholera,0,0,0,1,1,1,0,0,1,0,0,0
+Uttar Pradesh,Cholera,0,1,0,1,0,1,1,0,0,0,0,0
+Rajasthan,Cholera,0,0,1,0,1,1,0,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,1,1,0,0,1,1,1,0,0,0,0,0
+Kerala,Cholera,0,0,0,1,1,1,1,1,0,0,0,1
+Tamil Nadu,Cholera,1,0,0,1,0,1,0,0,0,0,0,0
+Kerala,Malaria,1,1,1,1,1,0,1,0,1,0,0,0
+Karnataka,Dengue,1,1,1,1,0,0,0,1,0,1,1,0
+Odisha,Typhoid,0,0,0,1,0,1,1,0,0,0,0,0
+Tamil Nadu,Dengue,0,1,1,0,1,0,0,0,1,1,0,1
+Delhi,Amoebiasis,0,1,1,1,1,1,1,0,0,0,0,0
+Odisha,Dengue,1,1,0,0,1,0,0,0,0,0,1,0
+Tamil Nadu,Hepatitis,1,1,0,1,0,0,0,1,0,0,0,0
+West Bengal,Hepatitis,1,1,0,1,1,1,1,1,0,1,0,0
+Maharashtra,Hepatitis,1,0,0,0,0,0,0,1,1,1,0,0
+Maharashtra,Typhoid,1,0,0,1,0,1,0,0,0,0,0,0
+West Bengal,Cholera,1,1,1,0,1,1,0,0,0,0,0,1
+Gujarat,Dengue,1,1,1,1,1,0,0,0,0,0,0,0
+Gujarat,Cholera,1,0,0,0,1,1,0,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,1,1,1,0,0,1,1,0,0,0,0,0
+Uttar Pradesh,Hepatitis,1,1,1,1,0,0,1,1,0,0,0,0
+Tamil Nadu,Typhoid,0,1,0,1,0,0,1,0,1,0,0,0
+Kerala,Amoebiasis,1,0,0,0,1,1,1,0,0,0,0,0
+Maharashtra,Typhoid,0,1,0,1,1,1,1,0,0,0,0,0
+Assam,Cholera,1,0,0,1,1,1,1,0,0,1,0,0
+Gujarat,Typhoid,1,1,1,1,1,0,0,0,0,0,0,0
+Odisha,Malaria,1,0,1,1,0,0,1,0,1,0,0,0
+Karnataka,Hepatitis,0,0,0,1,1,0,0,1,0,0,0,0
+Rajasthan,Malaria,1,0,1,1,1,0,0,0,1,0,0,0
+Kerala,Amoebiasis,0,0,1,1,0,1,1,0,1,0,0,0
+Odisha,Cholera,0,0,0,1,1,1,1,0,0,0,1,0
+Rajasthan,Malaria,1,0,1,1,0,0,0,0,1,0,0,0
+Odisha,Malaria,1,1,0,0,1,0,0,0,1,0,0,0
+Tamil Nadu,Malaria,1,1,0,0,0,0,0,0,1,0,0,0
+Rajasthan,Typhoid,0,0,0,1,0,0,1,0,0,0,0,0
+Karnataka,Amoebiasis,1,0,1,1,1,1,1,0,0,0,0,0
+Odisha,Typhoid,0,0,0,1,1,0,1,0,0,0,0,0
+West Bengal,Cholera,1,0,1,1,0,1,1,0,0,1,0,0
+Karnataka,Malaria,1,0,1,0,0,0,1,0,1,0,0,0
+Rajasthan,Amoebiasis,0,0,0,0,1,1,1,0,0,0,0,0
+Karnataka,Amoebiasis,0,0,0,0,1,0,1,0,0,0,0,0
+Odisha,Dengue,1,1,1,1,1,0,0,0,0,1,1,0
+Bihar,Cholera,0,1,1,0,0,1,1,0,0,0,0,0
+Odisha,Malaria,1,0,1,1,1,0,0,0,1,0,0,0
+Tamil Nadu,Malaria,1,1,1,1,0,0,1,0,1,0,0,0
+West Bengal,Typhoid,1,0,1,1,1,1,0,0,0,0,0,0
+Delhi,Cholera,0,1,0,0,1,1,1,0,0,0,0,0
+Kerala,Malaria,1,1,1,0,0,1,1,1,0,0,0,0
+Uttar Pradesh,Amoebiasis,1,0,0,1,0,1,1,0,0,0,0,0
+Gujarat,Malaria,1,1,1,0,0,0,0,1,1,0,1,0
+Uttar Pradesh,Amoebiasis,1,0,1,1,0,1,1,0,0,0,0,0
+Tamil Nadu,Cholera,1,0,1,1,1,1,0,0,0,0,0,0
+West Bengal,Amoebiasis,1,0,1,1,0,1,1,1,0,0,0,0
+Odisha,Dengue,1,1,1,1,0,0,0,0,1,1,1,0
+Maharashtra,Amoebiasis,1,0,0,0,1,1,0,0,0,0,0,0
+Kerala,Amoebiasis,0,1,0,1,1,1,1,0,0,0,0,0
+Bihar,Cholera,1,0,0,1,1,1,0,0,0,0,0,0
+Rajasthan,Cholera,1,1,0,1,1,1,0,0,0,0,0,0
+Bihar,Dengue,1,1,1,1,1,1,1,0,0,1,0,0
+Delhi,Hepatitis,1,0,1,1,1,0,1,0,0,0,0,1
+Tamil Nadu,Amoebiasis,1,0,0,1,1,0,1,0,0,0,0,0
+Assam,Cholera,0,0,0,0,0,1,1,0,0,0,0,0
+Rajasthan,Amoebiasis,1,0,0,0,1,1,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,0,1,0,1,1,1,1,0,0,0,0,1
+Kerala,Malaria,1,1,1,1,0,1,0,0,1,0,0,0
+Uttar Pradesh,Malaria,1,1,0,1,0,1,1,0,1,0,0,0
+Bihar,Typhoid,1,1,0,0,0,1,1,0,0,0,1,0
+Uttar Pradesh,Typhoid,0,1,1,1,1,1,0,0,0,0,0,0
+Delhi,Cholera,0,0,1,1,1,1,1,0,0,0,0,0
+Karnataka,Hepatitis,1,1,1,0,0,0,1,1,0,0,0,0
+Kerala,Amoebiasis,1,0,0,0,1,1,1,0,0,0,1,0
+Delhi,Dengue,1,1,1,1,0,0,0,0,1,1,0,1
+Delhi,Typhoid,1,0,0,0,0,1,1,1,1,0,0,0
+Uttar Pradesh,Typhoid,1,1,0,1,0,0,1,0,0,0,0,1
+Uttar Pradesh,Hepatitis,1,0,0,0,1,0,0,1,0,0,0,0
+Bihar,Malaria,1,1,1,1,0,0,0,0,1,0,0,0
+Gujarat,Malaria,1,1,0,0,1,1,0,0,1,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,0,0,0,1,1,0,0,0,0,0
+Tamil Nadu,Cholera,0,0,0,0,0,1,0,0,0,0,0,0
+Assam,Hepatitis,1,1,0,1,0,0,1,1,0,0,0,0
+Kerala,Dengue,1,1,1,1,1,0,0,0,0,0,1,0
+Odisha,Dengue,1,1,1,1,1,0,0,0,0,1,1,1
+Uttar Pradesh,Hepatitis,0,0,1,1,0,0,1,1,0,0,0,0
+Tamil Nadu,Dengue,1,0,1,1,1,1,0,0,0,1,1,0
+Kerala,Dengue,1,1,1,1,1,0,1,0,0,1,0,0
+Maharashtra,Dengue,1,1,1,0,1,0,0,0,0,1,1,0
+Tamil Nadu,Hepatitis,1,0,1,1,0,0,0,1,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,0,0,0,1,0,1,0,0
+Tamil Nadu,Typhoid,1,0,0,1,1,1,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,0,1,0,1,0,0,0,1,0,0,0,0
+Karnataka,Cholera,0,0,0,0,0,1,0,0,0,0,0,0
+Karnataka,Cholera,1,0,0,1,0,1,1,0,0,0,0,0
+Maharashtra,Malaria,1,0,0,0,0,0,0,0,1,0,1,0
+Uttar Pradesh,Dengue,1,1,1,0,1,0,0,0,0,1,1,0
+Gujarat,Malaria,0,1,0,1,1,0,0,0,1,0,0,0
+Uttar Pradesh,Dengue,1,1,1,0,0,1,0,0,0,1,0,0
+West Bengal,Cholera,1,0,1,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,1,1,1,0,1,0,1,0,0,1,0,0
+Uttar Pradesh,Typhoid,0,1,1,1,0,1,1,0,0,0,0,0
+Odisha,Amoebiasis,1,0,0,1,1,1,1,0,0,0,0,0
+Rajasthan,Hepatitis,1,0,1,0,0,0,1,1,0,0,0,0
+Assam,Dengue,1,0,1,1,0,0,0,1,0,1,1,0
+Karnataka,Hepatitis,1,0,0,0,1,0,1,1,0,0,0,0
+Karnataka,Amoebiasis,1,1,0,0,1,1,0,0,0,0,0,0
+Bihar,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,0
+Kerala,Cholera,0,0,0,1,1,1,0,0,1,0,0,0
+Kerala,Typhoid,0,1,0,0,0,0,1,0,0,0,0,1
+Maharashtra,Hepatitis,0,0,0,1,0,0,1,0,0,0,0,0
+Delhi,Cholera,1,0,1,1,1,1,0,0,0,1,0,0
+Bihar,Typhoid,0,1,1,1,1,0,0,1,0,0,0,0
+Odisha,Dengue,1,1,1,1,0,1,0,0,0,1,1,0
+Uttar Pradesh,Amoebiasis,1,0,0,0,0,1,0,0,0,0,0,0
+Kerala,Dengue,0,1,1,1,1,0,1,0,1,0,1,0
+Odisha,Malaria,1,0,1,0,0,0,0,0,1,0,0,0
+Tamil Nadu,Cholera,0,0,1,1,1,1,0,0,0,0,0,0
+Delhi,Typhoid,1,0,0,0,1,0,0,0,0,0,0,0
+Gujarat,Hepatitis,1,0,1,1,1,0,0,1,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,1,0,0,0,0,0,0,1,0
+Assam,Typhoid,1,0,0,0,0,0,0,0,0,0,0,0
+Tamil Nadu,Malaria,1,1,1,1,1,0,1,0,1,0,0,0
+Bihar,Dengue,1,1,1,1,0,1,0,0,0,1,0,0
+Delhi,Amoebiasis,1,0,0,0,1,1,1,0,0,0,0,0
+Maharashtra,Typhoid,1,1,0,0,1,1,1,0,0,0,0,0
+Assam,Amoebiasis,0,1,1,1,0,1,1,0,0,0,0,0
+Kerala,Typhoid,0,1,1,1,0,1,1,0,0,0,0,0
+Odisha,Typhoid,0,1,0,1,0,1,1,0,1,0,0,0
+Bihar,Cholera,0,1,0,1,1,1,0,0,0,0,0,0
+Bihar,Hepatitis,0,0,0,1,0,0,0,1,0,0,0,0
+Bihar,Typhoid,1,1,1,0,1,0,1,0,0,0,0,0
+Delhi,Dengue,1,1,1,0,1,0,1,0,1,0,1,0
+Maharashtra,Amoebiasis,0,0,1,1,0,0,1,0,0,0,0,0
+Bihar,Cholera,1,0,0,1,0,1,0,1,0,0,0,0
+West Bengal,Cholera,0,0,0,0,1,1,0,0,0,0,0,0
+Gujarat,Amoebiasis,1,1,0,0,0,1,1,0,0,0,0,0
+Kerala,Amoebiasis,0,0,0,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,0,1,1,0,1,0,1,0,0,0,0,0
+Assam,Hepatitis,0,0,0,1,0,0,0,1,0,0,0,0
+Karnataka,Hepatitis,1,0,1,1,0,0,1,1,0,0,0,0
+Maharashtra,Cholera,0,0,1,1,1,1,1,0,0,0,0,0
+Tamil Nadu,Typhoid,1,1,0,1,0,1,1,0,0,0,0,1
+West Bengal,Typhoid,1,0,0,0,1,0,1,0,0,0,0,0
+Karnataka,Typhoid,1,0,0,1,0,0,1,0,1,0,0,0
+Rajasthan,Malaria,1,1,0,1,0,0,1,0,1,0,0,0
+Uttar Pradesh,Cholera,1,1,0,1,1,1,1,0,0,0,0,0
+Karnataka,Typhoid,1,1,0,1,1,0,1,1,0,0,1,0
+Uttar Pradesh,Hepatitis,1,0,0,1,1,1,1,1,0,0,0,0
+Odisha,Amoebiasis,0,0,0,1,1,0,1,0,0,0,1,0
+West Bengal,Dengue,1,1,0,1,1,0,0,0,0,1,0,0
+Rajasthan,Dengue,1,1,1,1,0,0,1,1,1,1,1,0
+Bihar,Dengue,1,1,1,1,0,0,0,1,0,1,0,0
+Kerala,Dengue,1,1,1,0,0,1,0,0,1,1,1,1
+Tamil Nadu,Malaria,1,0,1,1,0,0,0,0,1,0,1,0
+Delhi,Hepatitis,1,0,0,0,0,0,1,1,0,0,0,1
+Delhi,Malaria,0,1,1,1,0,0,1,1,1,0,1,0
+Delhi,Malaria,1,1,0,0,1,1,0,0,0,0,0,0
+Maharashtra,Dengue,1,1,1,1,1,0,1,1,0,1,1,0
+Gujarat,Cholera,1,1,0,1,1,1,0,0,0,0,0,0
+Assam,Amoebiasis,0,1,1,1,1,1,1,0,0,0,0,0
+Assam,Amoebiasis,0,1,0,1,0,1,1,0,0,0,0,0
+Kerala,Amoebiasis,0,1,0,0,0,1,1,0,0,0,0,0
+Rajasthan,Malaria,1,1,1,1,0,0,0,0,0,0,0,0
+West Bengal,Hepatitis,1,1,0,1,1,0,1,1,0,0,0,0
+West Bengal,Dengue,1,1,1,1,1,0,1,0,0,0,0,0
+Rajasthan,Cholera,1,0,1,1,0,1,1,0,0,0,1,0
+Gujarat,Dengue,1,1,1,0,0,0,0,0,0,0,1,0
+Maharashtra,Typhoid,1,1,0,0,0,0,1,1,0,0,0,0
+Delhi,Malaria,1,1,1,1,1,1,0,0,1,0,0,0
+Bihar,Hepatitis,0,1,0,1,0,1,1,1,0,0,0,0
+Karnataka,Hepatitis,0,0,0,1,0,1,1,1,0,0,0,0
+Maharashtra,Amoebiasis,1,0,1,1,1,0,1,0,0,0,0,0
+Maharashtra,Malaria,1,1,1,0,1,0,0,0,1,0,0,0
+Tamil Nadu,Typhoid,0,0,0,1,0,0,1,0,0,0,0,0
+Bihar,Dengue,1,1,1,1,0,0,0,0,0,1,1,0
+Odisha,Malaria,1,1,1,1,0,0,0,0,1,0,0,0
+Karnataka,Malaria,0,1,1,0,1,0,1,0,1,1,0,0
+Kerala,Typhoid,1,0,0,0,0,0,0,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,0,0,1,0,0,0,0,1,1,0
+Kerala,Cholera,0,1,0,0,0,1,0,0,0,0,0,0
+Uttar Pradesh,Cholera,0,0,0,1,1,0,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,0,1,1,1,0,0,1,0,0,1,0
+Gujarat,Amoebiasis,1,0,0,0,0,0,0,0,0,0,1,0
+Odisha,Malaria,1,0,0,1,0,1,1,0,1,0,0,0
+Karnataka,Hepatitis,1,0,0,0,0,0,1,0,0,0,0,0
+Bihar,Typhoid,1,1,0,1,1,0,0,0,1,0,0,0
+Uttar Pradesh,Cholera,1,0,0,0,1,1,0,0,0,1,0,0
+Karnataka,Malaria,1,1,1,0,1,0,0,0,1,0,0,0
+Delhi,Typhoid,1,1,0,1,1,0,1,0,1,1,0,0
+Gujarat,Amoebiasis,0,1,1,1,1,1,1,1,0,0,0,0
+Karnataka,Typhoid,1,1,0,0,1,1,1,0,0,0,0,0
+Gujarat,Malaria,1,1,0,1,0,0,0,0,1,0,0,0
+Gujarat,Amoebiasis,0,1,0,0,1,1,1,0,0,0,0,0
+Kerala,Typhoid,1,1,1,1,0,0,1,0,0,0,0,0
+Delhi,Malaria,1,1,1,1,0,0,1,1,1,0,0,0
+Uttar Pradesh,Malaria,1,1,0,0,1,1,0,1,1,0,0,0
+Karnataka,Amoebiasis,0,0,0,0,0,1,1,0,0,0,0,0
+West Bengal,Dengue,1,1,0,0,1,0,0,0,0,0,1,0
+Rajasthan,Typhoid,1,1,0,0,1,0,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,0,0,0,1,1,1,0,0,0,0,0,0
+Maharashtra,Dengue,1,0,1,1,1,0,1,0,0,1,1,0
+West Bengal,Dengue,1,0,0,0,0,0,0,1,0,0,0,0
+Rajasthan,Dengue,1,1,1,1,0,1,0,0,0,1,0,0
+Kerala,Cholera,1,0,0,1,1,1,1,0,0,0,0,0
+Karnataka,Cholera,1,1,0,0,0,1,1,0,0,0,0,0
+Odisha,Amoebiasis,1,0,1,0,0,0,0,0,0,0,0,0
+Assam,Cholera,0,0,0,1,1,1,1,0,0,1,0,0
+Rajasthan,Malaria,1,0,0,1,1,0,0,0,1,0,0,0
+Karnataka,Typhoid,1,1,0,0,1,1,0,0,0,1,0,0
+Delhi,Hepatitis,1,0,0,1,1,0,0,1,0,0,0,1
+Rajasthan,Malaria,1,1,0,1,0,1,1,0,1,0,0,0
+Maharashtra,Typhoid,1,1,1,0,0,0,0,0,1,0,0,0
+Assam,Typhoid,1,1,0,1,0,1,1,1,0,0,1,0
+Maharashtra,Amoebiasis,1,1,1,0,1,1,1,0,0,0,0,0
+Assam,Dengue,1,1,1,1,1,0,1,0,1,1,1,0
+Delhi,Dengue,1,1,1,1,0,0,0,0,1,1,0,0
+Bihar,Dengue,1,1,1,1,0,0,0,0,1,1,1,0
+Karnataka,Typhoid,1,0,0,1,0,0,1,0,0,0,1,0
+Kerala,Dengue,1,1,1,1,0,0,0,0,0,1,1,0
+Maharashtra,Dengue,1,1,1,0,0,0,0,0,0,0,0,0
+Gujarat,Typhoid,0,0,1,1,0,0,1,0,0,0,0,0
+Assam,Amoebiasis,1,0,0,0,1,0,0,0,0,0,0,0
+Tamil Nadu,Malaria,1,1,1,0,1,0,0,0,1,0,0,0
+Odisha,Hepatitis,1,1,0,1,0,0,1,1,0,0,0,1
+Karnataka,Dengue,1,1,1,0,1,0,1,0,0,1,0,0
+Assam,Typhoid,1,1,1,1,1,0,0,0,0,0,0,0
+Gujarat,Hepatitis,0,0,0,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Hepatitis,1,0,0,1,0,0,1,1,0,0,0,0
+Assam,Cholera,0,1,1,1,1,1,0,0,0,0,0,0
+Kerala,Hepatitis,0,1,0,0,0,0,1,1,0,0,0,0
+Karnataka,Amoebiasis,0,0,0,0,1,1,0,0,0,0,0,0
+Odisha,Typhoid,1,0,1,1,1,1,1,0,0,0,0,1
+Gujarat,Typhoid,1,1,1,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,0,1,0,1,1,1,0,1,0
+West Bengal,Dengue,1,1,1,0,0,0,0,1,1,1,0,0
+Gujarat,Dengue,1,1,1,0,1,0,0,0,0,1,1,0
+West Bengal,Amoebiasis,1,0,1,0,0,1,1,0,0,0,0,0
+Karnataka,Hepatitis,0,1,0,0,1,0,1,1,0,0,0,0
+Maharashtra,Hepatitis,1,1,0,1,1,0,0,1,0,1,0,0
+Gujarat,Cholera,0,0,0,1,1,1,0,0,0,0,0,0
+West Bengal,Dengue,1,0,1,1,1,0,0,0,0,1,0,0
+Kerala,Malaria,0,1,1,0,0,0,0,0,1,1,0,0
+Bihar,Cholera,0,0,1,1,1,1,0,0,0,0,0,0
+Rajasthan,Malaria,1,1,0,0,1,1,0,0,1,0,0,0
+Rajasthan,Hepatitis,1,0,0,0,1,0,0,1,0,0,0,0
+Uttar Pradesh,Cholera,1,0,0,1,1,1,0,0,0,0,1,0
+Odisha,Cholera,1,0,0,1,1,1,1,0,0,0,0,0
+Maharashtra,Typhoid,1,0,0,1,0,1,1,1,1,0,0,0
+Tamil Nadu,Amoebiasis,1,0,0,1,0,1,1,0,0,0,0,0
+Kerala,Cholera,0,0,0,0,0,1,0,0,0,0,0,0
+West Bengal,Hepatitis,1,0,0,1,0,0,1,0,0,0,0,0
+Bihar,Amoebiasis,1,1,0,1,1,1,0,0,0,0,0,0
+Delhi,Amoebiasis,1,0,0,1,0,1,1,0,0,0,0,0
+Rajasthan,Typhoid,1,1,0,0,0,1,1,0,0,0,0,0
+Delhi,Cholera,1,1,0,1,1,1,1,0,0,0,0,0
+Kerala,Hepatitis,0,1,0,0,1,0,0,1,0,0,0,0
+Tamil Nadu,Hepatitis,1,1,0,1,1,0,1,0,0,0,0,0
+Gujarat,Cholera,0,0,0,1,0,1,0,0,0,1,0,0
+Uttar Pradesh,Cholera,0,0,0,0,0,1,0,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,1,0,0,1,0,0,1,0,1,0,0
+Kerala,Amoebiasis,1,0,0,1,1,1,1,0,0,0,0,0
+Kerala,Hepatitis,0,0,0,1,1,1,1,1,0,1,0,0
+Assam,Dengue,1,0,1,0,0,1,0,0,1,1,1,0
+West Bengal,Cholera,0,0,1,1,1,1,0,0,0,0,0,0
+Delhi,Typhoid,1,1,0,1,0,1,0,0,0,0,0,0
+Rajasthan,Cholera,0,0,1,1,0,1,1,1,0,0,0,0
+Assam,Cholera,1,0,1,0,1,1,0,0,0,0,0,0
+Gujarat,Dengue,1,0,1,1,1,0,0,0,1,1,1,0
+Assam,Hepatitis,1,0,0,1,0,1,1,1,0,1,0,0
+Maharashtra,Cholera,0,0,0,0,1,1,0,0,0,0,0,0
+Maharashtra,Hepatitis,1,0,0,1,0,1,1,0,0,0,0,0
+Rajasthan,Malaria,1,1,0,0,0,1,0,0,0,0,0,1
+Tamil Nadu,Amoebiasis,1,0,0,0,0,0,1,0,0,0,0,0
+West Bengal,Hepatitis,1,1,1,1,0,0,0,1,0,0,0,1
+Rajasthan,Typhoid,1,1,0,1,1,1,1,0,0,0,1,0
+West Bengal,Cholera,1,0,0,0,0,1,0,0,0,1,0,0
+Odisha,Amoebiasis,0,1,1,1,1,1,1,0,1,0,0,0
+Delhi,Hepatitis,1,0,0,1,0,0,0,1,1,0,0,0
+West Bengal,Amoebiasis,1,0,0,1,1,1,1,0,0,0,0,0
+Kerala,Dengue,1,1,1,0,0,0,0,0,0,0,0,0
+Uttar Pradesh,Typhoid,1,0,0,1,1,0,1,0,0,0,0,0
+Kerala,Dengue,1,1,1,1,0,0,1,0,0,1,0,0
+Maharashtra,Amoebiasis,0,0,0,0,1,1,1,0,0,0,0,0
+Gujarat,Amoebiasis,1,1,0,1,0,1,1,0,0,1,0,0
+Bihar,Cholera,0,0,0,1,1,1,1,0,0,0,0,0
+Delhi,Hepatitis,0,1,1,1,0,0,0,1,0,0,0,0
+Rajasthan,Amoebiasis,1,0,1,0,1,1,1,1,0,0,0,0
+Maharashtra,Hepatitis,1,0,1,1,0,0,0,1,0,0,0,0
+Odisha,Hepatitis,0,0,1,1,0,1,0,1,0,0,0,0
+Kerala,Dengue,1,0,0,0,0,1,0,0,0,0,1,0
+Karnataka,Dengue,1,1,1,1,1,0,0,1,0,0,0,0
+Kerala,Amoebiasis,0,0,0,0,1,0,1,0,0,0,0,0
+West Bengal,Amoebiasis,1,0,0,1,0,1,1,0,0,0,0,0
+Maharashtra,Hepatitis,1,1,1,1,0,0,1,1,0,0,0,0
+West Bengal,Malaria,1,0,1,1,1,0,0,0,1,0,0,0
+Uttar Pradesh,Hepatitis,0,0,1,1,0,0,0,1,0,0,0,0
+West Bengal,Malaria,1,1,0,0,0,0,0,0,1,0,0,0
+Odisha,Typhoid,1,0,0,1,0,1,1,0,1,0,0,0
+Uttar Pradesh,Typhoid,1,1,0,1,0,1,1,0,0,0,0,0
+Karnataka,Cholera,0,0,0,1,0,1,0,0,0,0,1,0
+Kerala,Hepatitis,1,0,0,0,0,0,0,1,0,0,0,0
+Tamil Nadu,Amoebiasis,0,1,0,0,0,1,1,0,0,0,0,0
+Delhi,Dengue,1,0,1,1,1,0,0,0,1,1,0,0
+West Bengal,Cholera,1,0,1,0,1,1,0,0,0,1,0,0
+Maharashtra,Typhoid,1,0,0,1,1,0,1,0,0,1,0,0
+Uttar Pradesh,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,0
+Bihar,Hepatitis,1,0,0,0,0,0,0,1,0,0,0,1
+Karnataka,Cholera,1,1,0,0,0,1,0,1,0,0,0,0
+Tamil Nadu,Typhoid,1,1,1,1,0,1,0,0,0,0,0,0
+Assam,Malaria,1,1,1,0,0,1,0,0,1,0,0,0
+Karnataka,Typhoid,1,1,0,1,1,0,0,0,1,0,0,0
+Odisha,Hepatitis,0,0,1,1,1,0,0,1,0,0,1,0
+Bihar,Dengue,1,1,1,1,1,0,0,0,1,0,1,0
+Rajasthan,Typhoid,1,0,1,0,1,0,1,0,0,0,0,0
+Bihar,Amoebiasis,0,0,0,1,1,1,1,0,0,0,0,0
+West Bengal,Dengue,1,1,1,1,0,0,1,1,1,1,1,0
+Uttar Pradesh,Malaria,0,0,0,0,0,1,1,0,1,0,0,0
+Tamil Nadu,Cholera,0,0,0,0,1,1,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,1,0,0,1,0,0,0,0,0
+Gujarat,Cholera,0,0,0,1,1,1,0,0,1,0,0,0
+Delhi,Typhoid,0,0,0,1,0,0,0,0,1,0,0,0
+Rajasthan,Dengue,1,0,1,1,0,0,1,0,0,1,0,0
+Assam,Typhoid,1,1,1,1,0,1,0,0,1,0,0,0
+Maharashtra,Typhoid,1,0,0,0,0,0,1,1,0,0,0,0
+Tamil Nadu,Hepatitis,1,0,1,0,0,0,1,1,0,0,0,0
+Odisha,Malaria,1,0,0,0,1,1,0,0,0,0,0,0
+Odisha,Amoebiasis,1,0,0,1,1,1,1,0,1,0,0,0
+Bihar,Cholera,1,1,0,1,1,1,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,0,0,0,0,1,0,0,0
+Rajasthan,Malaria,1,1,1,0,0,0,0,0,0,0,0,0
+Delhi,Dengue,1,0,1,1,0,0,1,0,0,0,0,0
+Gujarat,Cholera,0,0,0,1,1,0,0,0,0,0,0,0
+Bihar,Hepatitis,1,0,0,0,0,0,1,1,0,0,0,0
+Odisha,Typhoid,1,0,1,0,1,1,1,0,0,0,0,0
+Maharashtra,Typhoid,1,1,1,1,1,1,1,1,1,0,0,0
+Maharashtra,Hepatitis,1,0,0,1,0,1,1,1,0,0,0,0
+Uttar Pradesh,Malaria,0,0,1,0,1,0,1,0,1,0,0,0
+Rajasthan,Malaria,1,1,1,0,0,0,0,0,1,0,0,0
+Kerala,Dengue,1,1,1,1,0,0,0,0,0,0,1,0
+Odisha,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,0
+Rajasthan,Malaria,1,1,1,0,1,1,1,0,1,0,0,0
+Delhi,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,0
+Gujarat,Cholera,0,1,0,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Typhoid,1,0,0,1,1,0,1,0,1,0,0,0
+Odisha,Typhoid,1,0,1,1,0,0,1,0,0,0,0,0
+Maharashtra,Typhoid,1,0,0,1,0,1,0,0,1,0,1,0
+Tamil Nadu,Hepatitis,1,1,0,1,0,0,1,1,1,0,0,0
+Tamil Nadu,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,1
+Tamil Nadu,Dengue,1,1,1,0,1,0,0,0,1,1,0,0
+Maharashtra,Typhoid,1,0,0,1,1,1,1,0,0,0,0,0
+Delhi,Dengue,1,1,0,0,0,0,1,1,0,1,0,0
+Karnataka,Typhoid,1,1,1,1,0,1,0,0,1,0,0,0
+West Bengal,Dengue,1,0,1,1,0,1,0,1,0,0,0,0
+Gujarat,Dengue,1,1,1,0,0,1,0,0,0,1,1,0
+Karnataka,Cholera,1,0,0,1,1,1,1,0,0,0,0,0
+Gujarat,Dengue,1,1,1,0,1,0,0,0,0,0,1,0
+Bihar,Hepatitis,1,1,0,0,0,1,0,1,0,0,0,0
+Rajasthan,Dengue,1,1,1,1,0,1,0,0,1,1,0,0
+Rajasthan,Typhoid,1,0,0,1,0,1,1,0,0,0,0,0
+Assam,Dengue,1,1,1,0,0,1,0,0,0,1,1,0
+Maharashtra,Amoebiasis,0,1,1,1,0,1,1,0,0,0,0,0
+Kerala,Typhoid,1,0,0,1,0,1,1,0,1,0,0,0
+Uttar Pradesh,Malaria,1,1,1,0,0,0,0,0,1,0,1,0
+Assam,Typhoid,1,0,0,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Hepatitis,1,0,1,1,0,0,1,1,0,0,0,0
+Gujarat,Amoebiasis,0,0,0,0,0,0,1,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,0,0,1,1,1,0,0,0,0,1
+Uttar Pradesh,Hepatitis,1,1,0,1,0,0,0,1,0,0,1,0
+Assam,Amoebiasis,1,0,0,0,1,1,1,0,0,0,0,1
+Tamil Nadu,Malaria,1,0,1,0,1,0,0,0,1,0,1,0
+Rajasthan,Cholera,1,0,0,0,0,0,0,0,0,0,0,0
+Rajasthan,Typhoid,0,0,0,0,0,0,1,0,1,0,0,0
+Maharashtra,Hepatitis,0,0,1,1,0,0,1,0,0,0,0,0
+Assam,Typhoid,0,1,0,1,0,0,1,0,0,0,0,0
+Maharashtra,Malaria,0,1,1,0,1,0,0,0,1,0,0,0
+Kerala,Cholera,0,0,0,1,0,1,0,1,0,0,0,0
+Kerala,Malaria,1,1,0,0,0,0,0,0,1,0,0,0
+Maharashtra,Amoebiasis,0,0,1,1,1,1,1,0,0,0,0,0
+Assam,Typhoid,1,0,1,0,1,0,1,0,1,0,0,0
+West Bengal,Amoebiasis,1,1,0,0,1,1,1,0,0,0,0,0
+Uttar Pradesh,Malaria,1,1,0,0,0,0,1,1,1,0,0,0
+West Bengal,Hepatitis,1,1,0,0,0,0,1,1,0,0,0,0
+Assam,Typhoid,1,1,0,1,0,0,1,0,0,0,0,0
+Delhi,Dengue,1,1,1,0,1,0,0,0,1,1,1,0
+West Bengal,Dengue,1,1,1,0,0,0,1,0,0,1,0,0
+Kerala,Malaria,0,0,1,0,1,0,1,0,1,0,0,0
+Gujarat,Typhoid,1,1,1,0,1,0,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,0,0,1,1,1,1,1,0,1,0,0,0
+Tamil Nadu,Malaria,1,1,1,1,0,0,1,1,1,0,0,0
+Delhi,Typhoid,1,1,0,1,1,1,0,0,1,0,0,0
+Assam,Hepatitis,0,1,0,0,1,0,1,1,0,0,0,0
+Uttar Pradesh,Malaria,1,1,0,1,0,0,0,0,1,0,1,0
+West Bengal,Hepatitis,1,0,0,0,0,0,1,1,0,0,0,0
+Kerala,Typhoid,1,1,0,1,1,1,1,0,0,0,0,0
+Bihar,Malaria,1,1,0,1,1,0,0,0,1,0,0,0
+Karnataka,Typhoid,1,1,0,0,0,0,1,0,0,1,0,0
+Tamil Nadu,Malaria,1,0,1,0,0,0,0,0,1,0,1,0
+Delhi,Typhoid,1,1,1,0,0,0,0,0,1,0,0,0
+Karnataka,Hepatitis,0,0,0,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Hepatitis,1,1,0,1,1,0,0,1,0,0,0,0
+Kerala,Typhoid,1,0,0,0,1,0,0,0,0,0,0,0
+Kerala,Malaria,1,1,1,1,0,0,0,0,1,0,0,1
+West Bengal,Dengue,1,0,1,1,0,0,0,0,0,1,1,0
+Rajasthan,Hepatitis,0,1,0,0,1,1,0,1,0,0,0,0
+West Bengal,Hepatitis,1,0,1,1,0,0,0,1,0,0,0,0
+Rajasthan,Amoebiasis,1,0,0,0,0,1,1,0,0,0,0,0
+Tamil Nadu,Typhoid,1,1,1,1,1,0,1,0,0,0,0,0
+West Bengal,Malaria,1,1,1,0,1,0,1,0,0,0,0,0
+Bihar,Typhoid,1,0,1,1,0,1,1,0,0,0,0,0
+Delhi,Cholera,0,0,0,1,1,1,0,0,0,0,0,0
+Maharashtra,Hepatitis,1,0,0,1,0,1,0,1,0,0,0,1
+Maharashtra,Cholera,1,0,1,1,1,1,0,0,0,0,0,0
+West Bengal,Hepatitis,1,1,0,0,0,0,0,1,0,0,0,0
+West Bengal,Hepatitis,1,0,1,1,1,0,0,1,1,0,0,0
+Karnataka,Cholera,0,0,0,1,1,1,1,0,0,0,0,1
+Delhi,Cholera,0,0,0,1,1,1,0,0,0,1,0,0
+Delhi,Typhoid,1,1,1,1,0,0,1,0,0,0,0,1
+Tamil Nadu,Amoebiasis,0,0,1,0,0,1,1,0,0,1,0,0
+West Bengal,Amoebiasis,0,0,0,1,1,0,1,0,0,0,0,0
+Delhi,Cholera,0,0,1,1,1,1,0,0,0,0,0,0
+Karnataka,Typhoid,0,1,0,0,1,0,1,0,0,0,0,0
+Kerala,Typhoid,0,1,1,1,1,1,0,0,1,0,0,0
+Kerala,Typhoid,1,1,1,0,1,0,1,0,0,0,1,0
+Rajasthan,Hepatitis,1,1,0,0,1,0,0,1,0,0,0,0
+Assam,Amoebiasis,0,0,1,1,0,0,1,0,0,0,0,0
+Delhi,Hepatitis,0,0,1,1,0,1,0,1,0,0,0,0
+Odisha,Cholera,1,0,0,1,1,0,1,0,0,0,1,0
+Karnataka,Hepatitis,1,1,0,1,0,0,0,1,0,1,0,0
+Rajasthan,Amoebiasis,0,0,0,1,0,1,1,0,0,1,0,0
+Bihar,Amoebiasis,1,0,0,1,1,1,1,1,0,0,0,0
+Gujarat,Cholera,0,0,0,0,1,1,0,0,0,1,0,0
+Uttar Pradesh,Hepatitis,1,0,0,1,1,0,0,0,0,0,0,1
+Rajasthan,Malaria,1,0,1,0,1,0,1,0,1,0,0,0
+Odisha,Malaria,0,0,1,0,1,1,0,1,0,0,0,0
+Delhi,Cholera,0,0,0,1,1,1,0,1,1,0,0,0
+Odisha,Hepatitis,1,0,0,1,0,0,1,1,0,0,0,0
+Odisha,Hepatitis,0,0,1,0,1,0,1,1,0,0,0,0
+West Bengal,Typhoid,0,1,0,1,1,0,0,0,0,0,1,0
+West Bengal,Amoebiasis,0,1,0,0,1,1,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,0,1,0,0,1,0,0,0,1,0,0
+Tamil Nadu,Dengue,1,0,1,1,0,0,0,0,0,0,1,0
+Rajasthan,Dengue,1,1,1,0,1,0,1,0,0,0,0,0
+Karnataka,Cholera,0,1,1,0,1,1,0,0,1,0,0,0
+Uttar Pradesh,Hepatitis,0,1,0,1,0,0,1,1,0,0,0,0
+Odisha,Cholera,1,0,0,1,1,0,0,0,0,0,0,1
+Karnataka,Dengue,1,1,1,1,1,0,0,0,1,1,0,0
+Gujarat,Amoebiasis,1,0,0,0,1,0,1,0,0,1,0,0
+Kerala,Amoebiasis,0,0,0,1,1,1,1,1,1,0,0,0
+Maharashtra,Amoebiasis,1,1,1,1,0,1,1,0,0,0,0,0
+Rajasthan,Hepatitis,0,0,1,1,1,0,0,1,0,0,0,0
+Delhi,Amoebiasis,1,1,0,0,0,1,1,0,0,0,0,0
+Assam,Cholera,1,0,0,1,1,1,0,1,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,1,1,0,0,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,0,0,0,0,0,0,1,1,0,0,0,0
+Tamil Nadu,Malaria,1,1,1,0,1,0,0,0,0,0,0,0
+Karnataka,Malaria,1,1,0,0,1,0,0,0,1,0,1,0
+West Bengal,Amoebiasis,0,1,1,0,1,1,1,0,0,0,0,0
+Assam,Typhoid,1,1,0,1,1,1,0,1,0,1,0,0
+Gujarat,Cholera,0,0,0,0,0,1,0,0,0,0,0,0
+Uttar Pradesh,Cholera,0,0,0,1,0,0,0,0,0,0,1,0
+Kerala,Dengue,1,1,1,1,0,0,0,0,0,0,1,1
+Assam,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,0
+Maharashtra,Dengue,1,1,1,1,0,0,0,0,1,1,1,0
+Rajasthan,Amoebiasis,0,1,0,1,0,1,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,1,1,0,0,0,1,0,1
+Gujarat,Malaria,1,1,1,0,0,0,0,0,0,0,0,0
+Tamil Nadu,Cholera,1,0,1,1,0,1,0,0,0,0,0,0
+Gujarat,Dengue,1,1,1,1,1,0,1,0,1,0,0,0
+Gujarat,Dengue,1,1,1,0,1,0,0,0,1,1,0,0
+Tamil Nadu,Amoebiasis,0,0,0,0,0,1,1,0,0,1,0,0
+Karnataka,Amoebiasis,0,1,0,0,0,0,1,0,0,0,0,0
+Gujarat,Amoebiasis,1,0,1,1,0,1,1,0,0,0,0,0
+Maharashtra,Cholera,0,0,1,0,1,1,1,0,1,0,0,0
+West Bengal,Dengue,1,0,1,1,0,1,0,1,0,1,1,0
+Gujarat,Hepatitis,0,0,0,1,0,0,0,1,0,0,0,0
+Karnataka,Dengue,1,1,1,0,0,0,0,0,0,1,1,0
+Delhi,Cholera,0,0,0,1,0,1,0,0,0,0,0,0
+Bihar,Cholera,0,0,0,0,1,0,0,0,0,0,0,0
+Bihar,Malaria,1,0,1,1,0,0,0,0,1,0,0,1
+Delhi,Amoebiasis,0,1,1,1,0,0,1,0,0,0,0,0
+Bihar,Typhoid,1,0,0,1,0,0,1,0,0,0,0,0
+Delhi,Cholera,1,0,1,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Cholera,0,0,0,0,1,1,0,0,0,0,0,0
+Delhi,Hepatitis,0,1,0,1,0,0,0,1,0,0,0,0
+Delhi,Dengue,1,0,1,1,1,0,0,0,1,0,0,0
+Odisha,Malaria,1,1,1,1,0,1,0,0,1,0,0,0
+Delhi,Malaria,1,0,1,1,0,1,0,1,1,0,0,0
+Maharashtra,Hepatitis,1,0,0,1,1,0,0,1,0,0,0,1
+Kerala,Hepatitis,0,0,0,1,0,0,0,1,0,0,0,0
+Rajasthan,Dengue,1,1,1,0,0,0,0,0,1,1,0,0
+Gujarat,Amoebiasis,1,1,0,0,1,1,0,0,0,0,0,0
+Assam,Dengue,1,1,1,1,0,0,1,0,0,1,0,0
+West Bengal,Cholera,0,0,0,0,1,1,1,0,0,0,0,0
+Kerala,Amoebiasis,0,0,1,0,1,0,1,0,0,0,0,0
+Tamil Nadu,Typhoid,1,1,1,1,0,0,1,0,0,0,0,0
+Rajasthan,Dengue,1,0,1,1,0,0,0,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,1,0,0,1,1,1,1,0,0,0,0,0
+Delhi,Dengue,1,1,1,0,0,1,1,0,0,1,1,0
+Kerala,Malaria,1,0,0,1,0,0,1,1,1,0,0,0
+Karnataka,Typhoid,0,1,0,1,1,1,1,0,0,0,0,0
+Odisha,Cholera,0,0,0,0,0,1,0,0,1,0,0,0
+Bihar,Malaria,1,1,1,0,0,0,0,0,1,0,1,0
+Tamil Nadu,Malaria,1,1,1,0,0,0,1,0,1,0,0,0
+Uttar Pradesh,Typhoid,1,1,1,1,1,0,1,0,0,0,0,0
+Assam,Cholera,0,0,1,1,0,1,1,0,0,0,0,0
+West Bengal,Amoebiasis,0,0,1,1,0,1,1,0,0,0,0,0
+Kerala,Dengue,1,1,1,1,0,1,0,0,0,1,0,0
+Kerala,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,0
+Odisha,Dengue,1,1,1,0,1,0,0,0,1,0,0,0
+Uttar Pradesh,Dengue,1,0,1,0,1,0,0,0,0,1,0,0
+Assam,Hepatitis,1,0,1,0,0,0,1,1,0,0,0,1
+Delhi,Hepatitis,1,0,0,1,0,0,0,0,0,0,0,0
+Rajasthan,Malaria,1,1,0,0,0,0,1,1,1,0,1,0
+Maharashtra,Hepatitis,1,1,1,0,1,0,1,1,0,0,1,0
+Uttar Pradesh,Dengue,1,1,1,1,0,0,1,0,1,0,0,0
+Rajasthan,Amoebiasis,1,0,1,1,1,1,1,0,0,0,0,0
+Maharashtra,Dengue,1,1,1,0,0,0,0,1,1,1,0,0
+Uttar Pradesh,Dengue,1,1,1,1,1,0,1,0,0,1,0,0
+Bihar,Dengue,1,1,1,0,1,1,0,0,1,1,1,0
+Bihar,Cholera,0,1,0,1,1,1,0,1,0,0,0,0
+Kerala,Cholera,1,0,1,0,1,1,0,0,0,0,0,0
+Uttar Pradesh,Malaria,0,0,1,0,0,0,0,0,1,0,0,0
+Bihar,Amoebiasis,0,0,0,1,1,1,0,0,0,0,0,0
+Kerala,Hepatitis,1,0,0,0,0,0,1,1,0,0,0,0
+Maharashtra,Hepatitis,0,0,1,0,1,0,1,1,0,0,0,0
+West Bengal,Cholera,0,0,0,1,0,1,1,0,0,0,0,0
+Rajasthan,Amoebiasis,0,0,1,1,1,1,1,0,0,0,0,0
+Assam,Dengue,1,1,0,1,1,0,0,1,0,1,0,1
+Assam,Dengue,1,1,1,1,1,0,1,0,0,1,0,0
+Maharashtra,Hepatitis,1,0,1,1,1,1,1,1,0,0,0,1
+Karnataka,Typhoid,0,1,0,0,0,1,1,0,0,0,0,0
+Karnataka,Typhoid,1,0,1,1,1,1,1,0,0,0,0,0
+Maharashtra,Dengue,1,1,1,0,0,1,0,0,0,1,0,0
+Bihar,Typhoid,0,1,1,1,1,1,0,0,0,0,0,0
+Odisha,Dengue,1,1,1,1,1,0,0,0,1,0,0,0
+Uttar Pradesh,Cholera,0,0,0,0,1,1,1,0,0,0,0,0
+Assam,Hepatitis,0,1,0,0,1,1,1,1,0,0,0,1
+Assam,Malaria,1,0,1,1,1,0,1,0,1,0,0,0
+Odisha,Hepatitis,0,0,0,1,0,1,0,1,0,0,0,0
+Bihar,Dengue,1,0,1,0,1,0,0,0,0,1,1,0
+Assam,Dengue,1,1,1,0,1,0,1,0,0,1,1,0
+Rajasthan,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,1
+Uttar Pradesh,Amoebiasis,1,1,1,1,0,1,1,0,0,0,0,0
+Gujarat,Dengue,0,0,1,0,1,0,0,0,0,0,1,0
+Assam,Typhoid,1,1,0,1,0,0,0,0,0,0,0,0
+Maharashtra,Typhoid,0,0,1,1,0,0,1,0,0,0,0,0
+Rajasthan,Dengue,1,1,1,0,0,0,0,0,1,0,1,0
+Assam,Dengue,1,1,1,1,1,0,0,0,1,1,0,0
+Delhi,Amoebiasis,1,0,1,1,1,1,0,0,0,0,0,1
+Rajasthan,Typhoid,1,1,0,0,0,0,1,0,0,0,0,0
+Kerala,Dengue,1,1,1,0,1,0,1,0,1,1,1,0
+Gujarat,Dengue,1,1,1,0,0,1,0,0,0,1,0,0
+Tamil Nadu,Amoebiasis,1,0,0,0,0,0,0,0,0,0,0,0
+Maharashtra,Amoebiasis,1,0,1,1,1,1,1,0,0,0,0,0
+Maharashtra,Hepatitis,0,1,0,0,0,1,0,1,0,0,0,0
+Odisha,Malaria,1,1,1,0,1,0,0,0,1,0,0,0
+Rajasthan,Typhoid,1,1,0,1,1,0,1,0,0,1,0,0
+Bihar,Hepatitis,0,1,0,1,0,0,1,1,1,0,0,0
+Maharashtra,Malaria,1,0,1,0,0,1,0,0,1,0,0,0
+Rajasthan,Dengue,0,1,1,1,1,0,1,0,0,0,0,0
+Rajasthan,Dengue,1,1,1,0,1,0,0,0,1,0,0,0
+Delhi,Hepatitis,0,0,0,1,0,0,0,1,1,0,0,0
+West Bengal,Amoebiasis,0,0,0,1,0,1,1,0,0,0,0,0
+West Bengal,Dengue,1,1,1,0,0,0,1,0,0,1,1,1
+Tamil Nadu,Cholera,0,0,0,1,1,1,1,0,1,0,0,0
+Kerala,Hepatitis,0,0,0,1,0,1,1,1,1,0,0,0
+Tamil Nadu,Malaria,1,0,1,0,0,1,0,0,1,0,0,0
+Assam,Hepatitis,1,1,1,1,0,0,1,1,0,0,0,1
+Bihar,Typhoid,1,1,1,1,1,0,1,0,0,0,1,0
+Assam,Amoebiasis,1,1,0,1,0,0,1,0,0,0,0,0
+Karnataka,Amoebiasis,0,1,0,1,1,1,1,0,0,0,0,0
+Assam,Hepatitis,0,0,1,1,1,0,0,1,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,0,0,0,1,0,0,1,0,0
+Assam,Dengue,1,0,1,1,0,0,0,0,1,1,1,0
+Tamil Nadu,Cholera,1,0,1,1,1,1,1,0,0,0,0,0
+Maharashtra,Cholera,0,0,0,1,0,1,0,0,0,0,0,0
+Maharashtra,Amoebiasis,1,1,0,1,1,1,0,0,0,0,0,0
+West Bengal,Cholera,0,0,1,0,0,1,1,0,0,0,0,0
+Bihar,Cholera,0,0,1,1,0,1,0,0,1,0,0,1
+Bihar,Malaria,1,0,1,1,0,0,1,0,1,0,0,0
+West Bengal,Amoebiasis,0,0,0,0,0,1,1,0,0,0,0,0
+Delhi,Malaria,1,1,1,1,1,0,0,0,1,0,1,0
+Karnataka,Hepatitis,1,1,0,0,0,0,1,1,0,0,0,1
+Bihar,Amoebiasis,0,0,1,0,1,0,1,0,0,0,0,0
+Maharashtra,Hepatitis,0,0,1,1,1,0,1,1,0,0,0,0
+Assam,Dengue,1,1,1,1,0,0,1,1,0,1,1,0
+Assam,Malaria,1,0,1,1,1,0,1,1,1,0,0,0
+Odisha,Amoebiasis,0,0,0,1,0,1,1,0,0,0,1,0
+West Bengal,Typhoid,1,0,1,0,1,1,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,0,1,0,1,0,0,0,0,1,0
+Tamil Nadu,Hepatitis,1,1,1,1,0,0,1,0,1,0,0,0
+Kerala,Amoebiasis,1,0,1,0,1,1,1,0,0,0,0,0
+Gujarat,Malaria,1,1,0,0,0,0,0,0,1,0,0,0
+Tamil Nadu,Typhoid,1,1,1,1,1,1,1,0,1,0,0,0
+Odisha,Hepatitis,1,1,0,1,0,1,1,1,0,0,0,0
+Maharashtra,Dengue,1,0,1,1,0,1,0,0,0,1,0,0
+West Bengal,Malaria,1,1,0,0,0,0,0,1,0,0,1,0
+Karnataka,Typhoid,0,1,1,0,0,0,1,0,0,0,0,0
+Kerala,Malaria,0,1,1,1,0,1,0,0,1,0,0,0
+Rajasthan,Cholera,0,0,0,1,1,1,0,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,1,0,0,1,0,0,1,0,0
+Karnataka,Malaria,1,0,0,0,0,0,0,0,1,0,0,0
+Rajasthan,Hepatitis,1,1,1,0,0,0,1,1,0,0,0,0
+Delhi,Amoebiasis,1,0,0,1,1,0,1,0,0,0,0,0
+Assam,Amoebiasis,1,0,0,0,0,1,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,1,1,0,1,0,0,0,1,0
+Bihar,Amoebiasis,0,1,1,1,1,1,1,0,0,0,0,0
+Maharashtra,Hepatitis,0,1,0,0,1,0,0,1,0,0,0,0
+Uttar Pradesh,Malaria,1,0,0,0,0,0,0,0,1,0,0,0
+Gujarat,Dengue,1,1,1,0,1,0,0,0,0,0,0,0
+Rajasthan,Amoebiasis,1,1,0,1,0,1,0,0,0,1,0,0
+Bihar,Amoebiasis,0,0,1,1,0,1,1,0,0,0,0,0
+Gujarat,Hepatitis,0,0,0,1,0,0,1,1,0,0,0,0
+Gujarat,Cholera,0,0,1,1,1,1,0,0,1,0,0,0
+Kerala,Malaria,0,0,0,1,0,0,0,1,1,0,0,0
+Delhi,Dengue,0,1,1,1,0,0,0,0,0,0,0,0
+West Bengal,Amoebiasis,1,1,0,0,1,0,1,0,0,0,0,0
+Karnataka,Typhoid,1,1,0,1,0,0,0,0,0,0,0,0
+Bihar,Cholera,0,0,0,1,1,1,0,0,1,0,0,0
+Assam,Amoebiasis,1,1,1,1,1,1,1,0,0,0,0,0
+Delhi,Typhoid,0,0,1,1,1,0,1,0,0,0,0,0
+Kerala,Amoebiasis,1,1,0,0,1,1,1,0,0,0,0,0
+Bihar,Malaria,1,1,1,1,1,0,1,1,1,0,0,0
+Tamil Nadu,Typhoid,1,1,0,1,0,1,0,0,1,0,0,0
+Karnataka,Amoebiasis,1,1,0,0,0,1,1,0,0,0,0,0
+West Bengal,Malaria,1,0,1,0,1,0,0,0,1,0,0,0
+Gujarat,Typhoid,0,0,0,1,0,1,1,0,0,0,0,0
+Kerala,Malaria,1,1,0,0,0,0,1,0,1,0,0,0
+Bihar,Malaria,1,1,1,0,0,0,1,0,1,0,0,0
+Uttar Pradesh,Typhoid,1,0,0,1,0,0,1,0,1,0,0,0
+Tamil Nadu,Typhoid,0,1,1,0,0,0,1,0,1,0,0,0
+Gujarat,Malaria,1,0,0,0,1,1,0,0,1,0,0,1
+Kerala,Cholera,1,1,0,1,0,1,0,0,0,0,0,0
+Karnataka,Typhoid,0,0,0,1,1,1,1,0,0,0,0,0
+Assam,Dengue,1,1,1,1,0,0,0,1,1,1,0,1
+Tamil Nadu,Hepatitis,1,0,0,1,0,0,1,1,0,0,0,0
+Karnataka,Malaria,1,0,0,0,0,0,1,0,1,0,0,0
+Kerala,Malaria,0,0,0,0,0,1,0,0,1,0,1,0
+Tamil Nadu,Hepatitis,1,0,0,0,1,0,0,1,0,0,1,0
+Delhi,Cholera,1,1,1,0,1,1,0,0,0,0,0,0
+Gujarat,Hepatitis,1,0,1,1,1,0,1,1,0,0,0,1
+Kerala,Typhoid,1,0,1,1,0,1,1,0,1,0,0,0
+Delhi,Hepatitis,1,0,1,1,0,0,1,1,0,0,0,0
+Rajasthan,Malaria,1,1,1,1,0,0,1,0,1,0,0,0
+Bihar,Hepatitis,1,1,1,1,1,0,1,1,0,0,0,0
+Odisha,Dengue,1,0,0,1,0,0,0,0,0,1,0,0
+Gujarat,Amoebiasis,1,0,1,0,1,1,1,0,0,0,0,1
+Tamil Nadu,Typhoid,1,1,0,1,1,1,0,0,0,0,0,0
+Assam,Hepatitis,0,1,1,1,0,1,0,1,0,0,0,1
+Karnataka,Typhoid,1,0,0,1,1,0,1,0,0,0,0,0
+Tamil Nadu,Malaria,1,1,1,0,0,0,1,1,1,1,0,0
+Odisha,Cholera,0,1,0,0,1,1,1,0,0,0,0,0
+Karnataka,Dengue,1,1,0,1,0,0,0,0,0,0,0,0
+Bihar,Cholera,1,0,0,1,0,1,1,0,0,0,0,0
+Odisha,Dengue,1,1,1,0,1,1,1,0,0,1,1,0
+Kerala,Hepatitis,0,0,1,1,0,1,0,1,0,0,0,0
+Delhi,Typhoid,0,1,0,0,0,1,1,0,0,0,0,0
+Uttar Pradesh,Hepatitis,1,0,0,1,1,0,0,1,1,0,0,0
+Maharashtra,Dengue,1,1,1,0,1,1,0,1,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,1,1,0,0,0,1,1,0
+West Bengal,Dengue,1,1,0,1,0,0,0,0,0,1,1,0
+Maharashtra,Amoebiasis,1,1,0,1,0,1,1,0,0,0,0,0
+Karnataka,Malaria,1,0,1,0,1,1,0,0,1,0,0,0
+Tamil Nadu,Typhoid,1,1,1,1,0,0,1,0,0,0,0,1
+Delhi,Hepatitis,1,0,0,0,1,0,0,1,0,0,0,0
+Rajasthan,Hepatitis,1,0,0,1,0,0,0,0,1,0,0,0
+Delhi,Cholera,1,0,0,0,0,0,1,0,1,0,0,0
+West Bengal,Dengue,1,1,1,1,1,0,0,1,0,0,1,0
+Uttar Pradesh,Dengue,1,0,1,1,0,0,0,0,0,0,0,0
+Delhi,Dengue,1,0,0,0,0,0,0,1,0,1,1,1
+Rajasthan,Cholera,1,0,1,1,1,1,0,0,0,0,0,0
+Maharashtra,Malaria,1,0,1,0,0,0,0,0,1,0,1,0
+Kerala,Amoebiasis,1,1,1,0,0,0,1,0,1,0,0,0
+Bihar,Typhoid,1,0,0,1,1,0,1,0,1,0,0,0
+Assam,Malaria,1,1,0,0,1,0,1,0,1,1,1,0
+Rajasthan,Hepatitis,1,0,0,1,0,0,1,1,0,0,0,0
+Kerala,Amoebiasis,1,0,1,1,0,1,1,0,0,0,0,0
+Kerala,Amoebiasis,0,0,1,0,0,0,0,0,0,0,0,0
+Tamil Nadu,Amoebiasis,1,1,0,1,1,1,1,0,0,0,0,1
+Rajasthan,Dengue,0,1,1,1,0,1,1,0,1,0,0,0
+Karnataka,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,0
+West Bengal,Amoebiasis,1,0,0,1,1,1,1,0,0,1,0,0
+Maharashtra,Hepatitis,1,0,0,0,1,1,1,1,0,0,0,0
+Maharashtra,Typhoid,1,0,0,0,1,0,1,0,1,0,0,0
+West Bengal,Typhoid,1,0,1,0,1,1,1,0,1,0,1,0
+Delhi,Cholera,0,0,0,0,0,1,0,0,0,0,0,0
+Uttar Pradesh,Cholera,1,0,0,0,1,1,0,0,0,0,0,0
+Delhi,Malaria,1,1,0,1,0,0,0,0,1,0,0,0
+Delhi,Typhoid,1,1,0,0,1,0,1,1,1,0,0,0
+Bihar,Typhoid,0,1,0,0,1,0,1,0,0,0,0,0
+Gujarat,Typhoid,1,0,1,1,0,1,1,0,0,0,0,0
+Bihar,Amoebiasis,1,0,1,0,1,1,0,0,0,0,0,0
+Gujarat,Hepatitis,0,0,0,0,0,0,0,0,0,0,0,0
+Gujarat,Amoebiasis,0,0,1,0,0,0,1,0,0,0,0,0
+Rajasthan,Dengue,1,1,1,1,0,1,0,0,0,0,0,0
+Uttar Pradesh,Cholera,0,1,0,0,1,1,0,0,0,0,0,0
+Uttar Pradesh,Typhoid,1,0,0,0,1,1,0,0,0,0,0,0
+Delhi,Cholera,1,0,0,1,0,1,0,0,0,0,0,0
+Karnataka,Malaria,1,1,1,1,0,1,0,0,1,0,0,0
+Assam,Malaria,1,0,1,0,1,0,0,0,1,0,0,0
+Maharashtra,Typhoid,1,0,0,1,0,0,0,0,0,0,0,0
+Bihar,Hepatitis,1,0,0,0,0,0,0,1,0,0,0,0
+Tamil Nadu,Amoebiasis,0,0,0,0,1,1,0,0,1,0,1,0
+Odisha,Amoebiasis,1,0,0,0,1,1,1,0,0,0,0,1
+Odisha,Dengue,1,1,0,1,0,0,1,0,1,1,0,0
+Maharashtra,Malaria,0,1,1,1,1,0,0,0,1,0,1,0
+Bihar,Cholera,0,0,0,1,0,1,0,0,0,0,0,0
+Maharashtra,Cholera,0,0,1,0,1,1,0,0,1,0,0,0
+Tamil Nadu,Malaria,1,1,1,0,1,0,1,0,1,0,0,0
+Odisha,Dengue,1,1,1,0,1,0,0,1,0,1,0,0
+Delhi,Amoebiasis,0,0,0,1,1,1,1,0,0,0,0,0
+Delhi,Cholera,1,0,0,1,1,1,0,0,0,0,0,0
+Uttar Pradesh,Hepatitis,0,1,0,1,0,0,0,1,0,1,0,0
+Karnataka,Cholera,0,0,1,1,1,1,1,1,0,0,0,0
+Gujarat,Hepatitis,0,1,0,1,1,0,0,1,0,0,0,0
+Assam,Amoebiasis,1,1,0,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,1,1,1,0,1,0,1,1,0,0,0,0
+Odisha,Dengue,1,1,1,0,1,0,1,0,0,1,0,0
+Rajasthan,Dengue,1,1,1,0,0,0,0,0,0,1,0,0
+Maharashtra,Typhoid,1,1,0,0,0,1,1,0,0,0,0,0
+Rajasthan,Hepatitis,0,0,0,1,0,0,1,1,0,0,1,0
+Tamil Nadu,Amoebiasis,0,0,0,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Cholera,0,0,1,0,1,1,0,0,0,0,0,0
+Kerala,Hepatitis,0,1,0,0,0,1,1,1,0,0,0,0
+Kerala,Dengue,1,0,1,1,1,0,0,0,0,0,1,0
+Rajasthan,Typhoid,1,1,0,1,0,1,1,0,0,0,0,0
+Gujarat,Dengue,1,1,1,1,0,1,0,0,0,0,1,0
+Bihar,Hepatitis,1,1,0,0,0,1,0,1,0,1,0,0
+Gujarat,Dengue,1,1,1,0,1,0,0,0,0,1,0,0
+Odisha,Typhoid,0,0,0,1,0,1,1,1,0,0,0,0
+Delhi,Hepatitis,0,0,0,1,1,0,0,1,0,0,0,0
+Karnataka,Malaria,1,1,1,0,0,0,1,0,1,0,1,0
+Gujarat,Typhoid,1,0,1,1,1,0,1,0,0,1,0,0
+Karnataka,Cholera,0,0,1,1,1,1,0,1,0,0,0,0
+Karnataka,Amoebiasis,1,0,0,1,0,1,1,0,0,0,0,0
+Assam,Typhoid,0,0,1,1,1,0,1,0,0,0,0,0
+Uttar Pradesh,Hepatitis,1,1,0,0,1,0,1,0,0,0,0,0
+Assam,Amoebiasis,0,1,0,1,1,0,1,0,0,0,0,0
+Karnataka,Typhoid,0,0,1,1,1,1,0,0,0,0,0,1
+Kerala,Malaria,1,1,1,0,0,0,1,0,1,0,0,0
+Karnataka,Cholera,1,0,1,0,0,1,1,0,0,0,0,0
+Assam,Dengue,1,1,1,0,1,0,1,0,0,0,0,0
+Tamil Nadu,Amoebiasis,1,1,0,1,0,1,1,0,0,0,0,0
+Assam,Hepatitis,1,0,0,1,1,0,0,1,0,0,0,0
+Gujarat,Hepatitis,1,1,0,1,1,0,1,0,0,0,0,0
+Maharashtra,Dengue,1,1,1,1,0,0,1,0,1,1,1,0
+Rajasthan,Malaria,1,1,0,0,1,0,0,0,1,0,0,0
+Bihar,Malaria,1,1,1,1,1,1,0,1,1,0,1,0
+Delhi,Typhoid,1,0,0,1,0,1,1,0,0,0,0,0
+Bihar,Amoebiasis,0,0,1,0,1,1,1,0,0,0,0,0
+West Bengal,Cholera,1,1,0,1,0,1,0,0,0,0,0,0
+Maharashtra,Typhoid,1,1,0,0,1,0,0,0,0,0,0,0
+Karnataka,Typhoid,0,0,0,1,0,0,0,0,0,0,0,1
+Uttar Pradesh,Typhoid,1,1,1,1,0,0,1,0,0,0,0,0
+Rajasthan,Cholera,1,0,0,0,1,1,0,0,0,0,0,0
+Maharashtra,Dengue,1,1,1,1,1,0,0,0,0,1,0,0
+Odisha,Dengue,1,1,1,0,1,0,1,0,0,1,1,0
+Odisha,Dengue,1,1,1,1,0,1,0,0,0,1,0,0
+Bihar,Typhoid,1,1,0,0,1,1,1,0,0,0,1,1
+Maharashtra,Hepatitis,0,0,0,0,1,0,0,1,0,1,0,0
+Tamil Nadu,Cholera,1,1,0,1,1,1,1,0,0,0,0,0
+Delhi,Dengue,1,1,1,1,1,0,0,0,0,0,0,0
+Rajasthan,Amoebiasis,0,0,0,1,0,0,1,0,0,0,0,0
+Karnataka,Hepatitis,0,1,1,0,0,0,0,1,0,0,0,0
+Assam,Amoebiasis,1,1,0,0,1,1,1,0,0,0,0,1
+Assam,Cholera,1,0,1,1,1,1,0,0,0,0,0,0
+Odisha,Cholera,1,0,0,1,1,0,0,0,0,0,0,0
+Assam,Dengue,1,1,1,0,1,1,0,0,0,1,1,0
+Rajasthan,Dengue,1,0,1,1,1,0,0,0,0,1,1,0
+West Bengal,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,0
+Kerala,Hepatitis,1,0,0,1,0,1,0,1,0,0,0,0
+Gujarat,Dengue,1,1,1,1,1,1,0,0,0,1,1,0
+Bihar,Cholera,0,0,0,1,0,1,0,1,0,0,0,0
+Uttar Pradesh,Dengue,1,1,0,1,0,0,0,0,0,1,1,0
+Karnataka,Cholera,0,0,0,1,0,1,1,1,0,0,1,0
+Odisha,Cholera,1,0,0,1,0,1,0,0,1,0,0,0
+Assam,Malaria,1,1,0,1,0,0,0,0,1,0,0,1
+Maharashtra,Hepatitis,1,0,0,0,0,0,1,1,0,0,0,1
+Karnataka,Amoebiasis,0,0,0,1,0,1,1,0,0,0,0,0
+Bihar,Cholera,1,0,0,0,0,1,0,0,0,0,0,0
+Assam,Malaria,1,1,1,0,1,0,0,0,1,0,1,0
+Bihar,Amoebiasis,1,0,0,0,0,1,1,0,0,1,0,0
+Maharashtra,Typhoid,0,1,1,1,0,0,0,0,0,0,0,0
+Assam,Amoebiasis,0,0,1,1,0,1,1,0,0,0,0,1
+West Bengal,Malaria,0,0,1,1,0,1,0,0,1,0,0,0
+Uttar Pradesh,Cholera,0,0,0,1,1,1,0,0,0,0,1,0
+Tamil Nadu,Hepatitis,1,1,1,0,0,0,1,1,1,0,0,0
+Odisha,Malaria,1,1,0,1,0,0,0,1,1,0,0,0
+Gujarat,Typhoid,1,1,1,0,0,1,0,0,0,0,0,0
+Rajasthan,Dengue,1,0,1,0,1,0,0,0,0,0,0,0
+Odisha,Amoebiasis,0,1,0,1,1,1,1,0,0,0,0,0
+Gujarat,Malaria,1,0,1,1,0,1,0,0,1,0,0,1
+Karnataka,Malaria,1,0,0,0,0,1,1,0,1,0,0,1
+Assam,Hepatitis,1,0,0,1,0,0,1,1,0,0,0,0
+West Bengal,Malaria,1,0,1,0,1,1,0,0,1,0,0,0
+Tamil Nadu,Malaria,1,0,0,0,0,0,0,0,1,0,0,0
+Uttar Pradesh,Typhoid,1,0,1,1,0,1,0,0,0,0,0,0
+Maharashtra,Amoebiasis,1,0,0,0,1,1,0,0,1,1,0,0
+Rajasthan,Amoebiasis,0,0,1,0,1,1,1,0,0,0,0,0
+Bihar,Malaria,1,1,0,0,1,0,0,0,1,0,0,0
+West Bengal,Hepatitis,1,0,0,1,0,0,1,1,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,0,0,1,0,0,0,1,1,0
+Tamil Nadu,Dengue,1,1,1,1,0,0,1,0,0,0,1,0
+Gujarat,Malaria,1,1,1,0,1,1,0,0,1,1,0,0
+Rajasthan,Cholera,0,0,0,1,0,1,0,0,0,0,0,0
+Odisha,Amoebiasis,0,1,0,0,0,1,1,0,0,0,0,0
+Delhi,Hepatitis,1,0,0,1,0,0,1,1,0,0,0,0
+Karnataka,Typhoid,0,1,1,1,1,1,1,0,1,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,0,0,0,0,0,0,0,0
+Tamil Nadu,Hepatitis,0,1,0,1,0,0,1,0,0,0,0,0
+Delhi,Malaria,1,1,1,0,1,0,0,0,1,0,1,1
+Odisha,Hepatitis,1,0,1,1,1,0,0,1,1,0,0,0
+Kerala,Dengue,1,1,1,1,0,1,1,0,0,1,0,0
+Assam,Dengue,1,1,1,0,1,0,1,0,0,0,1,0
+Rajasthan,Malaria,1,0,1,0,0,0,1,0,1,0,1,0
+Rajasthan,Hepatitis,1,0,0,0,0,1,0,1,0,0,0,0
+Delhi,Hepatitis,0,0,1,1,0,0,0,1,0,0,0,0
+Bihar,Malaria,1,1,1,0,1,0,1,0,1,0,0,0
+Gujarat,Hepatitis,0,0,1,1,0,0,1,1,0,0,0,0
+Assam,Amoebiasis,1,0,1,1,0,1,1,0,0,0,0,0
+West Bengal,Malaria,1,1,1,1,1,0,0,1,1,0,0,0
+West Bengal,Typhoid,0,0,0,1,1,0,1,0,0,0,0,0
+Rajasthan,Typhoid,1,0,1,1,0,0,1,0,1,0,0,0
+Kerala,Amoebiasis,1,0,0,1,0,1,1,0,0,0,0,0
+Delhi,Malaria,0,0,1,0,0,0,0,0,1,0,1,0
+Bihar,Hepatitis,1,1,0,1,1,0,0,1,0,0,0,1
+Karnataka,Typhoid,1,1,0,0,0,1,1,0,0,0,0,0
+Karnataka,Typhoid,1,0,0,1,0,0,1,0,0,0,0,0
+Kerala,Hepatitis,0,1,0,0,0,1,0,1,0,0,0,0
+Tamil Nadu,Cholera,1,1,1,1,0,1,1,0,0,0,0,0
+Tamil Nadu,Typhoid,0,1,0,0,0,0,1,0,0,0,0,0
+Kerala,Malaria,1,0,0,0,0,0,0,0,1,0,0,0
+Assam,Dengue,1,0,1,1,1,0,0,0,1,1,1,0
+Uttar Pradesh,Dengue,1,1,1,0,1,0,0,0,0,1,0,1
+Gujarat,Dengue,1,1,1,1,0,1,0,0,0,0,0,0
+Maharashtra,Cholera,1,1,0,0,1,1,0,0,0,0,0,0
+West Bengal,Typhoid,1,0,0,1,0,0,1,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,1,0,1,0,0,1,1,0,0,0,0,0
+Delhi,Amoebiasis,0,1,0,0,0,0,1,0,0,0,0,0
+Karnataka,Cholera,1,0,0,0,1,1,1,1,0,0,0,0
+Maharashtra,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,0
+Bihar,Malaria,1,1,0,1,0,0,0,1,1,0,0,0
+Bihar,Malaria,1,1,1,0,0,0,0,1,1,0,0,0
+Rajasthan,Dengue,1,1,1,1,1,0,0,1,0,1,0,0
+Maharashtra,Amoebiasis,0,0,0,0,1,0,0,0,0,0,0,0
+Kerala,Dengue,1,1,1,1,0,0,0,0,1,0,1,0
+Rajasthan,Typhoid,0,1,0,1,0,1,0,0,0,0,0,0
+Gujarat,Hepatitis,1,0,1,0,1,0,0,1,0,0,0,0
+Gujarat,Hepatitis,0,0,0,1,0,1,0,1,0,0,0,0
+West Bengal,Hepatitis,1,0,0,0,1,1,1,1,0,0,0,0
+Tamil Nadu,Hepatitis,1,0,0,1,1,0,0,1,0,0,0,0
+Delhi,Malaria,1,0,1,1,0,0,0,0,1,0,0,0
+Gujarat,Dengue,1,1,1,0,0,1,1,0,1,0,0,0
+Rajasthan,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,0
+Maharashtra,Dengue,1,1,1,0,1,0,0,0,0,0,0,0
+Delhi,Hepatitis,1,1,0,0,0,0,1,1,0,0,0,0
+Odisha,Cholera,0,0,0,1,1,1,1,0,0,0,0,0
+Gujarat,Amoebiasis,0,0,0,1,1,1,1,0,0,0,0,0
+Maharashtra,Malaria,1,1,1,0,0,0,1,0,1,0,0,0
+Gujarat,Cholera,0,1,1,1,0,1,0,0,0,0,0,0
+Bihar,Typhoid,1,1,1,1,0,0,1,0,0,0,0,0
+Odisha,Dengue,1,1,1,1,1,0,0,0,0,0,1,0
+Karnataka,Typhoid,0,1,0,1,1,1,1,0,1,0,1,0
+Gujarat,Dengue,1,1,1,1,0,0,0,0,1,1,0,0
+Rajasthan,Amoebiasis,0,0,0,1,1,0,0,0,0,0,0,0
+Tamil Nadu,Amoebiasis,0,1,0,1,1,0,1,0,0,0,0,0
+Delhi,Hepatitis,1,1,1,1,0,0,1,1,0,0,0,0
+Delhi,Amoebiasis,0,1,1,0,1,1,1,0,0,0,0,0
+Bihar,Amoebiasis,1,0,0,1,0,1,1,0,0,0,1,0
+Rajasthan,Hepatitis,1,0,1,1,1,1,0,1,0,0,0,1
+Kerala,Hepatitis,1,1,1,1,0,1,0,1,0,0,0,0
+Rajasthan,Cholera,1,0,0,1,1,1,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,0,1,0,1,1,0,1,1,0,0,0,0
+Kerala,Typhoid,1,1,1,0,0,0,1,0,0,0,0,0
+Tamil Nadu,Cholera,0,0,0,1,0,0,0,0,1,0,1,0
+Tamil Nadu,Malaria,1,1,1,1,0,0,0,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,1,0,1,1,1,0,1,0,0,0,0,1
+Bihar,Dengue,1,0,0,1,1,0,0,0,0,0,0,1
+Rajasthan,Dengue,1,1,1,1,1,0,0,0,0,0,0,0
+Maharashtra,Dengue,1,0,1,1,0,0,0,0,0,1,0,0
+Maharashtra,Cholera,0,0,1,0,1,1,1,0,0,0,0,0
+Rajasthan,Dengue,1,0,1,0,1,0,0,0,1,1,1,0
+Rajasthan,Typhoid,0,0,0,0,1,0,1,0,0,0,0,0
+Bihar,Malaria,1,1,1,1,0,0,0,0,1,1,0,0
+Rajasthan,Cholera,0,0,1,1,1,1,0,0,0,0,0,0
+Uttar Pradesh,Dengue,1,0,1,1,1,0,0,0,0,1,0,0
+Kerala,Cholera,1,0,0,0,1,1,1,0,1,0,0,0
+Maharashtra,Typhoid,1,1,0,1,1,1,1,0,0,1,0,0
+Rajasthan,Dengue,1,1,1,1,1,0,0,0,0,1,1,0
+Odisha,Dengue,1,1,1,1,0,0,0,0,0,0,0,0
+Uttar Pradesh,Typhoid,1,1,1,1,0,1,1,0,0,0,0,0
+Delhi,Typhoid,1,0,1,1,1,0,1,0,0,0,0,1
+Delhi,Hepatitis,1,1,1,1,0,0,0,1,0,0,0,1
+Gujarat,Dengue,1,0,1,1,1,0,1,0,1,0,0,0
+Delhi,Amoebiasis,0,0,0,1,1,0,1,0,0,0,0,0
+Gujarat,Dengue,1,1,1,0,0,0,0,0,1,1,0,0
+West Bengal,Cholera,0,1,0,1,0,1,1,0,0,0,0,0
+Delhi,Malaria,1,0,1,0,1,0,1,0,1,1,0,0
+Kerala,Cholera,1,1,1,1,1,1,0,0,0,0,0,0
+Odisha,Typhoid,1,1,0,1,0,1,1,0,0,0,0,0
+Assam,Cholera,0,0,0,0,1,1,0,0,0,0,0,0
+Tamil Nadu,Cholera,0,0,0,1,1,1,1,0,0,0,1,0
+Delhi,Malaria,1,1,1,0,0,1,0,0,1,0,0,0
+Maharashtra,Amoebiasis,1,1,0,0,0,1,1,0,0,0,1,0
+Assam,Cholera,0,0,0,1,0,1,1,0,0,1,0,0
+Karnataka,Hepatitis,1,0,1,1,0,1,0,1,0,0,0,0
+Karnataka,Malaria,1,1,1,0,1,0,1,0,1,0,0,0
+Delhi,Hepatitis,0,0,0,1,1,0,0,1,0,0,0,1
+Tamil Nadu,Malaria,1,1,1,0,0,0,0,0,1,0,1,0
+Assam,Typhoid,1,0,0,0,1,1,0,0,0,0,0,0
+Bihar,Malaria,1,0,1,1,1,0,0,0,1,0,0,0
+West Bengal,Typhoid,0,0,0,1,0,1,1,0,1,0,0,0
+Bihar,Typhoid,1,1,1,1,0,1,1,0,0,0,0,0
+Assam,Amoebiasis,0,1,0,1,1,1,1,0,0,0,0,0
+Bihar,Dengue,1,0,0,1,0,0,0,0,0,1,1,0
+Uttar Pradesh,Cholera,1,1,0,0,1,1,0,0,1,0,0,0
+Uttar Pradesh,Amoebiasis,0,1,0,0,0,1,1,0,0,0,0,0
+Rajasthan,Cholera,1,1,0,0,1,1,1,0,0,0,0,0
+Bihar,Dengue,1,1,1,1,1,0,0,0,0,1,0,0
+Odisha,Amoebiasis,0,0,0,0,0,1,1,0,0,0,0,0
+Rajasthan,Typhoid,1,0,0,1,0,0,1,0,0,0,0,0
+Kerala,Cholera,0,0,0,1,0,1,1,0,0,0,0,0
+Assam,Malaria,1,0,0,1,0,1,0,0,1,0,0,0
+Karnataka,Dengue,1,1,1,0,0,0,1,0,0,1,0,0
+Gujarat,Typhoid,0,1,0,1,0,1,0,0,0,0,1,0
+Bihar,Malaria,1,0,1,1,1,0,1,0,1,0,0,0
+Odisha,Hepatitis,1,0,0,1,1,0,0,1,0,0,0,0
+Odisha,Cholera,0,0,0,0,0,1,0,0,0,0,0,0
+Tamil Nadu,Cholera,0,0,0,1,1,1,0,1,0,0,0,0
+West Bengal,Malaria,1,1,0,0,1,0,0,0,1,0,0,0
+West Bengal,Hepatitis,0,0,0,1,1,0,0,1,0,0,0,0
+Bihar,Malaria,1,0,0,0,0,0,0,0,1,1,0,0
+West Bengal,Cholera,1,1,1,0,1,1,1,0,0,0,0,0
+Uttar Pradesh,Hepatitis,1,0,0,0,0,0,1,1,1,0,0,0
+Kerala,Dengue,1,0,1,1,1,0,0,0,1,0,1,0
+Uttar Pradesh,Typhoid,1,1,1,1,1,0,1,0,0,1,0,0
+Kerala,Typhoid,0,1,0,1,1,0,0,0,0,0,0,0
+Kerala,Dengue,1,1,1,1,0,0,0,0,1,0,0,0
+Karnataka,Dengue,1,1,1,1,0,0,0,0,0,0,0,0
+Bihar,Dengue,1,1,1,1,0,0,1,0,0,1,0,0
+West Bengal,Typhoid,0,1,1,1,1,0,1,1,0,0,0,0
+Delhi,Dengue,1,1,1,1,1,0,1,0,0,1,1,0
+Maharashtra,Malaria,0,1,0,0,0,0,1,1,1,0,0,0
+West Bengal,Typhoid,1,0,0,0,0,1,1,0,1,1,0,0
+Odisha,Hepatitis,0,0,0,1,0,0,0,1,0,0,0,1
+Assam,Typhoid,1,1,1,0,0,1,1,0,1,0,1,1
+Uttar Pradesh,Malaria,0,1,1,1,0,0,0,0,1,0,0,0
+Kerala,Cholera,0,0,0,1,0,1,0,0,0,0,0,0
+Maharashtra,Cholera,0,1,1,1,1,1,1,0,0,0,0,0
+Delhi,Amoebiasis,1,0,1,0,1,1,1,0,0,0,0,0
+Assam,Typhoid,0,1,1,1,1,1,0,0,0,0,0,0
+Karnataka,Amoebiasis,0,0,0,1,1,1,1,1,0,0,0,0
+Bihar,Malaria,0,0,1,1,1,1,0,0,1,0,1,0
+Bihar,Dengue,1,1,1,1,0,1,0,0,1,0,1,1
+West Bengal,Typhoid,0,1,0,0,0,1,0,0,1,0,1,0
+Uttar Pradesh,Typhoid,1,1,0,0,0,1,1,0,0,0,0,0
+Gujarat,Malaria,1,0,1,0,0,0,0,0,1,0,0,0
+Assam,Typhoid,1,1,0,0,0,1,1,0,0,0,0,0
+Delhi,Hepatitis,1,0,0,1,0,1,0,1,0,0,0,0
+West Bengal,Hepatitis,0,0,0,1,1,0,0,1,0,0,0,1
+Bihar,Cholera,0,0,0,1,1,1,0,0,0,0,1,0
+West Bengal,Malaria,1,0,0,0,0,0,0,0,1,0,0,0
+Kerala,Hepatitis,0,0,1,1,1,0,1,1,0,0,0,0
+Delhi,Cholera,0,1,0,1,1,1,0,0,1,0,0,0
+Maharashtra,Malaria,0,1,1,0,0,0,0,0,1,0,0,0
+Uttar Pradesh,Typhoid,1,0,0,0,1,1,1,0,0,0,0,0
+Odisha,Hepatitis,1,1,0,1,0,0,1,1,1,0,0,0
+Rajasthan,Malaria,1,1,1,0,0,0,0,1,1,0,0,0
+Odisha,Dengue,1,1,1,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Malaria,1,1,0,1,0,0,0,1,1,0,0,0
+Tamil Nadu,Hepatitis,0,0,1,1,1,0,1,1,0,0,0,0
+West Bengal,Cholera,1,0,1,1,1,1,0,0,0,0,0,0
+Kerala,Hepatitis,0,0,0,1,1,0,1,1,0,0,0,0
+Maharashtra,Typhoid,1,1,1,1,1,1,1,0,1,0,0,0
+Gujarat,Typhoid,1,1,0,0,1,0,1,0,1,0,0,0
+Maharashtra,Cholera,1,0,0,1,0,1,0,0,0,0,0,0
+Uttar Pradesh,Typhoid,1,1,1,0,1,1,0,0,0,0,0,1
+Karnataka,Cholera,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,Typhoid,0,0,0,1,1,1,0,0,0,0,0,0
+Kerala,Cholera,1,0,1,1,1,1,1,0,0,0,0,0
+Bihar,Malaria,1,0,1,1,1,0,1,0,1,0,1,0
+Maharashtra,Dengue,1,1,1,0,0,1,0,0,1,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,0,1,1,1,1,0,0,0,0,0
+Gujarat,Malaria,1,0,1,0,0,1,0,1,1,0,1,0
+Rajasthan,Amoebiasis,1,0,1,1,0,1,1,0,0,0,1,0
+Odisha,Cholera,0,0,0,1,0,1,0,0,0,0,0,0
+Odisha,Dengue,1,1,1,0,1,0,0,1,0,1,1,0
+Rajasthan,Cholera,0,1,0,0,1,1,1,0,0,1,1,0
+Odisha,Typhoid,1,1,1,1,1,1,1,0,0,0,0,0
+Gujarat,Cholera,1,0,0,0,1,1,1,0,0,0,0,0
+Uttar Pradesh,Hepatitis,1,0,0,1,0,1,1,1,0,0,0,0
+Tamil Nadu,Cholera,0,0,1,1,1,0,0,0,0,0,0,0
+Rajasthan,Hepatitis,0,0,0,1,1,0,0,1,0,1,0,0
+Bihar,Typhoid,0,1,0,1,0,1,1,0,0,0,0,0
+West Bengal,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,0
+Assam,Malaria,1,0,1,1,1,0,0,0,1,1,0,0
+Maharashtra,Hepatitis,1,1,0,1,0,0,0,1,0,0,0,0
+Odisha,Typhoid,0,1,1,1,1,0,1,0,0,0,0,0
+Tamil Nadu,Amoebiasis,1,1,0,0,0,1,1,0,0,0,0,0
+Rajasthan,Hepatitis,1,0,1,1,0,0,0,0,0,0,0,0
+Odisha,Cholera,1,0,0,1,1,1,0,0,0,0,0,0
+Karnataka,Cholera,0,0,0,0,1,1,0,0,1,0,0,0
+Maharashtra,Amoebiasis,1,0,0,1,1,1,1,0,0,0,0,0
+West Bengal,Typhoid,1,0,1,0,1,0,1,0,0,1,0,0
+Gujarat,Dengue,1,0,1,1,1,1,0,0,1,0,0,0
+Assam,Cholera,0,1,0,1,1,1,0,0,0,0,0,0
+Uttar Pradesh,Malaria,0,1,1,1,0,0,0,1,1,0,1,0
+Odisha,Typhoid,0,0,1,1,1,1,1,0,0,0,0,0
+West Bengal,Hepatitis,1,0,1,0,0,0,1,1,0,0,0,0
+West Bengal,Hepatitis,1,1,0,1,1,0,0,0,0,0,0,0
+Gujarat,Malaria,1,0,1,0,1,0,0,0,1,0,0,0
+Kerala,Cholera,0,0,1,0,1,1,1,0,1,0,0,0
+Gujarat,Typhoid,1,0,1,1,1,0,1,0,0,0,0,0
+Odisha,Malaria,1,0,1,0,1,1,0,0,1,0,1,0
+Kerala,Cholera,0,0,1,0,0,1,1,0,0,0,0,0
+Kerala,Typhoid,0,0,0,1,0,1,1,0,1,0,0,0
+Tamil Nadu,Hepatitis,0,0,1,1,0,0,1,1,0,0,0,0
+Tamil Nadu,Typhoid,0,0,1,1,0,0,1,0,0,0,0,0
+Bihar,Amoebiasis,1,0,1,1,1,1,1,0,0,1,0,0
+Rajasthan,Dengue,1,1,1,1,1,0,1,0,0,1,0,0
+Rajasthan,Typhoid,1,0,1,1,0,1,1,1,0,0,0,0
+Delhi,Dengue,1,1,1,1,0,0,1,0,1,1,0,0
+Uttar Pradesh,Typhoid,1,1,0,1,0,0,1,0,1,0,0,0
+Rajasthan,Dengue,1,1,0,1,0,1,0,0,0,1,1,0
+Tamil Nadu,Amoebiasis,1,0,0,0,1,1,1,0,0,0,0,1
+Bihar,Hepatitis,1,1,0,1,0,1,1,0,0,0,0,0
+Bihar,Cholera,1,0,1,1,1,1,0,1,0,0,0,0
+Kerala,Dengue,1,1,0,1,0,0,0,0,1,0,1,0
+Delhi,Amoebiasis,1,0,0,0,0,1,1,1,0,0,0,0
+Gujarat,Dengue,1,1,1,1,1,0,1,0,0,1,1,0
+Uttar Pradesh,Hepatitis,1,0,0,1,0,0,0,0,0,0,0,0
+Odisha,Dengue,1,0,1,1,0,0,0,0,0,0,0,0
+Gujarat,Amoebiasis,1,0,0,0,1,0,1,0,0,0,0,0
+Rajasthan,Malaria,1,0,1,1,0,0,0,0,0,0,0,0
+Delhi,Hepatitis,0,1,0,0,0,0,0,1,0,0,0,0
+Kerala,Malaria,1,1,1,0,0,1,0,0,1,0,0,1
+Maharashtra,Hepatitis,1,0,1,0,1,1,1,1,0,0,0,0
+Rajasthan,Dengue,1,1,1,0,0,0,0,1,0,0,1,0
+Uttar Pradesh,Malaria,1,0,1,1,0,0,1,0,1,0,1,0
+Gujarat,Amoebiasis,0,0,0,0,0,1,1,0,0,0,0,1
+Kerala,Hepatitis,1,0,1,0,1,0,0,1,0,0,0,0
+Kerala,Amoebiasis,0,1,0,0,0,1,1,0,0,0,1,0
+Odisha,Dengue,1,1,1,0,1,0,0,0,0,0,0,0
+Uttar Pradesh,Malaria,1,0,1,0,0,0,0,0,1,0,0,0
+Rajasthan,Dengue,1,1,0,0,0,0,0,0,0,0,0,0
+Bihar,Typhoid,1,1,1,1,1,1,1,0,0,0,0,0
+Odisha,Hepatitis,1,1,1,1,1,0,0,1,0,0,0,0
+Uttar Pradesh,Hepatitis,0,0,1,0,0,1,1,1,0,0,0,0
+Bihar,Dengue,1,1,1,0,1,1,0,0,0,1,0,0
+Uttar Pradesh,Typhoid,0,1,0,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Malaria,1,1,1,0,1,1,0,0,1,0,0,0
+West Bengal,Dengue,1,1,1,1,0,0,0,0,0,0,0,0
+Karnataka,Typhoid,1,0,0,1,1,1,1,0,0,1,0,0
+Kerala,Typhoid,1,1,1,1,0,1,1,0,0,1,0,0
+Assam,Hepatitis,1,0,1,1,1,1,1,1,0,0,0,0
+Bihar,Amoebiasis,1,1,1,1,0,1,1,0,0,0,0,0
+Bihar,Malaria,1,1,0,1,1,0,1,0,1,1,0,0
+Assam,Amoebiasis,0,0,0,0,1,0,1,1,0,0,0,0
+Uttar Pradesh,Typhoid,1,0,0,1,1,0,1,0,1,0,0,0
+Maharashtra,Typhoid,0,1,0,1,0,0,1,0,0,0,0,0
+Delhi,Hepatitis,0,0,0,1,0,0,0,1,0,0,0,0
+Kerala,Dengue,1,0,1,0,1,0,1,0,1,1,0,1
+Gujarat,Dengue,1,0,1,0,0,0,0,0,0,1,1,0
+Gujarat,Dengue,1,0,1,1,0,0,0,0,0,0,1,1
+Bihar,Typhoid,1,1,1,1,1,0,1,0,0,0,0,0
+Odisha,Cholera,0,1,0,0,1,1,0,1,0,0,0,0
+Rajasthan,Amoebiasis,0,0,1,1,1,1,1,0,0,0,0,1
+Bihar,Dengue,1,1,1,0,1,0,1,0,0,1,1,1
+Odisha,Dengue,0,1,1,1,0,0,1,0,0,1,0,1
+West Bengal,Hepatitis,1,0,1,1,0,1,1,1,0,0,0,0
+Delhi,Amoebiasis,0,1,0,0,1,1,0,0,1,0,0,0
+Delhi,Malaria,1,1,1,1,0,0,1,0,1,0,0,0
+West Bengal,Cholera,0,0,0,0,1,1,0,0,0,0,0,1
+West Bengal,Malaria,1,0,1,0,0,0,1,0,1,0,0,0
+Karnataka,Amoebiasis,1,1,1,0,1,0,1,0,0,0,0,0
+Kerala,Hepatitis,1,0,0,1,1,1,1,1,0,0,1,1
+Karnataka,Dengue,1,1,1,0,0,0,0,0,0,0,0,0
+Maharashtra,Dengue,1,1,1,1,0,0,0,1,0,1,1,0
+Delhi,Dengue,1,0,1,0,1,0,0,0,0,1,1,0
+Bihar,Malaria,0,1,0,0,0,0,1,0,1,0,0,0
+Kerala,Dengue,1,1,1,1,0,1,0,0,1,1,1,0
+Assam,Hepatitis,0,1,1,1,0,0,0,0,0,0,0,0
+Odisha,Malaria,1,1,0,1,0,0,1,1,1,0,0,0
+Maharashtra,Dengue,1,0,1,0,1,1,1,0,0,1,0,0
+Karnataka,Typhoid,0,1,0,1,0,0,1,0,0,0,0,0
+Maharashtra,Cholera,0,0,0,1,1,1,0,0,1,0,0,0
+Assam,Malaria,1,1,1,0,0,1,0,1,1,0,0,0
+West Bengal,Typhoid,1,1,1,1,0,0,1,0,0,0,0,0
+Assam,Cholera,0,1,1,1,0,1,0,0,0,0,0,0
+Tamil Nadu,Malaria,1,1,0,1,1,0,0,0,1,0,0,0
+Assam,Dengue,1,1,1,0,0,0,0,0,1,1,1,0
+Maharashtra,Malaria,1,1,1,1,1,0,0,0,1,0,1,0
+Bihar,Cholera,1,1,0,0,1,1,1,0,1,0,0,0
+Bihar,Hepatitis,0,0,0,0,0,0,0,1,0,0,0,0
+Maharashtra,Amoebiasis,1,0,0,1,0,0,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,1,0,1,0,1,1,1,0,0,0,0
+Rajasthan,Amoebiasis,0,0,1,1,0,0,1,0,0,0,1,0
+Delhi,Cholera,1,0,0,0,0,1,0,0,0,0,0,0
+Odisha,Hepatitis,0,1,1,0,1,0,0,1,0,0,0,0
+Karnataka,Hepatitis,1,1,0,1,1,0,0,1,0,0,0,0
+Maharashtra,Typhoid,1,1,1,0,0,1,1,0,0,0,0,0
+Maharashtra,Typhoid,1,1,0,1,1,1,1,0,0,0,0,0
+Kerala,Amoebiasis,1,1,0,1,0,1,1,0,0,0,0,0
+Assam,Typhoid,1,1,1,1,0,1,1,0,0,0,1,0
+Odisha,Amoebiasis,0,1,0,0,1,1,1,0,0,0,0,1
+Uttar Pradesh,Dengue,1,1,1,1,0,0,0,0,1,1,0,0
+Tamil Nadu,Typhoid,1,1,0,0,1,0,1,1,0,0,0,0
+Karnataka,Hepatitis,1,1,1,1,1,0,1,1,0,0,0,0
+Rajasthan,Dengue,1,1,1,1,0,0,1,0,1,1,1,0
+West Bengal,Malaria,1,0,1,0,0,0,0,0,1,0,0,0
+Odisha,Cholera,0,1,0,1,1,1,0,0,0,0,0,0
+West Bengal,Amoebiasis,0,0,0,0,1,1,1,0,0,0,0,0
+Odisha,Hepatitis,0,1,0,1,1,0,0,1,0,0,0,0
+Rajasthan,Malaria,1,1,1,0,1,0,0,0,1,0,0,0
+Bihar,Cholera,0,0,0,0,1,1,1,0,0,0,0,1
+Uttar Pradesh,Malaria,1,1,1,0,0,0,1,0,1,0,0,0
+Maharashtra,Typhoid,0,1,1,0,1,0,1,0,1,0,0,0
+Gujarat,Amoebiasis,1,0,0,1,0,1,1,0,0,0,0,0
+West Bengal,Hepatitis,0,0,1,0,0,0,1,1,0,0,0,0
+Karnataka,Amoebiasis,1,0,0,0,1,1,1,0,0,0,0,0
+West Bengal,Typhoid,1,0,0,1,0,0,1,0,1,0,0,0
+Bihar,Typhoid,0,1,0,1,0,0,1,0,0,0,0,0
+Bihar,Amoebiasis,0,0,0,0,0,1,1,0,0,0,0,0
+West Bengal,Cholera,0,0,0,1,0,1,0,0,0,0,0,0
+Kerala,Cholera,0,1,1,0,0,1,1,0,0,0,0,0
+Assam,Malaria,1,1,1,0,0,0,1,0,1,0,0,0
+Karnataka,Amoebiasis,0,0,1,1,1,1,1,0,0,0,0,0
+Maharashtra,Amoebiasis,1,0,0,1,0,1,1,0,0,1,1,0
+Maharashtra,Dengue,1,0,1,1,0,0,0,0,0,0,0,1
+Kerala,Typhoid,0,1,1,0,0,1,1,0,0,1,0,0
+Maharashtra,Cholera,0,1,0,1,1,1,1,0,0,0,0,0
+Rajasthan,Malaria,1,1,0,0,0,1,1,0,1,0,1,1
+Tamil Nadu,Amoebiasis,1,0,0,0,0,1,1,0,0,1,0,0
+Uttar Pradesh,Cholera,1,0,0,1,1,1,1,0,0,0,0,1
+Maharashtra,Hepatitis,1,0,0,1,0,0,1,1,0,0,0,0
+Karnataka,Cholera,0,0,1,1,0,1,1,0,0,0,0,0
+Rajasthan,Cholera,0,0,0,0,1,1,1,1,0,0,0,0
+West Bengal,Cholera,1,1,0,0,0,1,0,0,0,0,0,0
+Assam,Amoebiasis,0,0,0,1,0,1,1,0,0,0,0,0
+Karnataka,Dengue,1,1,0,1,0,0,1,0,0,0,1,0
+Odisha,Cholera,1,1,0,1,0,1,0,0,0,0,0,0
+Bihar,Typhoid,1,0,0,0,0,1,1,0,0,0,0,0
+Assam,Typhoid,0,1,0,1,1,1,1,0,0,0,0,1
+Tamil Nadu,Malaria,1,1,0,1,0,0,0,0,1,1,0,0
+Tamil Nadu,Dengue,0,1,1,1,1,0,0,1,0,0,0,0
+Kerala,Malaria,1,1,0,1,1,0,0,0,1,0,0,0
+Kerala,Typhoid,1,0,1,1,1,0,1,0,1,0,0,0
+Odisha,Hepatitis,1,1,0,1,0,0,0,0,0,0,0,0
+Assam,Typhoid,1,1,0,1,1,1,1,0,0,0,0,0
+Gujarat,Amoebiasis,0,0,1,1,0,0,1,0,0,0,0,0
+West Bengal,Amoebiasis,0,0,0,1,1,1,0,0,0,0,0,0
+Bihar,Malaria,1,0,1,0,0,0,0,0,1,1,1,0
+Uttar Pradesh,Cholera,0,0,1,0,0,1,0,0,0,0,0,0
+Delhi,Hepatitis,0,0,0,1,1,0,1,1,0,0,0,0
+Gujarat,Dengue,1,1,1,1,0,0,1,0,1,1,0,0
+Gujarat,Malaria,0,1,1,1,0,0,0,0,1,0,0,0
+Odisha,Cholera,1,0,0,1,0,1,1,0,0,1,0,0
+Bihar,Malaria,1,1,1,0,0,0,1,0,1,0,1,0
+Tamil Nadu,Typhoid,1,1,1,1,1,1,1,0,0,0,0,0
+Tamil Nadu,Malaria,1,0,1,0,1,1,1,0,1,0,0,0
+Uttar Pradesh,Typhoid,1,0,0,1,1,0,1,0,0,0,0,1
+Odisha,Dengue,1,1,1,0,1,0,0,0,0,1,0,0
+Rajasthan,Hepatitis,1,0,0,1,1,1,1,1,0,0,0,0
+West Bengal,Amoebiasis,1,0,0,0,0,1,1,1,0,0,0,0
+Assam,Amoebiasis,0,0,0,0,0,1,1,0,0,0,0,0
+Karnataka,Typhoid,0,0,0,0,0,0,1,0,0,0,0,0
+Karnataka,Dengue,1,1,0,1,0,0,1,0,0,1,0,0
+Karnataka,Amoebiasis,1,1,0,1,1,1,0,0,0,0,0,1
+Odisha,Malaria,1,1,1,0,1,0,0,1,1,0,1,0
+Gujarat,Typhoid,1,0,1,1,0,1,0,0,1,1,0,0
+Uttar Pradesh,Malaria,1,1,1,1,1,0,1,0,1,0,1,0
+Tamil Nadu,Malaria,1,0,1,0,0,0,1,0,1,0,0,0
+West Bengal,Malaria,1,1,1,1,1,1,1,0,1,0,0,0
+Rajasthan,Hepatitis,0,0,0,1,0,0,0,1,0,0,0,0
+Uttar Pradesh,Typhoid,1,0,1,1,0,0,0,1,0,0,0,0
+Gujarat,Dengue,1,1,1,0,1,0,1,0,0,0,0,0
+Kerala,Dengue,1,1,1,1,1,0,1,0,1,0,1,0
+West Bengal,Dengue,1,1,0,1,0,0,0,1,0,0,0,0
+Odisha,Malaria,1,0,1,1,0,0,0,0,1,0,0,0
+Delhi,Typhoid,1,0,1,1,0,0,1,0,1,0,0,0
+Tamil Nadu,Hepatitis,0,0,0,1,1,0,1,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,1,0,0,1,0,1,1,0,1,0,0,0
+Odisha,Typhoid,1,1,1,1,1,1,0,0,0,0,1,0
+Rajasthan,Malaria,1,1,1,1,0,1,1,0,1,1,0,0
+Odisha,Cholera,0,0,0,1,1,1,0,1,0,0,0,0
+Kerala,Typhoid,1,0,0,1,0,0,1,0,0,0,0,1
+Delhi,Cholera,0,0,1,1,0,1,1,0,0,1,0,0
+Bihar,Cholera,1,0,1,1,1,1,0,0,1,0,1,0
+Bihar,Dengue,1,1,1,0,1,0,0,1,0,1,0,0
+Tamil Nadu,Typhoid,0,0,1,1,1,1,1,0,0,0,0,0
+West Bengal,Malaria,1,0,0,1,0,0,0,0,1,0,1,0
+Karnataka,Typhoid,0,0,1,1,1,0,0,0,1,0,0,0
+Uttar Pradesh,Amoebiasis,1,0,0,1,1,1,1,0,0,0,1,0
+Assam,Dengue,1,1,1,0,1,0,0,0,0,1,1,0
+Tamil Nadu,Typhoid,1,0,0,1,1,1,1,0,1,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,1,0,0,0,1,0,0,1
+Uttar Pradesh,Typhoid,1,1,0,1,1,0,1,0,0,0,1,0
+Uttar Pradesh,Typhoid,1,0,1,0,0,0,0,0,1,0,0,0
+Maharashtra,Amoebiasis,0,0,0,0,0,0,0,0,0,0,0,0
+Odisha,Amoebiasis,1,0,0,0,1,0,1,0,0,0,0,0
+West Bengal,Malaria,1,0,1,1,0,0,1,0,0,0,0,0
+Bihar,Amoebiasis,1,0,1,0,0,1,1,0,0,0,0,0
+Rajasthan,Malaria,1,1,0,1,0,1,0,0,1,0,0,0
+Delhi,Hepatitis,1,0,0,0,0,1,0,1,0,0,0,0
+Delhi,Typhoid,1,0,0,1,1,0,1,0,0,0,0,0
+Bihar,Dengue,1,1,1,0,1,0,0,0,1,0,1,0
+Bihar,Cholera,0,0,0,1,1,1,0,1,0,0,0,0
+Gujarat,Typhoid,1,0,1,0,1,1,1,0,0,0,0,0
+Assam,Amoebiasis,1,0,0,1,0,0,1,0,0,0,0,0
+Rajasthan,Malaria,1,0,1,0,0,0,1,0,0,0,0,0
+Delhi,Dengue,1,1,1,0,1,1,0,0,1,1,0,0
+Bihar,Hepatitis,1,1,0,1,1,0,1,1,0,0,0,0
+Assam,Typhoid,1,1,0,0,1,0,1,1,0,0,0,0
+Odisha,Dengue,1,0,0,1,0,0,0,0,0,0,1,0
+Kerala,Dengue,1,0,1,0,1,0,0,1,0,0,1,0
+Assam,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,0
+West Bengal,Dengue,1,0,1,0,0,0,1,0,0,1,0,0
+Bihar,Amoebiasis,1,0,0,0,1,1,0,0,1,0,0,0
+Karnataka,Malaria,1,1,0,1,0,0,0,0,1,0,0,0
+Rajasthan,Malaria,1,1,1,1,0,0,0,0,1,0,1,0
+Bihar,Dengue,1,1,1,0,1,0,0,0,0,1,0,1
+Tamil Nadu,Amoebiasis,1,0,1,1,0,0,1,0,0,0,0,0
+Uttar Pradesh,Malaria,1,1,1,1,1,0,1,0,1,1,0,0
+Assam,Hepatitis,1,1,1,1,0,1,0,1,0,0,0,0
+Kerala,Amoebiasis,0,1,0,1,0,1,1,0,0,0,0,0
+Tamil Nadu,Amoebiasis,1,0,0,1,0,1,1,0,0,0,1,0
+Bihar,Amoebiasis,1,0,0,1,1,1,1,0,1,0,0,0
+Uttar Pradesh,Dengue,1,0,1,0,1,1,1,0,0,0,0,0
+Assam,Hepatitis,0,0,1,0,0,0,1,0,0,0,0,0
+Assam,Amoebiasis,1,0,1,0,0,0,1,0,0,0,0,0
+Delhi,Dengue,1,1,1,1,0,0,0,0,0,1,1,0
+Karnataka,Malaria,1,1,0,1,0,0,1,0,1,0,0,1
+Bihar,Typhoid,1,0,0,1,1,1,1,0,0,1,0,0
+Uttar Pradesh,Malaria,1,1,1,1,1,0,0,0,1,0,0,0
+Karnataka,Amoebiasis,0,0,1,1,0,0,1,0,0,0,0,0
+Rajasthan,Typhoid,0,0,0,1,0,1,1,0,0,0,0,0
+Rajasthan,Typhoid,1,0,0,1,1,1,0,0,0,0,0,0
+Delhi,Amoebiasis,1,1,0,1,1,1,1,0,1,0,0,0
+Gujarat,Amoebiasis,1,0,0,0,0,1,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,1,1,0,0,0,1,0,1,0
+Uttar Pradesh,Dengue,0,1,1,1,0,0,1,0,1,1,0,0
+Maharashtra,Malaria,1,1,0,0,0,0,0,0,1,0,0,0
+Tamil Nadu,Typhoid,1,0,0,0,1,1,1,0,0,1,0,0
+Gujarat,Dengue,1,0,1,0,1,0,0,0,0,1,1,0
+Karnataka,Typhoid,1,0,1,0,0,1,1,0,1,0,1,0
+Odisha,Cholera,0,0,1,1,1,1,0,0,0,0,0,0
+Bihar,Malaria,1,1,1,0,1,0,0,0,1,0,0,0
+Bihar,Hepatitis,0,1,0,1,0,0,0,1,0,0,0,0
+Kerala,Cholera,0,0,1,1,0,1,0,0,0,0,0,1
+Uttar Pradesh,Amoebiasis,0,1,0,1,1,1,1,0,0,0,0,0
+Gujarat,Malaria,1,0,1,0,0,0,1,0,1,0,0,0
+Gujarat,Dengue,1,0,1,0,1,0,1,1,1,1,1,0
+Gujarat,Dengue,1,1,1,1,1,0,0,0,1,1,0,0
+Delhi,Cholera,0,0,0,1,1,0,1,0,0,0,0,0
+Bihar,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,0
+Kerala,Dengue,1,1,1,1,1,0,0,0,1,0,0,0
+West Bengal,Cholera,0,0,0,0,0,1,1,0,0,0,0,1
+Kerala,Amoebiasis,1,1,1,1,1,1,1,0,0,0,0,0
+Maharashtra,Typhoid,1,1,0,1,1,0,1,0,0,0,0,0
+Bihar,Malaria,1,0,1,1,1,1,0,0,0,0,0,0
+Bihar,Hepatitis,0,1,0,0,0,0,0,1,0,0,0,0
+Assam,Dengue,1,1,1,1,1,0,0,0,1,0,1,0
+Maharashtra,Malaria,1,1,1,1,0,0,0,0,1,0,0,0
+Delhi,Malaria,1,1,0,1,0,0,0,0,1,0,1,0
+Uttar Pradesh,Dengue,1,0,1,0,1,0,0,0,1,0,0,0
+Rajasthan,Hepatitis,1,1,0,1,1,0,0,0,0,0,0,1
+Gujarat,Typhoid,1,0,1,1,1,1,1,0,1,0,0,0
+Tamil Nadu,Amoebiasis,1,0,0,0,1,1,1,0,0,0,1,0
+Odisha,Hepatitis,1,0,0,0,0,0,0,1,0,0,0,0
+Karnataka,Amoebiasis,0,1,0,0,1,1,0,0,0,1,0,0
+Assam,Amoebiasis,1,0,1,0,0,1,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,1,0,1,0,1,1,1,1
+Odisha,Typhoid,1,0,0,1,1,0,1,0,0,0,0,1
+Gujarat,Typhoid,0,1,1,1,1,0,0,0,0,0,0,0
+Uttar Pradesh,Cholera,1,1,0,1,0,0,1,0,0,0,0,0
+Uttar Pradesh,Malaria,1,1,1,1,0,0,0,0,1,0,0,0
+Maharashtra,Hepatitis,0,1,0,1,0,1,1,1,0,0,0,0
+Odisha,Amoebiasis,1,0,0,1,0,1,1,0,0,0,0,0
+Kerala,Amoebiasis,0,0,0,1,1,1,1,0,0,1,0,0
+Karnataka,Malaria,1,1,1,0,1,0,0,0,1,0,1,0
+Maharashtra,Malaria,1,0,0,0,0,0,0,0,1,1,0,0
+Karnataka,Cholera,0,0,0,0,0,1,0,1,0,0,0,0
+Bihar,Typhoid,1,1,1,0,0,0,1,0,0,0,0,0
+Gujarat,Amoebiasis,1,1,1,0,0,1,1,0,0,0,0,0
+Maharashtra,Dengue,1,1,0,1,0,0,1,0,1,1,0,0
+Tamil Nadu,Typhoid,1,1,0,1,1,0,0,0,0,0,1,0
+Karnataka,Amoebiasis,0,0,0,1,1,1,1,0,0,0,0,0
+Rajasthan,Cholera,0,1,0,1,0,1,0,0,0,0,0,1
+Bihar,Malaria,1,0,1,1,0,0,0,0,1,0,0,0
+Kerala,Typhoid,1,0,0,1,0,0,1,0,0,0,0,0
+Odisha,Cholera,0,0,0,1,1,1,0,0,0,0,1,0
+Tamil Nadu,Hepatitis,0,1,1,1,0,0,1,1,0,0,0,0
+Karnataka,Dengue,1,0,1,1,1,0,1,0,0,1,0,0
+Gujarat,Typhoid,1,1,0,1,1,1,1,1,0,1,1,0
+Odisha,Malaria,1,1,1,0,0,0,1,0,1,0,0,0
+Tamil Nadu,Hepatitis,1,0,0,0,0,0,0,0,0,0,0,0
+Bihar,Cholera,1,0,1,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Dengue,0,1,1,0,1,0,1,0,0,1,0,0
+West Bengal,Cholera,1,0,0,1,0,1,0,0,0,0,0,0
+Delhi,Cholera,0,1,1,0,1,1,0,0,1,0,0,0
+Assam,Typhoid,1,1,1,1,0,0,1,0,0,0,0,0
+Kerala,Typhoid,0,1,1,1,1,1,1,0,0,0,0,0
+Bihar,Malaria,1,1,1,0,0,1,1,0,1,0,0,0
+Odisha,Amoebiasis,1,1,1,0,1,1,1,0,0,0,0,0
+Delhi,Amoebiasis,1,1,0,1,1,0,1,1,0,0,0,0
+Delhi,Cholera,1,1,0,0,1,1,0,0,0,0,0,0
+Tamil Nadu,Typhoid,1,1,1,0,1,1,1,0,1,0,0,0
+Delhi,Dengue,0,1,1,1,1,0,0,0,0,1,0,0
+Assam,Cholera,0,0,0,0,1,0,0,0,0,0,0,0
+Tamil Nadu,Typhoid,0,1,0,1,1,0,1,0,0,0,0,0
+Odisha,Malaria,0,0,1,1,0,0,1,0,1,0,0,0
+Gujarat,Malaria,1,1,1,1,0,1,0,1,1,0,0,0
+West Bengal,Malaria,1,0,0,1,1,0,1,0,1,0,0,0
+Delhi,Dengue,1,1,1,0,0,0,0,0,1,0,0,0
+Maharashtra,Typhoid,1,0,0,1,0,0,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,0,1,0,1,0,0,1,0
+Kerala,Malaria,1,0,1,0,1,0,0,1,1,0,1,0
+West Bengal,Amoebiasis,1,0,1,1,0,1,1,0,0,0,0,0
+West Bengal,Amoebiasis,0,1,0,1,1,0,0,0,1,0,0,0
+Delhi,Typhoid,0,1,1,1,1,0,1,0,1,0,0,0
+Odisha,Typhoid,1,1,0,1,1,0,1,0,0,0,0,0
+Maharashtra,Typhoid,1,1,1,1,1,1,0,0,1,0,0,0
+Rajasthan,Amoebiasis,1,0,0,1,0,1,1,0,0,0,0,0
+Karnataka,Hepatitis,0,0,1,1,0,0,1,1,0,0,0,0
+West Bengal,Cholera,1,0,0,1,1,1,1,0,0,0,0,0
+Bihar,Hepatitis,1,1,0,1,1,0,0,1,0,0,0,0
+Uttar Pradesh,Malaria,1,0,1,0,0,0,0,0,1,0,1,0
+Karnataka,Typhoid,0,0,0,1,0,0,1,0,0,0,0,0
+Delhi,Typhoid,1,0,0,0,1,0,1,0,0,0,0,0
+Assam,Dengue,1,1,1,0,1,0,0,0,1,1,0,0
+Odisha,Hepatitis,1,0,0,0,1,1,0,1,0,1,0,0
+Assam,Dengue,1,1,1,1,1,0,0,0,1,1,1,0
+Rajasthan,Hepatitis,1,1,0,1,0,1,0,0,0,0,0,0
+Karnataka,Dengue,1,0,0,0,0,1,0,1,1,1,1,0
+Rajasthan,Typhoid,1,1,1,1,0,1,1,0,0,0,0,0
+West Bengal,Typhoid,0,1,1,1,0,1,1,0,1,0,0,0
+West Bengal,Typhoid,0,0,0,1,0,0,0,0,0,0,0,0
+West Bengal,Hepatitis,0,0,0,1,1,1,0,1,0,0,0,0
+Kerala,Typhoid,1,1,1,0,0,1,1,0,1,0,0,0
+Assam,Cholera,1,0,0,0,0,1,0,0,1,0,0,0
+Kerala,Malaria,1,1,1,1,0,0,0,0,1,0,0,0
+Uttar Pradesh,Hepatitis,1,0,0,0,0,0,0,1,0,0,0,0
+Odisha,Amoebiasis,0,1,0,1,0,1,0,0,0,0,0,0
+Rajasthan,Typhoid,0,0,0,1,1,1,1,0,0,0,0,0
+Karnataka,Malaria,1,1,1,1,0,0,0,0,0,0,1,0
+Delhi,Dengue,1,0,1,0,0,0,1,1,0,0,0,0
+Assam,Typhoid,0,1,1,1,0,1,1,0,0,0,0,0
+Kerala,Malaria,1,0,1,1,0,1,0,0,1,0,0,0
+Kerala,Cholera,0,0,1,0,1,1,0,0,0,0,0,0
+Odisha,Amoebiasis,0,0,1,1,1,1,1,0,0,0,0,0
+Karnataka,Cholera,0,1,1,1,1,1,0,0,0,0,0,0
+Gujarat,Amoebiasis,1,0,0,1,0,0,1,0,0,0,0,0
+Karnataka,Malaria,1,1,0,1,0,0,1,0,1,0,0,0
+Gujarat,Malaria,1,1,1,1,1,1,0,0,0,0,0,0
+Karnataka,Typhoid,1,1,0,1,1,1,1,0,0,0,0,0
+Rajasthan,Malaria,1,1,1,1,0,0,0,0,1,0,0,0
+Rajasthan,Hepatitis,0,0,1,1,0,0,0,1,0,0,0,0
+Uttar Pradesh,Amoebiasis,1,1,0,0,0,1,1,0,0,0,0,0
+Karnataka,Malaria,1,0,1,1,1,0,1,0,0,0,0,1
+Delhi,Hepatitis,1,0,0,0,1,0,0,1,0,1,0,0
+Tamil Nadu,Malaria,1,0,1,1,0,1,1,0,1,0,0,0
+West Bengal,Malaria,1,0,1,1,0,1,0,0,1,0,0,0
+Maharashtra,Amoebiasis,1,0,0,1,0,1,1,1,0,0,0,0
+West Bengal,Typhoid,0,0,0,1,1,0,0,1,0,0,0,0
+Odisha,Dengue,1,1,1,0,0,0,0,1,1,1,1,0
+Karnataka,Cholera,1,0,0,1,0,0,0,0,0,0,0,0
+Maharashtra,Typhoid,0,1,0,0,1,1,1,1,0,0,0,0
+Karnataka,Malaria,1,1,1,0,0,0,0,0,1,0,1,0
+Assam,Typhoid,0,0,0,1,1,0,1,0,1,0,0,0
+Bihar,Hepatitis,1,1,1,1,1,0,1,0,1,0,0,0
+Tamil Nadu,Cholera,1,0,1,1,1,1,1,0,1,0,0,0
+Uttar Pradesh,Cholera,1,0,0,1,1,1,0,0,0,0,0,0
+Bihar,Malaria,1,1,1,0,1,1,1,0,1,0,0,0
+Uttar Pradesh,Amoebiasis,1,0,0,0,1,0,1,0,0,0,0,0
+Assam,Malaria,1,1,0,1,0,0,0,1,1,0,1,0
+Uttar Pradesh,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,0
+Kerala,Typhoid,1,0,1,1,1,1,1,1,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,0,0,0,1,0,0,1,0,0
+Maharashtra,Hepatitis,0,1,1,1,1,0,0,1,0,0,0,0
+Odisha,Dengue,1,1,1,0,0,0,0,0,0,1,1,0
+Assam,Hepatitis,1,0,0,0,1,0,0,1,0,0,0,0
+Delhi,Malaria,1,0,1,1,0,0,0,0,1,0,1,1
+Karnataka,Cholera,1,0,0,0,0,1,1,0,0,0,0,0
+Gujarat,Dengue,1,1,1,1,0,0,0,0,0,1,0,0
+Gujarat,Hepatitis,0,1,0,0,1,0,1,1,0,0,0,0
+Bihar,Dengue,1,1,1,1,1,0,1,0,0,1,0,0
+Maharashtra,Typhoid,1,0,0,1,0,0,1,0,0,1,0,0
+Tamil Nadu,Typhoid,0,0,0,0,1,0,1,0,0,0,0,0
+Maharashtra,Typhoid,0,0,1,1,0,1,1,0,0,0,0,0
+Karnataka,Typhoid,1,0,0,0,1,0,1,1,0,0,0,0
+Assam,Hepatitis,1,1,0,0,0,1,1,1,0,0,0,0
+Gujarat,Malaria,1,1,1,1,0,1,0,0,1,0,0,0
+Uttar Pradesh,Typhoid,1,1,0,1,0,0,1,0,0,0,0,0
+Delhi,Cholera,0,1,1,0,1,1,0,0,0,0,0,0
+Assam,Dengue,1,0,0,1,0,0,0,0,0,0,0,0
+Rajasthan,Typhoid,0,0,1,0,0,1,0,0,0,0,0,0
+Odisha,Malaria,1,0,0,0,0,0,1,0,1,1,0,0
+Maharashtra,Typhoid,0,1,0,1,0,1,0,0,0,0,0,0
+West Bengal,Dengue,1,1,1,1,0,0,1,1,0,0,1,0
+Kerala,Hepatitis,1,1,0,1,0,0,1,1,0,0,0,0
+Assam,Hepatitis,1,0,0,0,0,0,1,1,0,0,0,1
+West Bengal,Malaria,1,0,1,1,0,0,1,0,1,0,0,0
+Rajasthan,Dengue,1,0,1,1,0,0,0,0,0,1,0,0
+Tamil Nadu,Dengue,1,1,0,0,0,1,0,0,0,0,1,0
+Uttar Pradesh,Malaria,1,1,1,0,1,0,0,0,1,0,0,0
+West Bengal,Typhoid,1,1,0,0,1,1,1,0,1,0,0,0
+Maharashtra,Dengue,1,1,1,1,1,0,0,0,0,0,1,0
+Gujarat,Hepatitis,0,1,0,0,0,1,0,1,0,0,0,0
+Rajasthan,Hepatitis,1,1,1,1,0,0,1,1,0,0,0,0
+Uttar Pradesh,Cholera,1,1,0,1,0,1,1,0,0,0,0,0
+Kerala,Amoebiasis,0,1,0,0,1,1,1,0,0,0,0,1
+Gujarat,Amoebiasis,1,0,1,0,0,1,1,0,0,0,0,0
+Assam,Hepatitis,0,0,0,1,1,0,0,1,0,0,0,1
+West Bengal,Cholera,1,0,0,1,1,0,1,0,0,0,0,1
+Odisha,Amoebiasis,0,0,0,0,1,1,1,0,0,0,1,0
+Bihar,Malaria,1,0,1,1,0,1,0,0,1,0,0,0
+Odisha,Malaria,1,1,1,0,1,1,1,0,1,0,0,0
+Delhi,Amoebiasis,0,1,0,1,0,1,0,0,0,0,0,0
+Tamil Nadu,Typhoid,1,1,0,0,0,0,1,0,0,0,0,0
+Kerala,Hepatitis,0,0,0,1,0,1,1,1,0,0,0,1
+Rajasthan,Amoebiasis,1,1,1,1,1,1,1,0,0,1,0,0
+Maharashtra,Malaria,1,0,1,0,1,0,0,1,1,0,0,0
+Kerala,Amoebiasis,0,1,0,1,1,0,1,1,0,0,0,0
+Odisha,Dengue,1,1,1,1,1,0,1,1,1,0,1,0
+Karnataka,Typhoid,1,0,0,0,0,0,0,0,0,0,0,0
+Maharashtra,Typhoid,1,1,0,1,0,0,1,0,0,0,1,1
+Kerala,Amoebiasis,1,0,0,0,0,0,1,0,0,0,0,0
+Kerala,Malaria,1,1,1,1,1,0,0,0,1,0,1,0
+Bihar,Typhoid,1,0,0,1,0,0,0,0,0,0,0,0
+Assam,Malaria,0,0,1,0,0,0,1,0,1,0,1,0
+Odisha,Cholera,0,0,1,0,0,1,0,0,0,0,0,0
+Bihar,Hepatitis,1,0,1,1,1,0,0,1,0,0,0,0
+Maharashtra,Hepatitis,0,0,0,1,0,0,1,1,0,0,0,0
+Bihar,Cholera,1,0,0,0,0,1,0,1,0,0,0,0
+Assam,Typhoid,1,1,0,0,0,1,0,0,1,0,0,0
+West Bengal,Dengue,1,1,0,1,0,0,1,0,1,0,0,0
+Rajasthan,Typhoid,1,1,0,1,1,1,1,1,1,0,0,0
+Kerala,Amoebiasis,1,0,0,0,1,0,1,0,0,0,0,0
+Odisha,Hepatitis,1,1,0,1,1,0,0,0,0,0,0,0
+Tamil Nadu,Hepatitis,0,1,0,1,0,1,0,1,0,0,0,1
+Gujarat,Typhoid,1,1,1,1,1,0,1,0,0,1,0,0
+Assam,Hepatitis,0,1,0,1,0,1,1,1,0,0,1,0
+Karnataka,Malaria,1,0,1,1,0,1,0,0,1,0,0,0
+Assam,Amoebiasis,1,1,0,0,1,1,1,0,0,0,0,0
+Odisha,Amoebiasis,0,0,0,0,0,0,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,0,1,1,1,1,0,1,0,0,0,1,0
+Odisha,Hepatitis,0,0,1,0,1,0,0,0,0,0,0,0
+West Bengal,Cholera,1,1,0,0,1,1,1,0,0,0,0,0
+Maharashtra,Hepatitis,1,1,0,0,0,0,0,1,0,0,0,0
+Assam,Hepatitis,1,0,1,1,1,1,0,1,0,0,0,0
+Odisha,Typhoid,1,0,1,1,1,0,1,0,0,0,0,0
+Maharashtra,Typhoid,1,0,1,1,0,0,1,0,0,0,0,0
+Rajasthan,Malaria,0,0,0,1,0,0,0,0,1,0,0,0
+Kerala,Cholera,0,0,1,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Malaria,1,1,0,0,0,0,0,0,1,0,0,1
+West Bengal,Amoebiasis,0,1,1,1,0,1,1,0,0,0,0,0
+Rajasthan,Typhoid,1,1,0,0,1,1,1,0,0,0,1,0
+Odisha,Hepatitis,0,1,1,1,0,0,0,1,0,0,0,0
+Uttar Pradesh,Hepatitis,0,1,0,1,0,0,1,1,0,0,0,1
+Tamil Nadu,Amoebiasis,1,1,0,0,1,1,1,0,0,0,0,0
+West Bengal,Dengue,1,0,1,0,0,0,1,0,1,1,0,0
+Kerala,Hepatitis,0,1,0,0,0,0,0,1,0,0,0,0
+Kerala,Typhoid,1,1,1,1,0,0,1,0,1,0,0,0
+Rajasthan,Amoebiasis,0,0,0,1,1,1,1,1,0,0,0,0
+Assam,Dengue,1,1,1,0,1,0,0,1,0,0,1,0
+Uttar Pradesh,Typhoid,1,1,0,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,0,0,0,0,0,0,1,0,1,0,0
+Odisha,Cholera,0,0,0,0,1,1,1,1,1,0,0,0
+West Bengal,Amoebiasis,0,0,1,0,1,1,1,0,0,1,0,0
+West Bengal,Hepatitis,1,0,0,0,1,0,0,1,0,0,0,0
+Assam,Typhoid,1,1,0,0,1,0,1,0,0,0,0,0
+Bihar,Hepatitis,0,1,0,1,0,0,1,1,0,0,0,0
+Bihar,Hepatitis,0,1,0,0,1,0,0,1,0,0,0,0
+Gujarat,Dengue,1,1,1,1,0,0,0,1,1,1,0,0
+Tamil Nadu,Amoebiasis,0,0,1,1,0,1,1,0,0,1,0,0
+Bihar,Amoebiasis,0,1,0,0,0,1,1,0,0,0,0,0
+Delhi,Cholera,0,0,1,0,1,1,1,1,1,0,0,0
+Gujarat,Dengue,0,1,1,1,1,0,0,0,1,1,0,0
+Gujarat,Dengue,1,1,1,1,0,1,0,1,1,1,0,1
+Delhi,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,0
+Maharashtra,Dengue,1,0,1,0,1,0,0,1,1,0,0,0
+Karnataka,Cholera,1,0,1,1,0,1,0,0,0,0,0,0
+West Bengal,Dengue,1,0,1,1,0,1,1,0,0,1,0,0
+Bihar,Cholera,1,0,0,1,0,1,0,0,0,1,0,0
+Assam,Dengue,1,1,1,1,1,0,1,0,1,1,0,0
+Kerala,Dengue,1,1,1,1,1,1,1,0,0,0,0,0
+Maharashtra,Typhoid,1,1,0,1,1,1,1,0,1,0,0,0
+Kerala,Cholera,1,1,1,1,0,0,0,0,0,0,0,0
+Kerala,Cholera,0,0,0,0,1,1,1,0,0,0,0,0
+Odisha,Malaria,1,0,1,0,0,0,0,0,1,0,1,0
+Tamil Nadu,Dengue,1,1,1,1,0,0,0,0,0,1,1,0
+West Bengal,Cholera,0,1,0,1,1,1,0,0,0,0,0,0
+Odisha,Malaria,1,1,1,1,1,1,0,0,1,0,0,0
+Uttar Pradesh,Typhoid,1,0,0,0,1,0,1,0,0,0,0,1
+Bihar,Malaria,1,1,0,1,0,0,0,0,1,0,0,0
+Rajasthan,Amoebiasis,1,0,1,0,1,1,1,0,0,0,0,0
+Karnataka,Typhoid,1,1,1,1,0,0,1,0,0,0,0,0
+Kerala,Cholera,1,0,1,1,1,1,0,0,0,0,1,0
+Maharashtra,Dengue,1,1,1,1,1,0,1,0,0,1,0,0
+Assam,Amoebiasis,1,1,1,0,1,0,0,0,0,0,0,0
+Gujarat,Typhoid,1,1,0,0,1,0,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,1,1,0,0,1,0,0,0,0,0,0
+Maharashtra,Amoebiasis,1,0,0,0,1,1,1,0,0,0,0,0
+Bihar,Hepatitis,1,0,1,1,0,0,1,0,0,0,0,0
+Delhi,Amoebiasis,1,0,0,0,0,1,1,0,0,0,0,0
+Bihar,Typhoid,1,1,0,0,1,1,1,0,0,0,0,0
+Maharashtra,Malaria,1,0,1,1,0,0,1,0,1,0,0,0
+Bihar,Typhoid,1,0,1,0,0,0,0,0,0,0,0,0
+West Bengal,Typhoid,1,0,0,1,0,1,0,1,1,0,1,0
+Bihar,Malaria,1,1,1,1,0,0,0,0,1,0,0,1
+Karnataka,Malaria,0,1,1,0,1,1,0,0,1,0,0,0
+Gujarat,Dengue,1,0,1,0,1,1,0,0,1,0,0,0
+Bihar,Amoebiasis,0,0,0,0,1,0,1,0,0,0,0,0
+Gujarat,Dengue,1,1,0,1,1,0,0,0,1,1,0,0
+Kerala,Malaria,1,0,1,0,0,0,1,0,1,0,0,0
+Uttar Pradesh,Hepatitis,1,0,0,0,0,1,1,1,1,0,0,0
+West Bengal,Hepatitis,1,1,1,0,0,0,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,0,1,0,0,0,0,1,0,1,0,0,1
+Kerala,Cholera,0,0,0,1,1,1,0,1,0,0,0,0
+West Bengal,Typhoid,0,0,0,1,0,0,0,0,0,0,0,1
+Maharashtra,Typhoid,1,1,0,1,1,0,1,0,1,0,0,0
+Maharashtra,Cholera,1,0,0,0,1,1,1,0,0,0,0,0
+Gujarat,Amoebiasis,0,0,0,0,0,1,1,0,0,1,0,0
+Kerala,Malaria,1,0,0,0,1,0,0,0,1,0,0,0
+Tamil Nadu,Typhoid,0,1,1,1,1,1,1,1,1,1,0,0
+Rajasthan,Dengue,1,0,1,1,1,0,0,0,1,0,1,0
+Tamil Nadu,Typhoid,0,1,0,1,0,1,1,0,1,0,0,0
+Bihar,Hepatitis,0,1,0,1,1,0,1,1,0,0,0,1
+West Bengal,Malaria,1,0,1,0,1,0,1,1,0,0,0,0
+Gujarat,Typhoid,0,0,0,0,0,1,1,1,0,0,0,0
+West Bengal,Typhoid,0,1,0,1,0,0,1,0,0,0,0,0
+Odisha,Cholera,1,0,1,1,1,1,0,0,0,0,0,0
+West Bengal,Dengue,1,1,1,0,1,0,0,0,0,1,0,1
+Bihar,Malaria,1,1,1,1,0,1,0,0,1,0,1,0
+Odisha,Hepatitis,0,1,0,0,0,0,1,1,0,0,0,0
+Kerala,Malaria,1,1,0,1,0,0,0,0,0,0,0,0
+Delhi,Typhoid,1,1,0,1,0,0,0,0,0,0,0,0
+Bihar,Typhoid,1,1,0,1,0,1,1,0,1,0,0,0
+Odisha,Dengue,1,0,1,0,1,0,1,0,0,1,0,0
+Assam,Hepatitis,0,1,0,0,1,0,0,1,0,0,0,0
+Maharashtra,Cholera,1,0,1,0,0,1,0,0,0,0,0,0
+Tamil Nadu,Typhoid,1,0,0,0,0,1,0,0,0,0,0,0
+Bihar,Hepatitis,1,1,0,0,0,1,1,1,0,0,0,0
+Gujarat,Cholera,1,0,0,1,1,1,1,0,0,0,0,0
+Bihar,Typhoid,1,1,0,0,0,0,0,0,1,0,1,0
+Bihar,Cholera,1,0,0,0,1,0,1,0,0,0,0,0
+Gujarat,Amoebiasis,0,1,0,1,0,0,1,0,0,0,0,0
+Assam,Typhoid,1,1,1,1,0,1,1,0,0,0,0,0
+Maharashtra,Cholera,0,1,1,1,1,1,0,0,0,0,0,0
+Gujarat,Amoebiasis,0,0,1,1,0,1,1,0,0,0,0,0
+Maharashtra,Cholera,0,0,0,0,1,1,1,0,0,0,1,0
+Tamil Nadu,Hepatitis,0,0,0,1,1,1,1,1,0,0,0,0
+Gujarat,Typhoid,0,0,1,0,1,1,1,0,0,0,0,0
+Odisha,Amoebiasis,1,1,1,1,1,1,1,0,1,0,0,0
+Maharashtra,Hepatitis,0,0,0,1,0,0,0,1,0,0,0,1
+Uttar Pradesh,Typhoid,0,0,0,1,1,1,0,0,1,1,0,0
+West Bengal,Amoebiasis,0,1,0,0,0,1,1,0,0,0,0,0
+Assam,Amoebiasis,0,0,0,1,1,1,1,1,0,0,0,0
+Uttar Pradesh,Hepatitis,1,0,0,1,0,1,0,1,0,0,0,0
+Assam,Hepatitis,0,0,0,1,1,1,0,1,0,0,0,0
+Odisha,Typhoid,0,1,0,0,1,0,1,0,1,0,0,0
+West Bengal,Typhoid,0,0,0,0,1,1,0,0,0,0,0,0
+West Bengal,Amoebiasis,0,0,0,0,1,1,1,1,0,0,0,0
+Odisha,Malaria,1,1,0,1,0,0,0,0,1,0,0,1
+Kerala,Dengue,1,1,1,1,0,0,0,0,0,1,0,0
+Assam,Typhoid,1,0,0,1,1,0,1,0,0,1,0,0
+Bihar,Amoebiasis,1,0,0,1,1,0,0,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,1,1,0,0,0,0,0,0
+West Bengal,Typhoid,1,0,0,1,0,1,1,0,0,0,0,0
+Maharashtra,Cholera,1,0,0,1,1,1,0,0,0,0,0,0
+Assam,Amoebiasis,0,0,1,1,1,1,1,0,0,0,0,0
+Delhi,Cholera,0,0,1,0,1,1,0,0,0,0,0,0
+Odisha,Malaria,1,0,1,1,0,0,1,0,1,1,1,0
+Assam,Malaria,1,1,0,1,0,0,1,0,1,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,0,1,1,0,0,1,0,0
+Kerala,Typhoid,0,0,0,1,0,0,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,0,0,0,1,0,0,0,1,0,0,0,0
+Bihar,Hepatitis,1,1,0,1,0,0,0,1,0,0,0,0
+Tamil Nadu,Typhoid,1,1,0,1,1,1,1,0,1,0,0,0
+Kerala,Typhoid,0,1,0,1,1,1,0,0,0,0,0,0
+Karnataka,Malaria,1,0,1,1,0,1,0,0,1,0,1,0
+Karnataka,Typhoid,1,0,1,1,0,0,1,0,0,0,0,0
+Rajasthan,Typhoid,0,0,1,1,0,0,0,0,0,0,0,0
+Assam,Typhoid,1,0,1,0,0,0,1,0,0,0,0,0
+Tamil Nadu,Malaria,1,0,1,0,0,0,0,0,0,0,0,0
+Tamil Nadu,Typhoid,1,1,0,0,1,1,1,0,0,0,0,0
+Karnataka,Malaria,1,0,1,0,0,1,0,0,1,0,0,0
+Tamil Nadu,Amoebiasis,1,1,0,0,0,1,1,0,0,0,0,1
+Bihar,Malaria,0,0,1,0,0,0,0,0,1,0,0,0
+Tamil Nadu,Cholera,0,1,0,1,0,1,0,1,0,0,0,0
+West Bengal,Typhoid,1,1,0,1,1,1,0,0,0,0,0,0
+Uttar Pradesh,Typhoid,1,1,0,1,1,0,1,1,0,0,0,0
+Maharashtra,Malaria,1,0,0,0,0,0,1,0,1,0,0,0
+Uttar Pradesh,Cholera,1,0,0,1,1,1,0,0,1,0,1,0
+Delhi,Hepatitis,1,0,1,1,0,0,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,0,1,1,1,0,0,0,0,1,1,0
+West Bengal,Dengue,1,0,1,0,1,1,0,0,0,1,0,0
+Assam,Typhoid,0,0,0,1,1,0,1,0,0,0,0,0
+Karnataka,Amoebiasis,1,0,1,0,0,1,1,0,0,0,0,0
+West Bengal,Typhoid,0,0,1,1,0,0,1,0,1,0,0,0
+Bihar,Amoebiasis,0,0,0,0,1,0,1,0,0,0,0,1
+West Bengal,Amoebiasis,1,0,0,0,0,0,1,0,0,0,0,0
+Bihar,Amoebiasis,1,1,1,1,1,1,1,0,0,0,0,0
+Rajasthan,Hepatitis,0,1,0,1,0,0,0,1,0,0,0,0
+Gujarat,Typhoid,1,0,0,1,0,0,1,0,1,0,0,0
+Karnataka,Dengue,0,1,1,1,0,0,0,0,0,0,1,0
+Tamil Nadu,Typhoid,1,1,0,0,1,0,1,0,1,0,0,0
+Karnataka,Typhoid,0,0,0,0,1,0,0,0,0,0,0,0
+Uttar Pradesh,Typhoid,0,1,0,0,1,0,1,0,0,0,0,0
+Rajasthan,Cholera,0,0,0,0,1,1,0,1,0,0,0,0
+Gujarat,Malaria,1,1,1,0,0,0,1,0,1,0,0,0
+Gujarat,Hepatitis,1,0,0,1,1,0,1,1,1,0,0,0
+Uttar Pradesh,Typhoid,0,0,1,0,1,1,0,0,0,0,1,0
+Bihar,Dengue,1,1,1,0,0,0,1,0,0,1,1,1
+Karnataka,Amoebiasis,0,0,0,1,1,1,1,0,1,0,0,0
+Bihar,Dengue,1,1,1,0,1,0,0,0,0,1,0,0
+Karnataka,Typhoid,1,1,0,1,0,1,1,0,0,0,0,0
+Odisha,Dengue,1,1,0,0,0,0,1,0,1,0,0,0
+Tamil Nadu,Malaria,1,1,0,0,1,0,0,0,1,0,0,0
+Odisha,Hepatitis,0,0,0,1,1,1,1,1,0,0,0,0
+Delhi,Typhoid,1,0,1,1,0,0,1,0,0,0,0,0
+Assam,Cholera,0,0,0,1,0,1,0,0,0,0,1,0
+Rajasthan,Typhoid,0,1,1,1,1,0,1,0,1,0,0,0
+Delhi,Malaria,1,1,1,0,0,0,1,0,0,0,0,0
+Rajasthan,Typhoid,1,0,0,1,0,0,0,0,1,0,0,0
+Uttar Pradesh,Amoebiasis,1,0,1,1,1,1,1,0,0,0,1,0
+Assam,Dengue,1,0,0,0,1,0,0,0,1,0,0,0
+Rajasthan,Cholera,0,0,1,1,1,1,0,1,1,0,0,0
+Maharashtra,Dengue,1,0,1,0,1,0,1,0,0,1,0,0
+Tamil Nadu,Typhoid,1,0,1,0,0,1,0,0,0,0,0,0
+Odisha,Dengue,1,1,0,1,0,0,0,1,1,0,0,0
+Uttar Pradesh,Typhoid,0,1,1,1,1,1,1,0,0,0,0,0
+Assam,Typhoid,1,1,0,1,1,1,0,0,0,0,1,0
+Tamil Nadu,Hepatitis,1,1,1,1,0,0,1,1,0,1,0,0
+Rajasthan,Typhoid,0,1,1,1,1,1,1,1,0,0,0,0
+Rajasthan,Dengue,1,1,1,0,1,1,0,0,1,1,1,0
+Gujarat,Hepatitis,1,0,1,1,0,1,0,0,0,0,0,1
+Assam,Hepatitis,0,1,0,1,1,1,0,1,0,0,0,0
+Delhi,Typhoid,1,1,0,0,0,1,1,0,0,0,0,0
+Uttar Pradesh,Cholera,1,0,0,0,1,1,1,0,0,0,0,0
+Rajasthan,Typhoid,0,0,1,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Cholera,0,0,0,1,1,1,1,0,0,0,0,1
+Tamil Nadu,Typhoid,1,0,0,0,0,1,1,0,0,0,0,0
+West Bengal,Typhoid,1,1,0,1,1,0,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,0,0,0,0,0,1,1,0,0,1,0
+Rajasthan,Amoebiasis,1,1,0,0,1,0,1,0,0,0,0,0
+Karnataka,Hepatitis,1,1,0,1,0,0,1,1,0,0,0,0
+West Bengal,Malaria,1,0,1,0,0,0,0,0,0,0,1,0
+Delhi,Cholera,1,1,0,1,0,1,0,0,0,0,0,0
+Maharashtra,Cholera,1,0,0,0,0,1,0,0,0,0,0,0
+Assam,Dengue,1,1,1,0,0,0,1,0,0,1,0,0
+Maharashtra,Typhoid,0,0,0,1,0,0,1,0,0,0,0,0
+Odisha,Hepatitis,0,0,1,1,1,1,1,1,0,0,0,0
+Delhi,Malaria,1,1,1,0,0,1,0,0,1,0,1,0
+Karnataka,Cholera,0,0,0,1,1,1,0,0,1,0,0,0
+Tamil Nadu,Amoebiasis,1,0,1,0,1,1,1,0,0,0,0,1
+Tamil Nadu,Typhoid,0,1,1,1,0,1,1,0,0,0,0,0
+Kerala,Typhoid,1,0,0,1,0,0,1,0,1,0,0,0
+Rajasthan,Hepatitis,0,0,1,0,0,0,1,1,0,0,0,0
+Karnataka,Dengue,1,1,1,1,1,0,0,0,0,0,0,0
+Kerala,Hepatitis,0,1,0,1,0,0,1,1,0,0,0,0
+Odisha,Cholera,1,0,0,0,0,1,0,0,0,0,0,0
+Rajasthan,Malaria,1,1,1,1,0,0,0,0,1,0,0,1
+Gujarat,Dengue,1,1,1,0,1,0,1,0,1,1,1,0
+Gujarat,Hepatitis,1,1,0,1,1,0,1,1,0,0,0,1
+Bihar,Typhoid,0,0,1,1,0,0,1,1,0,0,0,0
+Maharashtra,Cholera,0,0,0,0,1,1,1,0,0,0,0,0
+Uttar Pradesh,Cholera,0,0,1,1,0,1,1,0,0,0,0,1
+West Bengal,Cholera,1,0,0,1,1,1,0,1,0,0,0,0
+Gujarat,Cholera,0,0,0,1,0,1,1,0,0,0,0,0
+Gujarat,Malaria,1,0,0,0,0,0,0,0,1,0,0,0
+Gujarat,Dengue,1,1,1,0,1,1,1,0,1,0,0,0
+Karnataka,Cholera,1,0,0,1,1,0,0,0,0,0,0,0
+Assam,Dengue,1,1,1,1,0,1,1,0,0,1,0,0
+Bihar,Amoebiasis,0,0,1,1,1,1,1,0,0,0,0,0
+Karnataka,Cholera,1,0,1,0,1,1,0,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,0,1,1,1,0,0,1,0,0,0,0
+West Bengal,Cholera,1,0,1,0,0,1,0,0,0,0,0,0
+Odisha,Typhoid,1,1,0,0,1,0,1,0,0,0,0,0
+Delhi,Malaria,1,0,1,0,1,0,1,0,1,0,0,0
+Rajasthan,Hepatitis,1,1,0,1,0,0,0,1,0,0,0,0
+Kerala,Typhoid,0,1,0,0,0,1,0,0,0,0,0,0
+Tamil Nadu,Cholera,0,1,0,1,1,1,1,0,0,0,0,0
+Bihar,Hepatitis,0,1,0,0,0,0,1,1,0,0,0,0
+Delhi,Malaria,1,1,1,0,1,1,0,0,1,0,1,0
+Karnataka,Hepatitis,1,1,1,1,0,0,0,1,1,0,0,0
+Uttar Pradesh,Cholera,1,1,1,0,0,1,0,0,0,0,0,0
+Rajasthan,Amoebiasis,1,0,0,0,0,0,1,0,0,0,0,0
+Bihar,Hepatitis,1,1,0,0,0,0,1,1,0,0,0,0
+Assam,Amoebiasis,0,0,1,0,1,0,1,1,0,1,0,0
+Gujarat,Hepatitis,0,0,0,1,1,1,1,1,0,0,0,1
+Gujarat,Dengue,1,1,1,0,0,1,0,0,0,0,1,0
+Delhi,Typhoid,1,1,0,0,1,0,1,0,0,0,0,0
+Karnataka,Typhoid,0,1,1,0,1,0,1,0,0,0,0,0
+Gujarat,Cholera,0,1,0,0,1,1,0,0,0,0,0,0
+Bihar,Typhoid,1,1,1,1,1,0,1,0,1,0,0,0
+Kerala,Cholera,0,0,1,1,1,1,1,0,0,0,0,1
+West Bengal,Typhoid,1,1,0,0,1,0,1,0,1,0,0,0
+West Bengal,Amoebiasis,1,0,0,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,1,0,1,0,0,0,1,0
+Odisha,Typhoid,1,1,1,1,1,0,0,0,0,0,1,0
+Maharashtra,Amoebiasis,0,0,0,0,1,0,1,0,0,0,1,0
+Rajasthan,Cholera,0,0,0,0,1,1,0,0,0,0,1,0
+Tamil Nadu,Malaria,0,0,0,0,1,0,0,0,1,0,0,0
+Karnataka,Cholera,0,0,1,0,1,1,1,0,0,0,0,0
+Assam,Dengue,1,1,1,0,0,0,0,0,1,0,0,0
+Odisha,Malaria,1,0,1,0,0,1,1,1,1,0,0,0
+Gujarat,Amoebiasis,0,0,1,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Cholera,0,0,0,1,1,1,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,0,1,0,1,0,0,0,1,1,1,0
+Rajasthan,Dengue,1,1,0,1,0,1,1,1,0,1,1,0
+Assam,Typhoid,1,0,0,0,0,0,1,0,0,0,0,0
+Assam,Hepatitis,0,0,0,1,1,0,1,1,0,0,0,0
+Odisha,Amoebiasis,0,0,0,1,0,1,1,0,0,0,0,0
+Kerala,Typhoid,1,0,0,1,0,1,1,0,0,0,0,0
+Kerala,Hepatitis,1,1,0,0,1,0,1,1,0,0,1,0
+Delhi,Malaria,1,1,0,1,0,0,0,0,1,1,1,0
+Gujarat,Hepatitis,0,0,0,0,0,0,0,1,0,0,0,0
+Kerala,Typhoid,1,1,0,1,0,1,1,1,0,0,0,0
+Odisha,Hepatitis,0,0,0,0,1,0,1,1,0,0,0,0
+Bihar,Cholera,0,0,1,0,1,1,0,0,0,0,0,0
+Tamil Nadu,Malaria,1,0,1,0,0,0,0,0,1,0,0,0
+West Bengal,Cholera,1,1,0,0,1,1,0,0,0,0,0,0
+Delhi,Cholera,0,0,1,1,0,1,0,0,0,0,0,0
+Maharashtra,Dengue,1,1,1,0,0,1,1,0,0,0,0,0
+Assam,Dengue,1,1,0,0,0,0,1,0,0,0,1,0
+Odisha,Malaria,1,0,0,0,0,0,0,0,1,0,0,0
+Kerala,Typhoid,1,1,0,1,1,1,1,0,1,0,0,0
+Rajasthan,Cholera,0,0,1,1,1,1,1,0,0,0,0,0
+Maharashtra,Malaria,1,1,1,0,0,0,0,0,0,0,0,0
+Kerala,Cholera,0,1,1,0,0,1,0,0,0,0,0,0
+Maharashtra,Typhoid,1,0,0,0,0,1,1,0,0,0,1,0
+Assam,Hepatitis,1,0,1,1,0,0,0,1,0,1,0,0
+Assam,Typhoid,1,0,0,1,0,0,0,0,0,0,0,0
+Gujarat,Hepatitis,1,0,0,1,1,0,0,1,0,0,0,0
+Tamil Nadu,Cholera,0,0,1,1,1,1,1,0,0,1,0,0
+Rajasthan,Typhoid,0,0,1,1,1,1,0,0,0,0,0,0
+Karnataka,Typhoid,1,1,0,1,0,1,1,0,1,0,0,0
+Karnataka,Malaria,1,1,1,1,1,0,1,0,1,0,0,0
+Rajasthan,Typhoid,1,0,0,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Malaria,1,0,0,0,0,0,1,0,1,0,0,0
+Odisha,Dengue,1,0,1,1,0,0,0,0,1,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,1,0,0,0,1,0,1,0
+Maharashtra,Dengue,1,1,0,1,1,0,0,0,0,1,0,0
+Uttar Pradesh,Amoebiasis,0,0,0,0,0,0,1,0,0,0,0,0
+West Bengal,Typhoid,0,1,1,0,1,1,1,0,0,0,0,0
+Rajasthan,Amoebiasis,1,1,1,0,1,1,1,0,0,0,0,1
+Maharashtra,Typhoid,1,1,0,0,1,1,0,0,0,0,0,0
+Karnataka,Malaria,0,0,1,0,0,0,0,0,1,0,1,0
+Delhi,Amoebiasis,0,1,1,1,0,1,0,0,0,0,0,0
+Karnataka,Hepatitis,0,0,0,0,0,0,1,1,0,0,0,0
+Tamil Nadu,Malaria,1,1,1,0,1,0,0,0,1,1,0,0
+Assam,Dengue,1,1,1,0,1,0,0,0,0,1,0,1
+Delhi,Malaria,1,0,1,0,0,0,1,0,1,0,0,0
+Delhi,Hepatitis,1,1,0,1,1,0,1,0,0,0,0,0
+Bihar,Typhoid,1,1,1,0,1,0,1,1,0,0,0,0
+Gujarat,Malaria,1,0,1,0,0,1,0,0,1,0,0,0
+West Bengal,Dengue,1,0,1,1,0,0,0,0,1,1,1,0
+West Bengal,Dengue,0,1,1,1,1,0,0,0,1,0,0,0
+Kerala,Typhoid,0,0,0,0,1,1,0,0,1,0,1,0
+Karnataka,Hepatitis,0,1,0,0,1,0,1,0,1,0,0,0
+Odisha,Cholera,0,0,0,1,0,1,0,1,0,0,0,0
+Uttar Pradesh,Dengue,1,0,1,1,1,0,0,0,0,1,1,0
+Tamil Nadu,Hepatitis,0,1,0,1,1,0,1,1,0,1,0,0
+Gujarat,Amoebiasis,1,1,0,1,0,1,1,0,0,0,1,0
+West Bengal,Hepatitis,1,1,1,1,0,0,1,0,0,0,0,0
+Delhi,Dengue,1,1,1,0,1,0,0,0,1,0,0,0
+Assam,Malaria,1,1,1,1,1,1,1,0,1,0,0,0
+Kerala,Amoebiasis,0,1,1,0,0,1,1,0,0,0,0,0
+Rajasthan,Typhoid,1,0,0,1,0,1,1,0,1,0,0,0
+Tamil Nadu,Typhoid,0,1,0,1,1,0,1,0,1,0,0,0
+Karnataka,Hepatitis,1,0,0,1,0,0,1,1,0,0,0,0
+West Bengal,Malaria,1,1,0,0,0,1,0,0,1,0,1,0
+West Bengal,Hepatitis,0,0,1,1,0,0,0,1,0,0,0,0
+West Bengal,Cholera,1,0,0,1,1,1,0,0,0,0,0,0
+Karnataka,Hepatitis,0,1,0,0,0,0,0,1,0,0,0,0
+Kerala,Typhoid,0,0,1,0,1,0,1,0,0,0,0,0
+Maharashtra,Amoebiasis,0,0,0,0,0,0,1,0,0,0,0,0
+Karnataka,Cholera,0,1,0,0,1,1,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,0,0,1,0,0,0,1,0,0,0,0,0
+Kerala,Hepatitis,1,0,0,1,1,0,1,1,0,0,1,0
+Assam,Typhoid,1,1,1,1,0,0,0,1,0,0,0,0
+Tamil Nadu,Cholera,0,1,0,1,1,1,0,0,0,0,0,0
+Odisha,Cholera,1,0,1,0,1,1,0,0,0,0,0,0
+Gujarat,Typhoid,0,0,0,1,1,0,1,0,0,0,0,0
+West Bengal,Amoebiasis,0,1,0,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,1,0,0,1,1,0,1,0,0,0
+West Bengal,Hepatitis,1,1,0,0,0,0,1,0,0,0,0,0
+Maharashtra,Hepatitis,0,1,1,0,1,0,1,1,0,1,0,0
+Rajasthan,Dengue,1,1,1,0,1,0,1,0,0,1,0,1
+Karnataka,Hepatitis,0,0,1,1,0,1,1,1,0,0,0,0
+Assam,Malaria,1,0,1,0,0,1,0,0,1,0,0,0
+West Bengal,Cholera,0,1,0,1,0,1,0,0,0,0,0,0
+Rajasthan,Dengue,1,1,1,0,1,0,1,0,1,1,0,0
+Maharashtra,Cholera,0,0,0,0,1,1,0,0,1,0,0,0
+Odisha,Typhoid,1,1,1,1,0,0,0,0,1,0,1,1
+Maharashtra,Malaria,1,1,1,1,0,1,0,0,1,0,1,0
+Uttar Pradesh,Cholera,1,0,1,0,1,1,0,0,0,1,0,0
+Odisha,Typhoid,1,0,0,1,0,1,1,0,1,0,0,1
+Karnataka,Amoebiasis,0,0,0,1,1,1,0,0,0,0,0,1
+Kerala,Dengue,1,1,1,0,1,0,0,0,1,1,0,0
+West Bengal,Dengue,1,1,1,1,0,0,0,0,0,0,1,0
+West Bengal,Malaria,1,1,1,0,1,0,0,0,0,0,0,0
+Assam,Hepatitis,1,1,0,1,0,0,0,1,0,0,0,0
+Assam,Amoebiasis,0,1,1,0,0,1,1,0,0,0,0,0
+West Bengal,Cholera,0,0,1,0,0,1,0,0,1,0,0,0
+Delhi,Malaria,1,1,1,1,0,0,0,0,1,0,0,0
+Delhi,Typhoid,1,1,0,1,1,0,1,0,0,0,0,0
+Gujarat,Malaria,1,0,1,0,1,0,0,1,1,0,0,0
+Odisha,Amoebiasis,1,0,0,1,1,0,1,0,0,0,0,0
+Kerala,Hepatitis,0,0,0,1,1,1,1,1,1,1,0,0
+Uttar Pradesh,Cholera,1,0,0,1,1,1,0,0,0,1,0,0
+Kerala,Dengue,1,1,1,1,1,0,0,0,0,0,0,0
+West Bengal,Hepatitis,0,1,0,1,0,0,1,1,0,1,0,1
+Delhi,Typhoid,0,1,1,1,1,0,1,0,0,0,0,0
+Kerala,Malaria,1,0,1,1,0,0,0,0,1,0,1,0
+Odisha,Cholera,0,0,0,1,1,1,0,0,0,0,0,0
+Delhi,Amoebiasis,1,0,1,0,0,1,0,0,0,0,0,0
+Assam,Malaria,1,1,0,1,0,0,0,0,1,0,0,0
+Gujarat,Amoebiasis,1,1,0,0,1,1,1,0,0,0,0,1
+Karnataka,Cholera,1,0,1,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Dengue,0,1,0,1,0,0,0,0,0,0,1,0
+Gujarat,Malaria,1,1,0,1,1,0,0,0,1,0,0,0
+West Bengal,Hepatitis,0,1,0,1,0,0,0,1,0,0,0,0
+Karnataka,Typhoid,0,0,1,1,0,1,1,0,1,0,1,0
+Bihar,Hepatitis,0,0,0,1,1,0,0,1,0,0,0,0
+Delhi,Amoebiasis,0,0,0,0,0,1,1,0,0,0,0,0
+Uttar Pradesh,Malaria,1,0,1,0,0,0,0,0,0,0,0,0
+Kerala,Malaria,0,1,1,0,1,0,0,0,1,0,1,0
+Kerala,Typhoid,1,1,1,1,0,0,0,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,1,1,1,0,0,1,1,1,0
+Maharashtra,Hepatitis,0,1,0,1,0,0,1,1,0,0,0,0
+Maharashtra,Amoebiasis,1,0,1,0,1,1,1,0,0,0,0,0
+Maharashtra,Malaria,1,1,1,1,1,0,1,0,1,0,0,0
+Tamil Nadu,Hepatitis,0,0,0,1,0,1,0,1,0,0,0,0
+Tamil Nadu,Cholera,0,0,0,1,1,1,0,0,0,1,0,0
+Tamil Nadu,Amoebiasis,0,0,1,1,1,1,1,0,0,0,0,0
+Tamil Nadu,Cholera,0,0,1,0,1,1,0,0,0,0,0,1
+West Bengal,Dengue,1,1,0,1,1,0,1,0,1,1,0,0
+Kerala,Malaria,1,1,1,0,0,0,0,0,1,0,0,0
+Assam,Dengue,1,1,1,0,0,0,1,0,0,1,1,0
+Assam,Typhoid,1,0,1,0,1,1,1,0,0,0,0,0
+Bihar,Cholera,1,1,1,1,1,1,0,0,0,0,0,0
+Uttar Pradesh,Malaria,1,0,1,0,1,0,0,0,1,0,1,0
+Rajasthan,Dengue,1,0,1,1,1,0,1,0,0,0,1,0
+Gujarat,Malaria,1,0,0,0,0,0,1,0,1,0,0,0
+West Bengal,Cholera,0,1,1,1,0,1,0,0,0,0,0,0
+Kerala,Amoebiasis,1,0,1,0,0,0,1,0,0,0,0,1
+Kerala,Hepatitis,1,0,1,1,1,0,1,1,0,0,0,0
+Odisha,Hepatitis,0,0,0,1,0,0,1,1,0,1,0,0
+Odisha,Hepatitis,1,1,0,1,0,0,0,1,0,0,0,0
+Odisha,Cholera,1,1,0,1,0,0,0,1,0,0,0,0
+Gujarat,Typhoid,1,1,1,0,0,0,0,0,0,0,0,0
+Gujarat,Dengue,1,1,1,1,0,0,1,0,1,0,0,0
+West Bengal,Cholera,0,1,0,0,1,1,1,0,1,1,0,0
+Tamil Nadu,Cholera,0,0,1,0,1,0,0,0,0,0,0,0
+Rajasthan,Malaria,1,0,0,0,0,0,0,0,1,0,1,0
+Karnataka,Malaria,1,0,1,1,1,0,0,0,1,0,0,0
+Kerala,Cholera,1,0,0,0,1,1,1,0,0,1,0,0
+Odisha,Typhoid,1,0,1,0,0,1,1,0,0,0,0,0
+Maharashtra,Dengue,1,1,1,1,1,0,0,0,0,1,1,0
+Assam,Amoebiasis,1,1,0,0,0,1,1,0,0,0,0,0
+Odisha,Typhoid,1,0,1,1,1,0,1,1,1,0,0,0
+Rajasthan,Typhoid,1,0,0,1,1,0,1,0,0,0,1,1
+Karnataka,Dengue,1,1,1,0,0,0,1,0,1,0,1,0
+Kerala,Hepatitis,0,0,0,1,1,0,0,1,0,0,0,0
+Karnataka,Malaria,1,1,1,0,1,1,0,0,1,0,1,0
+Kerala,Dengue,1,0,1,0,0,0,0,0,0,1,1,0
+Odisha,Typhoid,0,0,0,1,1,1,1,0,0,0,0,0
+West Bengal,Hepatitis,0,0,0,1,0,0,1,1,0,0,0,0
+Rajasthan,Dengue,1,1,1,1,1,0,1,0,0,0,0,0
+Delhi,Malaria,1,0,1,1,0,1,1,0,1,0,0,0
+West Bengal,Cholera,0,0,1,0,1,0,0,0,0,0,0,0
+Bihar,Typhoid,0,0,0,1,1,0,1,1,0,0,0,0
+Gujarat,Dengue,1,1,0,1,0,0,0,0,0,1,1,0
+West Bengal,Hepatitis,1,0,0,1,0,0,1,1,0,1,0,0
+Bihar,Cholera,0,0,0,1,1,1,0,0,0,0,0,0
+Uttar Pradesh,Hepatitis,1,0,1,0,1,0,0,1,0,0,0,0
+Delhi,Amoebiasis,1,0,1,1,0,0,1,0,0,0,0,0
+Assam,Malaria,1,0,1,1,0,0,0,0,1,0,0,0
+Bihar,Amoebiasis,0,0,0,1,1,0,1,0,0,0,0,0
+Rajasthan,Hepatitis,1,1,1,1,1,1,1,1,0,0,0,0
+West Bengal,Cholera,1,0,0,1,1,1,0,0,0,1,0,0
+Rajasthan,Malaria,0,1,0,0,0,0,1,0,1,0,0,0
+Assam,Hepatitis,1,1,0,0,0,0,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,0,1,0,0,0,0,0,0,0,0
+Karnataka,Amoebiasis,0,0,0,0,0,1,1,0,0,0,1,0
+Rajasthan,Typhoid,1,0,0,0,0,1,0,0,0,0,0,0
+Gujarat,Malaria,1,1,1,0,0,0,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,1,0,0,0,0,0,0,0
+Karnataka,Hepatitis,0,1,1,1,1,0,0,1,1,1,0,0
+Tamil Nadu,Typhoid,1,1,1,0,1,0,1,0,0,0,0,0
+Bihar,Malaria,1,1,0,1,0,0,1,0,1,0,0,0
+Tamil Nadu,Amoebiasis,1,1,0,1,1,0,1,0,0,0,0,0
+Maharashtra,Dengue,1,1,1,1,0,0,0,0,0,1,0,1
+Karnataka,Malaria,1,0,1,0,0,0,0,0,0,0,0,0
+Rajasthan,Hepatitis,0,1,1,1,1,0,1,0,0,0,0,0
+Uttar Pradesh,Malaria,1,0,1,0,0,1,0,0,1,0,0,0
+Maharashtra,Hepatitis,0,1,0,1,1,1,1,1,0,1,0,0
+Maharashtra,Hepatitis,1,0,1,0,1,0,1,1,1,0,0,0
+Gujarat,Cholera,1,0,1,1,1,1,0,0,0,0,0,0
+Bihar,Hepatitis,1,0,0,0,0,1,0,1,0,0,0,0
+Tamil Nadu,Hepatitis,0,0,0,1,0,0,1,1,0,0,0,0
+West Bengal,Malaria,1,0,0,0,1,0,1,1,1,0,0,0
+Karnataka,Cholera,0,0,1,1,0,0,1,0,0,0,0,0
+Gujarat,Malaria,1,1,0,1,1,0,1,0,1,0,0,0
+Assam,Cholera,0,0,0,1,0,1,0,0,1,0,0,0
+Kerala,Malaria,1,1,0,1,1,0,1,0,1,0,1,0
+Uttar Pradesh,Dengue,1,1,1,1,0,0,0,0,1,1,1,0
+Uttar Pradesh,Dengue,1,1,0,1,1,0,0,0,0,1,0,0
+Bihar,Hepatitis,0,1,0,1,1,0,0,1,0,0,0,0
+Karnataka,Typhoid,1,1,1,0,1,0,1,0,0,0,0,0
+Delhi,Amoebiasis,1,0,0,0,1,1,1,0,0,1,0,0
+Gujarat,Dengue,0,0,1,0,1,1,0,0,0,0,1,0
+Kerala,Typhoid,1,1,0,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,1,0,0,1,0,0,0,1,0
+Uttar Pradesh,Malaria,1,0,1,0,0,0,0,1,1,1,0,0
+Bihar,Cholera,1,0,1,1,1,1,1,0,0,0,0,0
+Bihar,Amoebiasis,0,1,0,0,1,0,1,1,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,1,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,1,1,0,1,0,0,1,0,0,0,0
+Tamil Nadu,Typhoid,0,0,0,1,1,0,1,0,0,0,0,0
+Bihar,Hepatitis,0,1,1,0,0,0,0,1,0,0,0,0
+Gujarat,Dengue,1,0,1,0,0,0,0,0,0,1,0,0
+Bihar,Malaria,1,0,0,1,0,0,0,0,1,0,1,0
+Karnataka,Dengue,1,1,1,1,0,0,0,0,0,1,0,0
+Bihar,Malaria,1,1,0,0,0,0,1,0,1,0,0,0
+Maharashtra,Amoebiasis,0,1,1,0,1,1,1,0,0,0,1,0
+Assam,Dengue,1,1,1,0,0,0,0,0,0,1,0,0
+Kerala,Dengue,1,1,0,1,0,0,0,0,1,1,0,0
+Odisha,Typhoid,1,1,0,0,1,0,1,0,0,0,1,0
+Rajasthan,Cholera,0,0,0,0,0,0,0,0,0,0,0,0
+Delhi,Hepatitis,0,1,0,1,0,0,1,1,0,0,0,0
+Karnataka,Hepatitis,0,1,1,1,0,0,0,1,0,0,0,0
+Maharashtra,Malaria,1,0,1,0,1,1,0,0,1,0,0,0
+Uttar Pradesh,Hepatitis,1,1,0,1,1,0,1,1,0,0,0,0
+Tamil Nadu,Dengue,1,1,0,1,0,0,1,0,1,0,0,0
+West Bengal,Amoebiasis,0,0,0,0,1,0,1,0,0,0,0,0
+West Bengal,Hepatitis,0,1,1,1,1,0,0,1,0,0,0,1
+Kerala,Amoebiasis,0,0,0,1,0,1,0,0,0,0,0,0
+Rajasthan,Hepatitis,0,1,1,1,1,0,0,1,1,0,0,0
+Tamil Nadu,Malaria,1,1,1,1,0,1,0,0,1,0,0,0
+Kerala,Malaria,1,1,1,0,0,1,0,1,1,1,0,0
+West Bengal,Hepatitis,0,1,0,1,0,0,1,1,0,0,0,0
+Odisha,Typhoid,0,1,0,0,0,1,1,0,0,0,0,0
+Delhi,Cholera,0,0,0,0,1,1,0,0,0,0,1,0
+Rajasthan,Typhoid,1,1,1,1,0,0,1,1,0,0,0,0
+Karnataka,Typhoid,1,1,1,1,0,0,0,0,0,0,0,0
+Odisha,Amoebiasis,1,0,0,0,1,1,1,0,1,0,0,0
+Karnataka,Hepatitis,0,1,0,1,1,0,1,1,0,0,0,0
+Uttar Pradesh,Hepatitis,1,1,0,0,1,0,1,1,0,0,0,0
+Bihar,Typhoid,1,1,1,1,0,0,1,0,0,0,1,0
+Gujarat,Typhoid,0,1,1,1,1,0,1,0,0,0,0,0
+Maharashtra,Amoebiasis,0,1,1,0,0,1,0,0,0,0,0,0
+Rajasthan,Hepatitis,1,1,0,1,0,0,1,1,0,1,0,0
+Odisha,Typhoid,1,0,0,1,1,0,0,0,0,0,0,0
+Karnataka,Hepatitis,1,1,0,1,1,0,0,1,1,0,0,0
+Kerala,Dengue,1,1,1,1,1,0,1,0,0,0,0,0
+Assam,Hepatitis,1,0,0,0,0,0,0,1,0,0,0,1
+West Bengal,Dengue,1,1,1,1,0,1,0,0,0,1,1,0
+Assam,Typhoid,0,1,0,1,0,1,1,0,1,0,1,0
+Gujarat,Amoebiasis,0,1,0,1,1,1,1,0,0,0,0,0
+Delhi,Typhoid,0,1,1,1,0,1,0,0,0,0,0,0
+Bihar,Amoebiasis,0,1,0,0,1,1,1,0,0,0,0,0
+Delhi,Cholera,1,1,0,1,0,1,1,0,0,0,0,0
+Maharashtra,Typhoid,1,0,0,0,1,1,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,0,1,1,0,0,0,0,0,0,0,0
+Rajasthan,Hepatitis,1,0,0,1,1,0,1,1,1,0,0,0
+Rajasthan,Typhoid,1,0,1,1,1,0,0,0,0,1,0,0
+Rajasthan,Cholera,1,0,0,1,1,1,0,0,0,0,0,0
+Odisha,Dengue,1,1,0,0,0,0,0,0,0,1,0,1
+Gujarat,Dengue,1,0,1,0,0,0,1,0,1,0,1,0
+West Bengal,Amoebiasis,1,1,1,1,1,0,1,0,0,0,0,0
+Tamil Nadu,Amoebiasis,0,0,1,0,0,1,1,0,0,0,1,0
+Tamil Nadu,Typhoid,0,0,0,0,1,1,1,0,0,1,0,0
+Rajasthan,Dengue,1,1,1,1,1,0,0,0,0,1,0,0
+Assam,Dengue,1,0,1,0,1,0,0,0,1,0,1,0
+Rajasthan,Hepatitis,1,0,1,1,0,1,0,1,0,0,0,0
+Bihar,Cholera,0,0,0,0,0,1,0,0,0,0,0,0
+West Bengal,Typhoid,0,0,0,1,0,1,1,0,0,1,0,0
+Kerala,Hepatitis,0,0,0,0,1,0,1,1,0,0,0,0
+Bihar,Malaria,1,1,0,0,1,1,1,0,1,0,0,0
+Maharashtra,Dengue,1,1,1,1,0,1,0,0,0,0,1,0
+Delhi,Cholera,0,1,0,1,0,1,0,0,0,0,0,0
+Bihar,Typhoid,1,1,0,1,0,1,1,0,0,0,0,0
+Delhi,Malaria,1,1,1,0,0,0,0,0,1,0,1,0
+Rajasthan,Dengue,1,1,1,1,1,1,0,0,0,1,1,0
+Kerala,Cholera,0,0,0,1,0,1,0,1,1,0,0,0
+Uttar Pradesh,Dengue,1,0,0,1,1,0,0,0,0,1,1,0
+Odisha,Cholera,0,0,1,0,1,1,0,0,0,0,1,0
+Rajasthan,Dengue,1,0,1,1,1,0,0,0,0,1,0,0
+Tamil Nadu,Dengue,1,0,1,1,0,0,0,0,1,1,1,0
+Odisha,Dengue,1,1,1,1,0,0,0,0,0,1,0,1
+Delhi,Hepatitis,0,0,0,0,1,0,1,1,1,0,0,0
+Tamil Nadu,Malaria,1,0,0,0,1,0,0,0,1,0,0,0
+West Bengal,Cholera,1,1,0,1,1,1,0,0,0,0,0,1
+Kerala,Amoebiasis,0,1,0,0,1,0,1,0,0,0,0,0
+Kerala,Dengue,1,0,1,1,0,1,1,0,1,1,0,1
+Maharashtra,Hepatitis,1,0,0,0,0,1,1,1,0,0,0,0
+Odisha,Cholera,1,0,1,1,0,1,0,0,0,0,0,0
+Delhi,Hepatitis,1,0,1,0,1,0,0,1,0,0,0,0
+Assam,Amoebiasis,0,0,0,1,0,1,1,0,0,0,0,1
+Uttar Pradesh,Amoebiasis,1,0,0,0,1,1,0,0,0,0,0,0
+Assam,Cholera,0,1,0,1,1,1,1,0,0,0,0,1
+Tamil Nadu,Dengue,1,1,0,1,0,0,0,0,1,1,1,0
+Tamil Nadu,Amoebiasis,0,1,0,1,0,1,1,0,0,0,0,0
+West Bengal,Hepatitis,0,1,1,0,1,1,0,1,0,0,0,1
+Kerala,Dengue,1,1,1,1,1,0,0,0,0,1,0,0
+Karnataka,Malaria,0,1,1,0,0,0,1,0,1,0,1,0
+Assam,Typhoid,0,1,0,1,1,0,1,0,0,0,0,0
+Delhi,Malaria,1,1,1,0,0,0,1,1,1,0,0,0
+Tamil Nadu,Cholera,1,1,0,1,0,1,0,0,0,1,0,0
+Gujarat,Hepatitis,1,1,1,1,1,0,0,1,1,0,0,0
+Maharashtra,Typhoid,1,0,0,0,0,1,1,0,0,0,0,0
+Uttar Pradesh,Hepatitis,1,0,1,1,1,0,1,1,1,0,0,0
+West Bengal,Hepatitis,1,0,1,1,1,0,0,1,0,0,0,0
+Gujarat,Dengue,1,1,1,1,1,1,0,1,0,0,0,0
+West Bengal,Dengue,1,1,1,0,0,0,0,1,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,1,0,0,1,1,1,0,0
+Maharashtra,Dengue,1,1,1,1,0,0,0,0,0,1,0,0
+Odisha,Dengue,1,1,1,1,1,0,1,0,0,0,1,0
+Gujarat,Hepatitis,1,1,0,0,0,0,1,1,0,0,0,1
+West Bengal,Typhoid,1,1,0,1,0,1,1,0,0,0,0,0
+Bihar,Cholera,0,0,0,0,1,1,0,0,1,0,0,0
+Kerala,Hepatitis,1,0,1,0,0,1,0,1,0,0,0,0
+Gujarat,Cholera,1,0,0,1,1,1,0,0,0,0,1,0
+Odisha,Cholera,0,1,1,1,0,1,0,0,0,0,0,0
+Odisha,Typhoid,0,1,0,1,1,1,0,0,0,0,0,0
+Gujarat,Malaria,1,1,1,1,0,1,1,0,1,0,0,0
+Tamil Nadu,Malaria,1,1,0,0,0,1,1,0,1,0,1,0
+Kerala,Dengue,1,1,1,0,0,1,0,0,0,0,0,0
+Maharashtra,Dengue,1,0,1,1,0,0,1,0,0,1,0,0
+Odisha,Cholera,0,0,1,0,1,1,0,0,0,0,0,0
+Odisha,Typhoid,1,1,1,0,1,0,1,0,0,0,0,0
+Karnataka,Dengue,1,1,1,1,0,1,0,0,0,0,0,1
+Tamil Nadu,Amoebiasis,1,0,0,0,1,0,1,0,0,0,0,0
+Odisha,Cholera,0,0,0,0,0,1,1,0,0,0,0,0
+Rajasthan,Typhoid,1,1,0,1,1,0,0,0,0,0,0,0
+Tamil Nadu,Typhoid,1,0,1,1,0,1,1,0,0,0,1,0
+Maharashtra,Dengue,1,0,1,1,0,1,0,1,0,0,0,0
+West Bengal,Dengue,1,1,1,0,1,0,0,0,0,1,0,0
+Maharashtra,Typhoid,1,0,0,1,0,1,1,0,0,0,0,0
+Bihar,Amoebiasis,1,1,0,1,1,1,1,0,0,0,1,0
+Karnataka,Malaria,1,0,1,0,1,0,1,0,1,0,1,1
+Gujarat,Malaria,1,0,0,0,0,0,0,0,1,0,0,1
+Assam,Typhoid,1,0,1,1,0,0,1,0,0,0,0,0
+Kerala,Typhoid,0,0,1,1,0,0,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,1,0,1,0,0,1,1,0,0,0,0
+Delhi,Dengue,1,1,1,0,0,0,1,0,0,0,1,1
+Maharashtra,Amoebiasis,0,0,1,0,0,1,0,0,0,0,0,0
+Uttar Pradesh,Cholera,1,1,1,1,1,1,0,0,0,0,0,0
+West Bengal,Dengue,1,1,1,1,1,0,0,0,0,1,1,0
+Bihar,Amoebiasis,0,1,0,1,0,1,1,0,0,0,0,0
+Bihar,Amoebiasis,1,0,0,1,0,1,1,0,1,0,0,0
+Maharashtra,Amoebiasis,1,0,1,1,1,1,0,0,0,0,0,0
+Rajasthan,Typhoid,1,0,1,0,1,0,0,0,0,0,1,0
+Odisha,Hepatitis,0,0,0,0,1,0,0,1,0,0,0,0
+Kerala,Hepatitis,1,1,0,1,1,1,0,1,0,0,0,0
+Gujarat,Malaria,1,1,1,0,1,0,1,0,1,0,0,0
+West Bengal,Cholera,1,1,0,1,1,1,0,0,0,0,0,0
+Uttar Pradesh,Malaria,1,0,1,1,0,0,1,0,1,0,0,0
+Assam,Malaria,1,1,0,0,0,1,0,0,1,0,0,0
+Assam,Amoebiasis,1,0,0,0,0,1,1,0,0,0,1,0
+Maharashtra,Typhoid,0,0,0,1,1,0,1,0,0,0,0,0
+West Bengal,Cholera,1,0,0,0,1,0,0,0,0,0,0,0
+Karnataka,Typhoid,1,1,0,1,1,1,1,0,1,0,0,0
+Gujarat,Amoebiasis,1,1,1,0,1,1,1,0,0,0,0,0
+Kerala,Amoebiasis,1,0,0,1,1,1,1,0,0,0,0,1
+Tamil Nadu,Cholera,0,0,1,0,1,1,0,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,0,0,0,1,0,1,1,0,0
+Tamil Nadu,Typhoid,1,1,0,1,1,0,1,0,0,0,1,0
+West Bengal,Typhoid,1,0,0,0,1,1,1,0,0,0,0,0
+Odisha,Hepatitis,0,0,0,0,0,0,0,1,0,0,0,0
+Assam,Malaria,1,1,1,1,1,0,1,0,1,0,0,0
+Bihar,Typhoid,1,1,0,1,1,0,0,0,0,1,0,0
+Maharashtra,Hepatitis,0,1,1,0,0,0,1,1,0,0,0,0
+Delhi,Malaria,0,0,0,0,0,0,1,0,1,1,1,0
+Delhi,Cholera,0,0,0,0,1,1,0,0,0,0,0,0
+Delhi,Hepatitis,1,0,1,1,0,0,0,0,0,0,0,1
+Bihar,Cholera,1,0,0,1,1,1,0,0,0,1,1,0
+Kerala,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,1
+West Bengal,Cholera,1,0,0,1,1,1,0,0,1,0,0,1
+Tamil Nadu,Dengue,1,0,1,0,0,0,0,0,0,1,0,0
+Delhi,Dengue,1,1,1,1,0,0,1,0,0,0,0,0
+West Bengal,Typhoid,1,0,1,1,1,0,1,0,1,0,0,0
+Uttar Pradesh,Typhoid,1,0,1,0,0,1,1,0,0,0,1,0
+Gujarat,Cholera,1,0,0,0,0,1,1,0,0,0,0,0
+Rajasthan,Amoebiasis,0,0,0,0,1,0,1,0,0,0,0,0
+Karnataka,Cholera,1,0,1,1,0,1,1,0,0,0,0,0
+Kerala,Hepatitis,0,1,0,1,1,0,0,1,0,0,1,0
+Assam,Typhoid,1,0,0,0,1,0,1,0,0,0,1,0
+Kerala,Cholera,0,0,0,1,1,1,1,0,1,0,0,0
+Gujarat,Typhoid,1,0,0,1,0,0,0,0,0,0,0,0
+Maharashtra,Dengue,1,0,1,1,1,0,0,0,0,1,1,0
+Maharashtra,Malaria,1,1,1,0,0,0,1,0,1,0,1,0
+Karnataka,Amoebiasis,0,1,0,1,0,0,1,0,0,0,0,0
+Maharashtra,Cholera,1,0,0,1,0,1,1,0,0,0,0,0
+Gujarat,Typhoid,0,1,1,1,1,0,1,0,1,0,0,0
+Odisha,Dengue,0,0,1,0,0,0,0,0,0,1,1,0
+Gujarat,Dengue,1,1,1,0,0,1,0,1,0,1,0,0
+Delhi,Cholera,0,0,0,0,1,1,1,0,0,0,0,0
+Assam,Dengue,1,0,1,1,1,0,0,0,0,1,0,0
+Gujarat,Malaria,1,1,0,0,0,0,0,0,1,0,1,0
+Maharashtra,Typhoid,1,0,1,1,1,1,1,0,0,0,0,0
+West Bengal,Dengue,1,1,1,1,0,0,1,0,0,1,1,0
+Rajasthan,Dengue,1,1,1,0,0,0,0,0,1,1,0,1
+Tamil Nadu,Cholera,0,0,0,1,0,1,1,0,0,0,0,0
+Rajasthan,Amoebiasis,0,1,0,1,0,0,1,0,0,0,0,0
+Rajasthan,Dengue,1,1,1,1,0,0,1,1,0,1,0,0
+West Bengal,Typhoid,1,0,0,1,0,1,1,0,1,0,0,0
+Gujarat,Dengue,1,1,1,1,0,1,1,0,0,1,0,0
+Delhi,Malaria,1,0,1,0,1,0,1,1,1,0,1,0
+Tamil Nadu,Dengue,0,1,1,0,0,0,0,0,0,0,0,0
+Maharashtra,Dengue,1,0,1,1,1,0,1,0,1,1,0,0
+Gujarat,Hepatitis,1,1,0,1,0,0,1,1,0,0,0,0
+Delhi,Malaria,1,1,0,1,1,0,1,0,1,0,0,0
+Gujarat,Malaria,0,0,1,1,0,0,1,0,1,0,1,0
+West Bengal,Dengue,1,1,0,0,1,0,1,0,0,0,1,0
+Odisha,Dengue,1,1,1,1,1,1,0,0,0,1,0,0
+Rajasthan,Dengue,1,1,1,1,1,1,0,0,1,1,0,0
+Bihar,Typhoid,1,1,0,0,1,0,0,0,1,0,0,0
+Kerala,Amoebiasis,1,0,0,0,0,1,1,0,0,0,0,0
+Assam,Typhoid,1,1,0,0,1,1,0,0,0,0,0,0
+Uttar Pradesh,Cholera,1,0,0,1,1,1,1,0,0,0,0,0
+Odisha,Malaria,1,1,0,1,0,1,0,0,1,0,0,0
+Maharashtra,Typhoid,1,1,0,1,0,1,0,0,0,0,1,0
+Delhi,Typhoid,1,0,0,0,0,0,1,0,0,0,0,0
+Bihar,Hepatitis,1,0,0,1,1,0,1,0,0,0,0,0
+Tamil Nadu,Amoebiasis,0,0,0,0,1,1,1,0,0,0,0,0
+Tamil Nadu,Cholera,0,0,0,0,1,1,0,0,0,0,0,0
+West Bengal,Typhoid,1,1,0,0,1,1,0,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,0,1,1,0,0,0,0,0,0,0,0
+Maharashtra,Hepatitis,1,0,0,1,0,0,0,1,0,1,0,0
+Gujarat,Amoebiasis,0,1,0,0,0,0,0,1,0,0,0,0
+Gujarat,Malaria,1,0,1,1,0,0,1,0,1,0,0,0
+West Bengal,Dengue,1,1,1,1,1,1,0,0,1,1,0,0
+Maharashtra,Typhoid,1,1,1,0,1,1,0,0,0,0,1,1
+Uttar Pradesh,Cholera,0,0,1,0,1,1,0,1,0,0,0,0
+Bihar,Amoebiasis,0,1,0,1,0,1,1,0,1,0,0,0
+Rajasthan,Typhoid,1,0,0,0,0,1,1,0,0,0,1,0
+Assam,Cholera,0,0,0,1,1,0,1,0,0,0,0,0
+Rajasthan,Typhoid,0,1,1,1,1,0,0,0,0,0,0,0
+Kerala,Hepatitis,1,0,0,1,1,0,0,1,0,0,0,0
+Odisha,Typhoid,1,1,1,0,1,1,1,0,0,0,0,0
+Gujarat,Cholera,0,0,1,1,1,1,0,1,0,0,0,0
+Karnataka,Dengue,1,1,1,0,0,0,0,0,1,1,1,0
+West Bengal,Malaria,1,1,1,0,0,1,0,0,1,0,0,1
+Kerala,Cholera,0,0,1,1,1,1,1,0,1,1,0,0
+Rajasthan,Dengue,1,1,1,1,0,0,0,0,0,0,1,0
+Tamil Nadu,Hepatitis,0,1,0,0,0,0,0,1,0,0,0,0
+Kerala,Dengue,1,1,1,0,1,0,0,1,0,1,1,1
+Gujarat,Typhoid,1,1,0,1,1,0,1,0,0,0,0,0
+West Bengal,Dengue,1,0,1,1,0,0,0,0,0,0,1,0
+Assam,Amoebiasis,1,1,0,0,0,0,1,0,0,0,0,0
+Assam,Typhoid,0,0,1,0,0,1,1,0,0,0,0,0
+Odisha,Typhoid,1,1,1,1,0,0,0,0,0,0,0,1
+Odisha,Amoebiasis,1,0,1,0,0,0,1,0,0,0,0,0
+West Bengal,Dengue,1,1,1,1,0,0,0,0,0,1,0,1
+Maharashtra,Malaria,1,1,0,1,0,1,0,0,1,0,0,0
+Kerala,Dengue,1,1,1,1,1,1,0,0,0,1,0,0
+Bihar,Cholera,1,0,1,0,0,1,0,0,0,0,0,0
+Rajasthan,Amoebiasis,0,1,0,1,1,1,1,0,0,0,1,0
+Delhi,Dengue,0,1,1,0,0,0,0,0,0,1,0,0
+Gujarat,Cholera,1,1,0,1,1,0,0,0,0,0,0,0
+Rajasthan,Typhoid,0,0,0,0,0,1,1,0,0,0,0,0
+Assam,Amoebiasis,1,0,1,0,1,1,1,0,1,0,0,0
+Kerala,Typhoid,1,1,0,0,1,0,1,0,0,0,0,0
+Kerala,Cholera,1,0,0,0,1,1,0,0,0,0,0,0
+Bihar,Amoebiasis,0,0,1,0,0,1,1,1,1,0,0,0
+Uttar Pradesh,Typhoid,0,1,1,1,1,1,1,0,1,1,0,0
+Odisha,Typhoid,1,1,1,1,1,1,1,0,1,0,0,0
+Karnataka,Amoebiasis,0,0,0,1,0,0,1,1,0,0,0,0
+Delhi,Hepatitis,1,0,1,1,0,0,0,1,0,0,0,0
+Rajasthan,Hepatitis,1,1,0,0,0,0,1,1,0,0,0,0
+Maharashtra,Cholera,1,0,1,1,0,1,0,0,0,0,0,0
+Karnataka,Cholera,0,0,0,1,1,1,0,0,0,1,0,0
+Gujarat,Malaria,1,1,0,0,1,0,1,0,1,0,0,0
+Uttar Pradesh,Cholera,0,0,0,1,1,1,0,0,1,0,0,0
+Maharashtra,Amoebiasis,1,1,0,0,1,0,1,0,0,0,0,0
+Rajasthan,Cholera,0,1,0,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Malaria,1,0,1,1,0,1,1,0,1,0,0,0
+Uttar Pradesh,Malaria,1,1,1,0,1,1,0,0,1,0,1,0
+Rajasthan,Dengue,1,1,1,1,0,1,1,0,0,1,0,0
+West Bengal,Typhoid,1,1,1,1,1,0,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,0,1,1,1,0,0,0,0,1,0
+Karnataka,Malaria,1,1,0,1,0,0,0,1,1,0,0,0
+Tamil Nadu,Hepatitis,1,0,0,1,0,0,1,1,1,0,0,0
+Karnataka,Cholera,1,0,0,1,1,1,1,0,0,1,1,0
+Delhi,Typhoid,1,0,0,1,1,0,1,0,1,0,0,0
+Kerala,Typhoid,1,0,1,1,0,0,1,0,0,0,0,0
+Gujarat,Hepatitis,1,1,0,1,0,0,0,1,0,0,0,0
+Rajasthan,Dengue,1,1,1,0,1,0,1,0,0,1,1,0
+Tamil Nadu,Typhoid,0,1,0,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,1,0,0,1,1,1,0,1,0,0,0
+Uttar Pradesh,Malaria,1,1,1,0,0,0,0,0,0,0,0,0
+Tamil Nadu,Cholera,1,1,1,1,1,1,0,0,0,0,0,0
+Maharashtra,Dengue,1,0,1,1,0,0,0,0,1,1,0,0
+Delhi,Malaria,1,0,0,0,0,0,0,0,1,0,0,0
+Assam,Typhoid,1,0,0,1,1,0,1,0,0,0,0,0
+Assam,Typhoid,0,1,1,1,1,1,1,0,0,0,0,0
+Gujarat,Hepatitis,1,1,0,1,0,0,0,1,0,0,1,0
+Maharashtra,Cholera,0,1,0,1,1,1,0,0,1,0,0,0
+Delhi,Dengue,1,0,0,0,1,0,1,1,0,1,1,0
+Uttar Pradesh,Amoebiasis,1,1,0,1,0,1,1,0,0,0,0,0
+Rajasthan,Cholera,1,0,0,1,0,1,0,0,0,0,0,0
+Odisha,Typhoid,0,1,0,0,0,0,1,0,1,0,0,0
+Maharashtra,Amoebiasis,1,0,1,1,0,1,0,0,0,0,0,0
+Odisha,Cholera,0,1,0,1,1,1,1,0,0,0,0,0
+Rajasthan,Typhoid,0,1,0,1,0,1,1,0,0,0,0,0
+Rajasthan,Typhoid,1,0,0,1,1,1,1,0,0,0,1,0
+Tamil Nadu,Typhoid,1,0,0,0,1,0,1,0,1,0,0,0
+Odisha,Typhoid,1,1,0,0,1,1,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,1,1,1,0,0,1,1,0,0,0,1,0
+Karnataka,Hepatitis,0,1,1,1,0,1,0,1,0,0,0,0
+Assam,Amoebiasis,0,1,1,1,0,1,1,0,0,1,0,0
+Karnataka,Hepatitis,1,1,0,1,0,0,0,0,0,0,0,0
+Tamil Nadu,Hepatitis,0,1,0,1,1,0,1,1,0,0,1,0
+Rajasthan,Malaria,0,1,1,1,0,0,1,0,1,0,0,0
+Gujarat,Malaria,1,0,1,0,1,0,1,0,1,0,0,0
+Delhi,Malaria,1,1,0,0,0,0,0,0,1,0,0,0
+Assam,Dengue,1,1,1,0,0,1,0,0,0,1,0,0
+Assam,Malaria,1,1,0,0,1,0,1,1,1,0,0,0
+Uttar Pradesh,Cholera,0,0,0,0,1,1,1,0,1,0,0,0
+West Bengal,Hepatitis,1,1,0,1,0,0,0,1,0,0,0,0
+Bihar,Cholera,0,0,1,1,1,1,1,0,0,0,0,0
+Bihar,Amoebiasis,1,0,1,1,0,1,1,0,0,1,0,0
+Bihar,Malaria,1,0,0,0,0,0,0,0,1,0,0,0
+West Bengal,Dengue,1,1,1,1,1,0,0,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,1,1,1,0,1,1,0,0,0,0,0
+West Bengal,Dengue,1,1,1,1,0,1,0,0,0,0,1,0
+Tamil Nadu,Hepatitis,0,1,1,1,1,0,0,1,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,0,0,0,0,0,1,0,1,0
+Karnataka,Hepatitis,1,1,1,0,0,0,0,1,0,0,0,0
+Maharashtra,Dengue,1,0,0,1,0,1,1,1,0,1,1,1
+Assam,Dengue,1,0,0,0,1,0,0,0,0,1,0,0
+Bihar,Amoebiasis,1,0,0,0,0,0,1,0,1,0,0,0
+Gujarat,Malaria,1,1,1,1,0,0,0,0,1,0,0,1
+Karnataka,Typhoid,0,1,0,0,1,1,1,0,0,1,0,0
+Bihar,Dengue,1,1,0,1,0,1,0,0,0,0,1,0
+Delhi,Typhoid,1,0,0,1,0,0,1,0,1,0,0,0
+Karnataka,Dengue,1,1,1,1,0,0,0,0,0,0,1,0
+Kerala,Cholera,1,0,0,1,1,1,0,0,1,0,0,0
+Gujarat,Dengue,1,1,0,1,0,0,0,0,0,1,0,0
+Assam,Typhoid,1,1,1,1,0,0,1,0,1,0,0,0
+Maharashtra,Typhoid,1,0,1,1,1,0,1,0,0,0,0,0
+Kerala,Malaria,1,0,1,0,0,0,0,0,1,0,0,0
+Delhi,Typhoid,0,0,1,1,1,1,1,0,0,0,0,0
+Tamil Nadu,Typhoid,0,1,1,1,0,1,0,0,0,0,0,0
+Bihar,Dengue,1,0,1,0,0,0,0,0,0,1,0,0
+Kerala,Dengue,1,1,1,0,0,0,0,0,0,1,1,0
+Maharashtra,Hepatitis,0,0,0,1,1,1,0,0,0,0,0,0
+Bihar,Typhoid,1,0,1,1,1,0,0,1,0,0,0,0
+Odisha,Typhoid,1,1,0,1,0,0,0,0,1,0,1,0
+Uttar Pradesh,Hepatitis,1,1,0,1,0,1,1,1,0,0,0,1
+Assam,Typhoid,1,0,0,1,0,0,1,0,1,0,0,0
+Karnataka,Cholera,0,0,0,0,0,1,0,0,1,0,0,0
+Tamil Nadu,Hepatitis,1,0,1,1,1,0,1,0,0,1,1,0
+Uttar Pradesh,Cholera,1,1,0,1,1,1,0,0,0,0,0,0
+Assam,Hepatitis,0,0,1,0,0,0,0,1,0,0,0,0
+Rajasthan,Dengue,1,1,1,1,0,1,0,0,0,1,1,0
+Odisha,Hepatitis,1,1,0,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Malaria,1,0,1,1,0,0,0,0,1,0,0,0
+Kerala,Malaria,1,1,1,0,0,0,0,0,1,1,0,0
+Delhi,Typhoid,1,0,0,0,0,0,0,0,1,0,0,0
+Bihar,Dengue,1,1,1,1,1,0,0,0,0,1,1,0
+West Bengal,Malaria,1,0,0,1,1,0,0,0,1,0,1,0
+Maharashtra,Cholera,0,0,0,1,0,1,0,0,1,0,1,0
+Assam,Dengue,1,0,1,0,0,0,0,0,0,0,1,0
+Tamil Nadu,Dengue,1,1,0,1,1,0,0,0,1,1,0,0
+Odisha,Cholera,1,0,0,0,0,1,0,0,1,0,0,0
+Maharashtra,Hepatitis,1,0,0,1,1,0,0,1,0,0,0,0
+Maharashtra,Hepatitis,1,0,0,1,0,0,1,0,0,0,0,0
+Odisha,Hepatitis,0,0,0,1,1,0,0,0,0,0,0,0
+Gujarat,Cholera,0,0,0,1,0,1,1,0,0,0,1,0
+Assam,Typhoid,1,0,1,1,0,0,1,1,0,0,0,0
+Delhi,Malaria,1,0,1,0,1,0,1,0,1,0,1,0
+Karnataka,Typhoid,1,1,0,1,1,0,1,1,0,0,0,0
+Delhi,Amoebiasis,0,1,0,1,1,1,1,0,0,0,0,0
+Gujarat,Typhoid,0,0,1,0,0,0,1,0,0,0,0,0
+Kerala,Cholera,1,0,0,1,0,1,0,0,0,0,0,0
+Odisha,Hepatitis,1,0,1,1,0,0,0,1,0,0,0,0
+Uttar Pradesh,Cholera,1,0,0,1,0,1,0,0,0,0,0,0
+Rajasthan,Amoebiasis,1,1,1,1,0,1,1,0,0,0,0,0
+Assam,Typhoid,1,1,0,1,0,1,1,0,0,0,0,0
+Bihar,Cholera,0,0,0,0,1,1,0,0,0,0,0,1
+Rajasthan,Malaria,1,0,1,0,1,0,0,0,1,0,0,0
+Odisha,Hepatitis,1,0,1,1,0,1,0,1,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,0,1,0,1,0,0,1,0,1
+Assam,Malaria,1,0,1,1,1,0,0,0,1,0,0,0
+Tamil Nadu,Malaria,1,1,1,1,0,0,0,1,1,0,1,0
+Rajasthan,Cholera,0,0,1,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Hepatitis,0,0,0,1,1,0,0,1,0,0,0,0
+Karnataka,Dengue,1,1,1,0,0,0,1,0,0,1,1,0
+Bihar,Dengue,0,1,0,0,1,1,1,0,0,1,1,0
+Maharashtra,Typhoid,1,0,1,0,0,0,1,0,1,0,0,0
+Delhi,Typhoid,1,0,0,1,0,0,1,0,0,0,1,0
+Uttar Pradesh,Dengue,1,1,1,1,0,0,1,0,1,0,1,0
+Uttar Pradesh,Malaria,1,0,1,1,0,0,0,0,1,0,0,0
+Kerala,Dengue,1,1,1,0,1,0,0,1,1,1,1,0
+Tamil Nadu,Dengue,1,1,1,1,1,0,0,0,0,1,0,0
+Rajasthan,Cholera,0,0,0,0,0,0,0,0,0,1,0,0
+Bihar,Typhoid,0,1,1,0,0,0,1,1,1,0,0,0
+Rajasthan,Hepatitis,1,0,0,1,0,0,1,1,1,0,0,0
+West Bengal,Dengue,1,1,1,0,1,1,0,0,0,0,0,0
+Uttar Pradesh,Cholera,1,0,1,0,1,1,1,1,0,0,0,0
+Tamil Nadu,Typhoid,0,0,1,1,0,1,1,0,1,0,0,0
+Rajasthan,Typhoid,1,1,0,0,0,0,0,0,1,1,0,0
+Rajasthan,Typhoid,1,0,0,1,0,1,1,0,0,0,1,0
+Delhi,Dengue,1,1,1,1,1,0,0,1,1,1,0,0
+Maharashtra,Malaria,1,1,1,1,1,0,1,0,1,0,1,0
+Karnataka,Typhoid,1,1,0,0,1,0,1,0,0,0,1,0
+Kerala,Malaria,1,0,0,0,0,0,0,0,1,0,1,0
+Delhi,Malaria,1,1,1,1,0,1,1,0,1,0,1,0
+Karnataka,Hepatitis,0,1,0,1,1,0,0,1,0,0,0,0
+Maharashtra,Typhoid,1,1,1,1,0,0,1,0,1,0,0,0
+Bihar,Malaria,1,0,1,0,0,0,0,0,1,0,1,0
+Kerala,Amoebiasis,0,1,0,0,0,0,1,1,0,0,0,0
+Delhi,Malaria,0,0,1,1,1,0,1,0,1,0,0,0
+Karnataka,Cholera,1,0,0,0,1,1,0,0,0,0,0,0
+Tamil Nadu,Typhoid,1,1,1,1,1,0,1,0,0,1,0,0
+Tamil Nadu,Malaria,1,1,1,1,0,0,1,0,1,1,0,0
+Tamil Nadu,Cholera,1,0,0,1,1,1,0,0,0,0,0,0
+Kerala,Typhoid,0,0,1,1,0,1,1,0,0,0,0,0
+Odisha,Malaria,0,1,1,1,0,1,0,0,0,0,0,0
+Delhi,Amoebiasis,1,0,1,0,1,1,0,0,0,0,0,0
+West Bengal,Dengue,1,1,1,1,0,0,0,0,0,1,1,0
+Tamil Nadu,Typhoid,0,1,0,0,1,1,1,0,0,0,0,0
+Tamil Nadu,Amoebiasis,1,0,1,0,1,0,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,1,1,0,1,1,1,1,0,0,0,0,0
+Bihar,Typhoid,1,1,0,0,0,1,1,0,0,0,0,0
+Kerala,Typhoid,0,0,1,1,0,0,1,0,0,0,1,0
+Delhi,Typhoid,1,0,1,0,1,0,1,0,0,0,0,0
+Assam,Malaria,1,1,1,0,1,1,0,0,1,0,0,0
+Maharashtra,Malaria,1,1,1,0,0,0,0,0,1,0,0,0
+Maharashtra,Amoebiasis,1,1,0,1,0,1,1,0,0,0,1,0
+Bihar,Hepatitis,1,0,0,1,0,0,1,1,0,0,0,0
+Maharashtra,Amoebiasis,1,0,1,0,0,1,0,0,0,0,0,0
+Karnataka,Malaria,1,1,1,0,0,1,1,0,1,1,1,0
+Uttar Pradesh,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,1
+Odisha,Cholera,1,0,0,1,0,0,0,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,0,1,1,1,0,1,1,0,0,0,0
+Odisha,Typhoid,1,0,0,0,0,1,1,0,0,1,0,0
+Delhi,Hepatitis,0,1,0,1,0,0,1,1,0,1,0,0
+Assam,Cholera,0,0,0,1,1,1,0,1,1,0,0,0
+West Bengal,Amoebiasis,0,1,1,0,0,1,1,0,0,0,0,1
+Uttar Pradesh,Cholera,0,0,1,1,1,1,1,0,0,0,1,0
+Rajasthan,Typhoid,1,0,0,1,1,0,1,0,0,0,0,0
+Maharashtra,Malaria,1,1,1,0,0,0,0,0,1,0,1,0
+Bihar,Amoebiasis,0,1,0,1,0,0,1,0,0,0,0,0
+Delhi,Dengue,1,1,1,0,0,0,0,0,1,1,0,1
+Maharashtra,Typhoid,0,1,0,1,0,0,1,0,1,0,0,0
+Uttar Pradesh,Hepatitis,1,1,0,1,1,1,0,1,0,0,0,0
+Maharashtra,Cholera,1,0,0,1,1,1,0,0,0,0,1,0
+Bihar,Typhoid,0,1,0,1,0,0,0,0,0,0,0,1
+Rajasthan,Malaria,1,1,0,1,0,0,0,0,1,0,0,0
+Kerala,Cholera,0,1,1,1,0,1,0,0,0,0,0,0
+Rajasthan,Malaria,1,0,1,0,0,0,0,1,1,1,0,0
+Maharashtra,Typhoid,1,0,1,1,0,0,1,0,0,1,1,0
+Tamil Nadu,Amoebiasis,0,0,0,0,1,1,0,0,0,0,0,0
+Assam,Dengue,1,1,1,1,0,0,0,0,0,0,0,0
+Tamil Nadu,Amoebiasis,0,1,1,1,0,1,1,1,0,0,0,0
+Odisha,Malaria,1,0,0,1,0,1,0,0,1,0,0,0
+Uttar Pradesh,Cholera,0,0,0,1,0,1,0,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,1
+West Bengal,Dengue,1,1,1,1,0,0,0,0,1,1,0,0
+Kerala,Malaria,1,0,0,0,1,0,0,0,0,0,0,0
+Delhi,Cholera,1,0,1,1,0,1,1,0,0,0,0,0
+Tamil Nadu,Amoebiasis,0,1,0,1,0,0,1,0,0,0,0,0
+Bihar,Malaria,0,0,1,0,0,1,1,0,1,0,0,0
+Delhi,Hepatitis,0,0,0,0,0,1,0,1,0,0,1,1
+Kerala,Hepatitis,1,0,0,1,1,0,1,0,0,0,0,0
+Kerala,Typhoid,1,0,0,1,1,0,1,0,1,0,0,0
+Tamil Nadu,Cholera,0,1,0,0,0,1,0,0,0,1,0,0
+Delhi,Cholera,1,0,0,1,0,1,0,0,0,0,0,1
+Assam,Typhoid,0,1,1,0,1,1,0,0,0,0,1,0
+Tamil Nadu,Hepatitis,0,0,0,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,0,0,0,0,1,1,1,0,1,0,1,0
+Rajasthan,Dengue,1,1,1,1,1,0,0,0,1,0,0,0
+West Bengal,Malaria,1,1,1,0,0,1,1,0,0,0,1,0
+Gujarat,Typhoid,1,0,0,1,1,0,0,0,0,0,0,0
+Odisha,Amoebiasis,0,0,0,0,1,1,0,1,0,0,0,0
+Kerala,Amoebiasis,0,0,0,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,1,0,1,1,0,1,1,0,0,0,0,1
+Maharashtra,Dengue,1,1,1,1,0,0,0,0,1,1,1,1
+Maharashtra,Cholera,0,0,1,1,1,1,0,1,0,0,0,0
+Karnataka,Dengue,1,1,0,1,0,0,0,0,1,0,0,0
+Odisha,Typhoid,0,1,0,0,1,0,1,0,0,0,0,0
+Odisha,Malaria,1,1,0,1,0,0,1,0,1,0,0,0
+Kerala,Cholera,0,0,0,1,0,1,1,1,1,0,0,0
+Delhi,Malaria,0,1,1,0,0,0,0,0,1,0,0,0
+Rajasthan,Hepatitis,1,1,1,1,1,0,1,1,0,0,0,0
+Delhi,Hepatitis,0,1,0,1,1,1,0,1,0,0,0,0
+Delhi,Typhoid,1,1,1,1,1,1,1,0,0,0,0,0
+Gujarat,Dengue,1,0,1,1,0,0,0,0,1,1,0,0
+Maharashtra,Typhoid,0,0,1,0,1,1,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,0,1,0,0,0,1,0,0,0,0,0,0
+Maharashtra,Cholera,1,0,0,1,1,0,1,0,0,0,0,0
+Delhi,Hepatitis,0,0,1,0,0,0,0,1,0,0,0,1
+Odisha,Hepatitis,0,1,1,1,0,0,1,1,0,0,0,0
+Maharashtra,Amoebiasis,0,0,0,0,0,1,1,0,0,0,0,0
+West Bengal,Cholera,1,0,0,0,1,1,1,0,0,0,0,0
+Assam,Dengue,1,1,1,1,0,1,0,0,0,1,0,0
+Maharashtra,Amoebiasis,1,0,0,0,0,1,1,0,0,0,0,0
+Gujarat,Typhoid,0,1,0,1,0,0,1,0,1,0,0,0
+Rajasthan,Dengue,1,1,1,1,1,0,0,0,1,1,0,0
+West Bengal,Cholera,1,0,0,0,1,1,0,0,0,1,0,0
+Uttar Pradesh,Hepatitis,0,0,0,1,0,1,1,1,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,1,0,1,1,1,0,0,0,0,0,0
+Uttar Pradesh,Malaria,1,0,1,1,1,0,0,0,1,0,0,0
+Kerala,Hepatitis,0,0,0,1,0,0,1,1,0,0,0,0
+Maharashtra,Malaria,1,1,1,0,0,1,0,0,1,0,0,0
+Delhi,Dengue,1,1,0,1,1,1,0,1,1,1,1,0
+Tamil Nadu,Cholera,1,0,0,0,0,1,0,0,0,0,0,0
+Assam,Dengue,1,1,0,1,0,1,0,1,0,1,0,0
+Bihar,Dengue,1,1,0,1,1,0,0,0,0,1,1,0
+Kerala,Dengue,1,1,1,1,0,0,0,0,0,0,0,1
+Kerala,Typhoid,1,0,1,0,0,1,0,0,0,0,0,0
+Maharashtra,Amoebiasis,0,0,0,1,0,0,1,0,0,0,0,0
+Kerala,Dengue,1,1,1,1,1,0,1,0,0,1,1,0
+Karnataka,Typhoid,1,1,1,1,1,1,0,0,0,0,0,0
+Bihar,Malaria,1,0,0,1,0,0,0,0,1,0,0,0
+Gujarat,Malaria,1,1,1,1,1,0,1,0,1,1,0,0
+Rajasthan,Dengue,1,1,1,0,0,0,0,0,0,0,0,0
+Maharashtra,Cholera,1,0,0,1,1,1,1,0,0,0,0,0
+Gujarat,Malaria,0,1,1,1,1,1,0,0,1,0,0,0
+Maharashtra,Typhoid,1,1,1,1,1,1,1,0,0,0,0,0
+Maharashtra,Hepatitis,1,0,1,1,0,0,0,1,0,0,1,1
+Bihar,Cholera,1,0,0,1,1,0,0,0,0,0,0,0
+Rajasthan,Typhoid,0,0,0,1,1,1,0,0,1,0,0,0
+Uttar Pradesh,Cholera,1,0,1,0,1,1,0,0,0,0,0,0
+Rajasthan,Cholera,0,0,1,1,0,1,0,0,0,0,0,0
+Assam,Malaria,0,1,1,1,1,0,0,1,1,0,0,0
+Assam,Typhoid,1,0,1,0,1,1,1,1,1,0,0,0
+Uttar Pradesh,Amoebiasis,1,0,1,0,1,1,1,0,0,0,0,0
+Gujarat,Hepatitis,1,1,0,0,0,0,1,1,0,0,0,0
+Tamil Nadu,Malaria,1,0,0,1,1,0,0,0,1,0,0,0
+Uttar Pradesh,Dengue,1,0,1,1,0,0,0,1,0,0,1,0
+Rajasthan,Dengue,1,1,1,1,1,0,0,0,0,1,0,1
+Rajasthan,Typhoid,0,1,1,1,0,0,1,0,0,0,0,0
+Odisha,Cholera,0,1,1,1,1,1,1,0,0,0,0,0
+Gujarat,Amoebiasis,0,1,0,0,1,0,1,0,0,0,0,0
+West Bengal,Cholera,1,0,0,0,1,1,0,0,0,0,0,0
+Bihar,Typhoid,1,0,0,1,1,0,1,0,0,0,0,1
+Rajasthan,Malaria,1,1,1,0,1,0,1,0,1,0,0,0
+Gujarat,Amoebiasis,0,0,0,0,0,0,1,1,0,0,0,0
+Bihar,Typhoid,0,1,1,1,0,1,1,0,0,0,0,0
+West Bengal,Malaria,1,1,0,0,0,1,1,0,1,0,0,1
+Delhi,Amoebiasis,0,1,0,1,1,0,1,0,0,0,0,0
+Maharashtra,Typhoid,0,0,0,1,0,1,1,0,0,0,0,0
+Maharashtra,Typhoid,1,1,0,1,0,0,1,0,1,0,0,0
+Odisha,Typhoid,1,1,0,1,1,1,0,0,0,0,0,0
+Delhi,Hepatitis,1,0,0,1,0,1,1,0,0,0,0,0
+Assam,Typhoid,1,1,0,0,1,1,1,0,0,0,0,0
+Bihar,Amoebiasis,0,1,1,1,0,1,1,0,0,0,0,0
+Karnataka,Amoebiasis,1,0,0,0,1,0,1,0,0,0,0,0
+Kerala,Amoebiasis,0,0,1,0,0,1,1,0,0,0,0,0
+Odisha,Amoebiasis,1,1,0,1,1,1,1,0,0,0,0,0
+Bihar,Typhoid,1,1,0,1,1,0,1,0,0,0,1,1
+Bihar,Hepatitis,0,1,0,1,0,1,0,0,0,0,0,0
+Karnataka,Dengue,1,1,1,1,1,1,0,1,1,1,0,0
+Rajasthan,Amoebiasis,1,1,0,0,0,1,1,0,0,0,0,0
+Odisha,Amoebiasis,0,0,0,1,1,1,1,1,0,0,0,0
+Assam,Typhoid,0,1,0,1,0,0,1,0,0,1,0,0
+Rajasthan,Cholera,0,0,0,1,0,1,1,0,0,0,0,0
+Rajasthan,Malaria,1,0,1,0,0,0,1,0,1,0,0,0
+Assam,Typhoid,1,0,0,1,1,0,0,0,0,0,0,0
+Delhi,Cholera,1,0,0,1,1,0,1,0,0,0,0,0
+Kerala,Dengue,1,1,1,1,1,0,1,0,1,1,0,0
+Assam,Typhoid,1,0,0,1,0,1,1,1,0,0,0,0
+Uttar Pradesh,Malaria,1,1,0,1,0,1,0,0,1,0,0,0
+Uttar Pradesh,Cholera,1,0,0,0,0,1,1,0,0,0,0,0
+Gujarat,Typhoid,0,0,0,1,1,1,1,0,1,0,0,0
+Maharashtra,Typhoid,0,1,0,1,1,0,1,0,0,0,0,1
+Tamil Nadu,Dengue,1,1,0,1,1,1,0,0,0,1,0,0
+Gujarat,Typhoid,0,1,0,1,1,0,1,0,0,0,1,0
+Kerala,Dengue,1,1,1,0,1,0,0,0,0,0,0,0
+Assam,Malaria,1,0,1,0,0,0,0,0,1,0,0,0
+Assam,Dengue,1,1,1,1,1,1,0,0,0,1,0,0
+Karnataka,Dengue,1,1,1,0,0,0,1,0,0,0,0,0
+Karnataka,Typhoid,0,1,0,0,1,1,1,0,0,0,0,0
+West Bengal,Malaria,0,1,1,1,1,0,0,0,1,0,0,0
+West Bengal,Cholera,1,0,1,0,1,1,0,0,0,0,0,0
+West Bengal,Dengue,1,1,1,0,0,0,0,0,1,1,0,0
+Odisha,Amoebiasis,1,0,0,1,0,1,1,0,0,0,0,1
+West Bengal,Hepatitis,0,0,1,0,0,0,0,1,0,0,0,0
+Kerala,Dengue,1,1,1,1,1,0,0,0,0,1,1,0
+Delhi,Cholera,0,1,0,1,1,1,1,0,0,0,0,0
+Assam,Typhoid,1,1,0,1,1,1,1,0,0,0,1,0
+Assam,Typhoid,0,1,1,1,0,0,1,0,0,0,0,0
+Bihar,Cholera,0,1,0,0,1,1,0,0,0,0,0,0
+Rajasthan,Dengue,1,1,1,1,0,0,1,0,0,1,0,1
+Delhi,Hepatitis,1,0,1,1,1,0,1,1,0,0,0,0
+Odisha,Typhoid,0,1,0,1,1,1,1,0,0,0,0,0
+Gujarat,Cholera,0,0,1,0,1,1,1,0,1,0,0,0
+Uttar Pradesh,Dengue,1,0,1,0,0,0,0,0,0,1,1,0
+Karnataka,Amoebiasis,0,1,1,0,1,1,1,0,0,0,0,0
+Kerala,Dengue,1,0,1,1,1,0,0,0,0,1,0,1
+Uttar Pradesh,Typhoid,1,1,1,1,1,1,1,1,0,0,0,0
+Assam,Malaria,1,1,0,1,0,0,0,1,1,0,0,0
+Rajasthan,Dengue,1,0,1,1,0,0,0,0,1,1,1,0
+Bihar,Typhoid,1,1,0,1,1,1,1,0,1,0,0,0
+Rajasthan,Typhoid,0,0,1,0,1,1,1,1,0,0,0,0
+Gujarat,Amoebiasis,1,1,1,1,0,1,1,0,0,0,0,0
+Gujarat,Dengue,1,1,1,0,0,0,1,1,0,1,0,0
+Odisha,Typhoid,1,0,0,0,1,1,1,0,0,0,0,0
+Delhi,Amoebiasis,1,1,0,0,0,0,1,0,0,0,0,0
+Delhi,Cholera,1,1,0,0,0,1,1,1,0,0,0,0
+Maharashtra,Dengue,0,1,1,1,1,0,1,1,0,1,1,0
+Gujarat,Amoebiasis,1,0,1,1,1,1,0,0,0,0,0,1
+Delhi,Typhoid,0,1,0,1,0,0,0,0,0,0,0,0
+Bihar,Typhoid,0,0,0,1,1,0,0,0,0,0,0,0
+West Bengal,Cholera,0,0,0,0,0,1,0,0,0,0,0,0
+Bihar,Malaria,1,0,1,1,1,0,0,0,1,0,0,1
+Maharashtra,Malaria,0,1,0,0,0,0,0,0,1,0,0,1
+Kerala,Typhoid,1,0,0,1,1,1,1,0,0,0,0,0
+Rajasthan,Dengue,1,1,1,1,0,0,0,1,0,1,0,0
+Karnataka,Cholera,0,0,1,1,1,1,0,0,0,0,0,0
+Assam,Malaria,1,1,0,0,1,0,0,0,1,0,0,0
+Karnataka,Dengue,1,1,1,1,1,0,1,0,0,1,0,0
+Odisha,Hepatitis,0,0,0,0,1,0,0,0,0,1,0,1
+Delhi,Dengue,1,1,1,1,0,0,0,0,0,1,0,1
+Gujarat,Hepatitis,1,0,1,1,0,0,1,0,0,0,0,0
+Rajasthan,Hepatitis,1,1,0,1,0,0,1,0,0,0,0,0
+Assam,Typhoid,1,1,0,0,1,0,0,0,0,0,0,0
+Karnataka,Amoebiasis,1,0,1,1,0,1,1,0,0,0,0,0
+Assam,Amoebiasis,1,0,0,0,1,1,1,0,0,0,0,0
+Tamil Nadu,Amoebiasis,0,1,0,0,1,1,1,0,0,0,0,0
+Tamil Nadu,Cholera,0,0,0,0,0,1,0,0,1,0,0,0
+Delhi,Malaria,0,0,0,1,0,0,0,0,0,0,1,0
+Uttar Pradesh,Dengue,1,1,1,1,0,0,0,0,0,1,1,0
+Delhi,Dengue,1,1,1,0,0,1,1,0,0,1,0,0
+West Bengal,Typhoid,0,0,0,0,0,0,1,0,0,0,0,0
+Tamil Nadu,Amoebiasis,1,0,1,1,1,1,0,0,0,0,0,0
+West Bengal,Cholera,0,1,1,0,1,1,0,0,0,0,0,0
+Maharashtra,Hepatitis,0,0,0,1,0,0,0,1,0,0,0,0
+Odisha,Hepatitis,0,1,0,1,0,0,0,1,0,0,0,0
+Tamil Nadu,Dengue,1,1,0,0,1,0,0,0,0,1,0,0
+Kerala,Dengue,1,0,1,0,0,0,0,0,0,0,0,0
+Assam,Dengue,1,1,1,1,0,0,0,0,0,1,1,0
+Odisha,Typhoid,1,0,1,1,0,1,1,0,0,0,0,0
+Maharashtra,Cholera,1,1,0,0,1,1,1,0,0,0,1,0
+Maharashtra,Cholera,0,1,0,0,0,1,0,0,0,0,0,0
+Odisha,Hepatitis,1,0,0,0,0,1,1,1,1,0,1,0
+Gujarat,Cholera,1,1,0,1,1,1,0,0,0,0,1,0
+Assam,Cholera,1,0,0,1,0,1,0,0,0,0,0,0
+Gujarat,Hepatitis,1,0,0,1,0,0,1,1,0,0,0,0
+Tamil Nadu,Amoebiasis,1,0,1,0,0,1,1,0,0,0,0,0
+West Bengal,Hepatitis,1,0,0,1,1,0,0,1,0,0,1,0
+Bihar,Typhoid,1,0,1,1,0,0,0,0,1,0,0,1
+Gujarat,Typhoid,0,0,1,1,0,1,1,0,0,0,0,0
+Delhi,Typhoid,0,0,0,0,1,0,1,0,1,0,0,0
+Rajasthan,Malaria,1,1,1,0,0,0,0,0,1,0,1,0
+Kerala,Malaria,1,1,0,1,1,0,0,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,0,0,1,0,0,1,0,0,1,0
+Assam,Malaria,1,1,1,1,0,0,0,0,1,1,0,0
+Bihar,Dengue,1,0,1,1,1,0,1,1,0,1,0,0
+Rajasthan,Cholera,0,1,0,0,1,1,0,0,0,0,0,0
+Rajasthan,Dengue,0,1,1,0,0,0,0,0,0,0,0,0
+Assam,Hepatitis,0,0,0,1,0,0,0,1,1,0,0,0
+West Bengal,Malaria,1,0,0,0,1,0,0,0,1,0,0,0
+Bihar,Malaria,1,1,1,0,0,0,0,0,1,0,0,0
+Maharashtra,Dengue,1,1,1,0,1,0,1,1,1,0,0,0
+Odisha,Dengue,0,1,1,1,0,0,1,0,0,0,0,0
+Kerala,Hepatitis,0,0,0,1,0,1,1,1,0,0,1,0
+Odisha,Amoebiasis,1,1,0,0,0,1,1,0,0,0,0,0
+Odisha,Cholera,0,0,0,0,1,1,1,0,0,0,0,1
+Tamil Nadu,Typhoid,1,0,0,1,0,1,1,0,0,0,0,1
+Kerala,Malaria,1,0,1,0,1,1,1,0,1,0,0,0
+Kerala,Amoebiasis,0,0,0,0,1,1,0,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,0,1,0,0,0,0,0,1,0,1
+West Bengal,Hepatitis,0,1,0,1,0,0,0,1,0,0,0,1
+Odisha,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,0
+Delhi,Cholera,0,0,0,1,1,1,1,0,0,0,0,1
+Maharashtra,Amoebiasis,1,1,0,1,1,1,1,0,0,0,0,1
+Gujarat,Malaria,0,0,1,0,1,0,1,0,1,0,0,0
+Kerala,Hepatitis,0,0,1,1,1,0,0,1,0,0,0,0
+Kerala,Hepatitis,0,1,0,1,0,0,0,1,0,0,0,1
+Tamil Nadu,Hepatitis,0,0,1,1,0,0,0,1,0,0,0,1
+Odisha,Hepatitis,0,0,1,1,1,0,0,1,0,0,0,0
+Tamil Nadu,Typhoid,0,1,0,0,1,0,1,0,0,1,0,0
+Kerala,Malaria,1,1,1,0,0,1,1,0,1,0,0,0
+Rajasthan,Amoebiasis,1,0,0,1,1,1,1,1,0,0,0,0
+Kerala,Hepatitis,0,1,1,1,1,0,1,1,0,0,0,0
+West Bengal,Typhoid,0,1,1,1,1,1,1,0,1,0,0,0
+Karnataka,Typhoid,1,1,0,1,0,0,1,0,0,0,0,0
+Maharashtra,Cholera,0,0,1,1,1,1,0,0,1,0,0,0
+Gujarat,Hepatitis,0,1,0,1,1,0,1,1,0,0,0,0
+Maharashtra,Dengue,1,1,1,1,0,0,1,0,1,1,0,0
+Uttar Pradesh,Hepatitis,1,0,1,0,0,0,1,1,0,0,0,1
+Odisha,Malaria,1,1,0,0,0,0,1,1,0,0,1,0
+West Bengal,Amoebiasis,0,0,1,1,0,0,1,0,0,0,0,0
+Rajasthan,Malaria,1,0,0,1,0,0,0,0,1,0,0,1
+Delhi,Typhoid,0,0,1,0,1,0,1,0,0,0,0,0
+Gujarat,Typhoid,1,1,0,1,0,0,1,1,0,0,0,0
+Odisha,Hepatitis,0,1,0,0,1,0,0,1,0,0,0,0
+Karnataka,Typhoid,1,0,1,1,1,0,0,0,1,0,0,0
+Uttar Pradesh,Hepatitis,1,1,0,1,1,0,1,1,0,0,1,0
+West Bengal,Dengue,0,0,1,1,0,0,1,0,0,0,0,0
+Assam,Typhoid,1,1,0,1,0,0,1,0,1,0,0,0
+Odisha,Amoebiasis,1,1,0,0,1,1,1,0,0,1,0,0
+Karnataka,Malaria,1,0,1,1,0,0,1,0,1,0,0,0
+Delhi,Malaria,1,1,0,1,0,0,1,0,1,0,0,0
+Kerala,Cholera,1,1,0,0,1,1,0,0,0,0,0,0
+Tamil Nadu,Malaria,1,0,0,1,0,0,0,0,1,0,1,0
+Karnataka,Malaria,1,1,0,0,0,0,0,1,1,0,0,0
+Delhi,Dengue,1,1,1,0,0,0,1,0,1,0,0,0
+Gujarat,Malaria,1,1,0,0,1,0,0,0,1,0,0,0
+Bihar,Typhoid,0,1,0,1,0,1,1,0,0,1,0,0
+Tamil Nadu,Amoebiasis,1,0,1,0,0,1,1,0,0,0,0,1
+Assam,Hepatitis,1,1,1,1,0,1,1,1,0,0,0,1
+Gujarat,Dengue,0,1,0,1,1,0,0,0,0,0,1,0
+Uttar Pradesh,Cholera,0,0,1,1,0,1,1,0,0,0,0,0
+Assam,Cholera,0,0,0,1,0,1,0,0,0,0,0,0
+Assam,Amoebiasis,0,0,0,0,1,1,1,0,0,0,0,0
+Gujarat,Malaria,1,1,1,0,0,0,1,0,1,0,1,1
+Odisha,Typhoid,1,1,0,1,1,1,1,0,0,0,0,0
+Delhi,Malaria,1,0,1,0,0,0,0,0,1,0,0,1
+Tamil Nadu,Malaria,1,1,0,0,1,1,0,0,1,0,0,0
+Gujarat,Dengue,1,1,1,1,0,1,1,0,1,0,1,1
+Delhi,Amoebiasis,0,0,1,1,1,0,1,0,0,0,0,0
+Rajasthan,Dengue,1,0,1,1,0,1,0,1,0,1,1,1
+Assam,Typhoid,0,0,0,1,1,0,1,0,0,0,1,0
+Rajasthan,Malaria,1,0,1,0,0,0,1,1,1,0,0,0
+Rajasthan,Hepatitis,0,0,0,0,0,0,0,1,0,0,0,0
+Kerala,Typhoid,0,0,0,1,1,1,1,0,0,0,0,0
+West Bengal,Cholera,0,0,1,1,0,1,0,0,1,0,0,0
+Rajasthan,Dengue,1,1,1,0,0,1,0,0,1,1,0,1
+Maharashtra,Dengue,1,1,1,1,1,1,0,0,1,1,1,0
+Odisha,Amoebiasis,1,0,0,1,1,1,0,0,0,0,1,0
+Odisha,Malaria,1,1,1,0,1,1,1,0,1,1,0,0
+Odisha,Typhoid,1,1,0,1,0,0,1,0,0,0,0,0
+Karnataka,Amoebiasis,1,1,0,0,1,1,1,0,0,1,0,0
+West Bengal,Hepatitis,1,1,0,1,1,0,0,1,0,1,0,0
+Rajasthan,Malaria,1,0,1,0,0,0,0,1,1,0,0,0
+Gujarat,Cholera,1,0,0,1,1,1,0,0,1,0,0,0
+Tamil Nadu,Dengue,1,1,1,0,0,0,0,0,1,0,0,0
+Rajasthan,Hepatitis,0,1,1,1,1,1,1,1,0,1,0,0
+West Bengal,Malaria,1,0,1,0,1,0,0,0,1,0,1,0
+Bihar,Malaria,1,0,1,1,0,0,1,0,1,0,0,1
+Odisha,Dengue,1,1,1,1,0,1,0,0,0,0,1,0
+Kerala,Hepatitis,0,1,1,0,1,1,1,1,0,0,1,0
+Gujarat,Malaria,0,0,0,0,0,0,0,0,0,0,0,0
+Uttar Pradesh,Typhoid,1,0,1,1,1,1,1,0,0,0,0,0
+Delhi,Malaria,1,0,1,0,1,1,0,0,1,0,0,0
+Odisha,Cholera,1,1,0,0,1,1,0,0,0,0,0,0
+Assam,Cholera,1,0,1,1,1,1,1,0,0,1,0,0
+Karnataka,Amoebiasis,0,0,0,1,0,1,0,0,0,0,0,0
+Gujarat,Dengue,1,1,0,0,1,0,0,0,0,1,1,0
+Karnataka,Hepatitis,1,0,0,1,0,1,1,1,0,0,0,1
+Karnataka,Malaria,0,1,1,1,0,0,1,0,1,0,0,0
+Delhi,Malaria,0,0,0,0,0,0,1,0,1,0,0,0
+Maharashtra,Cholera,0,1,0,0,1,1,0,0,1,0,0,1
+Tamil Nadu,Cholera,0,0,0,1,1,1,0,0,1,0,0,0
+West Bengal,Typhoid,0,1,0,1,1,1,0,0,0,0,0,0
+Odisha,Malaria,1,1,0,0,0,0,0,0,0,0,0,0
+Delhi,Amoebiasis,0,0,1,1,0,1,1,0,0,0,0,0
+Delhi,Typhoid,1,0,0,0,0,1,1,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,1,0,0,0,1,1,0,0,0,0,1
+Uttar Pradesh,Amoebiasis,0,0,0,0,1,1,1,0,1,0,0,0
+West Bengal,Typhoid,1,1,1,1,0,0,0,0,0,1,0,0
+Kerala,Dengue,1,0,0,1,0,0,0,0,1,1,1,0
+Rajasthan,Cholera,0,0,1,0,1,1,0,0,1,0,0,0
+Kerala,Typhoid,0,0,1,0,0,0,1,0,0,0,0,0
+Odisha,Malaria,0,1,1,0,0,0,0,0,1,0,0,0
+Gujarat,Amoebiasis,1,0,1,0,1,1,1,0,0,0,1,0
+Gujarat,Hepatitis,1,1,0,1,1,0,0,1,0,0,0,0
+Karnataka,Cholera,0,0,0,0,1,1,0,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,0,1,0,1,1,0,0,0,0,0
+Bihar,Dengue,1,0,1,0,0,0,0,0,0,0,1,0
+West Bengal,Hepatitis,0,0,1,1,0,0,1,1,0,0,0,0
+Delhi,Amoebiasis,0,1,1,0,1,1,0,1,0,0,0,0
+Kerala,Cholera,0,0,0,1,1,1,0,1,0,0,1,0
+Kerala,Hepatitis,0,1,1,1,0,0,1,1,0,1,1,0
+Delhi,Dengue,1,1,1,0,0,0,0,0,0,1,0,0
+Karnataka,Amoebiasis,0,1,0,0,0,1,1,0,0,0,0,0
+Tamil Nadu,Amoebiasis,1,1,1,1,0,1,1,0,0,0,0,0
+Kerala,Dengue,1,1,1,0,0,0,0,0,0,0,1,1
+Kerala,Cholera,0,0,0,0,1,1,0,0,0,0,0,0
+Bihar,Hepatitis,0,0,0,1,0,1,0,1,0,0,0,0
+Karnataka,Dengue,1,1,1,1,1,0,0,1,0,1,0,0
+Rajasthan,Malaria,1,0,0,0,0,1,0,0,1,0,0,0
+Delhi,Amoebiasis,0,0,1,1,0,0,1,0,0,0,0,0
+Odisha,Dengue,1,0,1,0,1,0,1,1,1,1,0,0
+Uttar Pradesh,Hepatitis,1,0,1,1,1,0,1,1,0,0,0,0
+Uttar Pradesh,Dengue,1,1,1,0,1,0,0,0,1,1,0,0
+Delhi,Cholera,0,0,0,1,0,1,1,0,0,0,0,0
+Odisha,Typhoid,1,1,0,0,0,0,0,0,0,0,1,0
+Kerala,Typhoid,1,1,0,0,1,1,0,0,0,0,1,0
+Gujarat,Hepatitis,0,0,0,0,0,1,0,1,0,0,0,0
+West Bengal,Typhoid,1,1,0,0,0,1,1,0,0,0,0,1
+Odisha,Hepatitis,1,0,0,1,1,1,1,1,0,0,0,0
+Rajasthan,Hepatitis,0,0,0,0,1,0,0,1,0,0,0,0
+Delhi,Amoebiasis,0,0,1,1,1,1,1,0,0,0,0,0
+Odisha,Dengue,1,0,1,1,0,0,1,0,0,0,0,0
+Delhi,Typhoid,0,0,0,0,0,0,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,1,1,0,0,0,0,1,0
+Maharashtra,Typhoid,0,0,0,1,0,1,1,0,0,1,0,0
+Assam,Dengue,1,1,1,1,0,1,0,0,0,0,1,0
+Assam,Cholera,0,0,0,1,1,1,0,0,1,0,0,0
+Kerala,Dengue,1,1,1,1,0,1,0,0,0,1,1,0
+Kerala,Cholera,1,0,0,0,0,1,0,0,0,0,0,0
+Bihar,Typhoid,0,0,1,1,0,1,0,0,0,0,0,0
+Karnataka,Amoebiasis,0,0,1,1,0,1,1,1,0,0,0,0
+Kerala,Typhoid,1,0,0,1,0,0,0,0,0,0,0,0
+Maharashtra,Typhoid,1,1,0,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Dengue,0,0,1,0,1,0,0,0,0,1,0,0
+Delhi,Dengue,1,1,1,0,1,1,1,0,1,1,1,0
+Delhi,Hepatitis,1,0,0,1,0,0,1,1,1,0,0,0
+Tamil Nadu,Hepatitis,1,1,0,0,0,1,1,1,0,0,0,0
+Bihar,Dengue,1,1,1,0,1,0,0,0,1,0,0,0
+Bihar,Cholera,0,1,0,0,0,1,0,0,0,0,0,0
+Rajasthan,Hepatitis,1,1,0,1,0,0,1,1,0,0,0,0
+Karnataka,Dengue,1,0,0,1,0,0,0,0,0,1,0,1
+West Bengal,Cholera,0,0,0,1,0,1,0,0,1,0,0,0
+Uttar Pradesh,Typhoid,1,1,0,1,0,0,0,0,0,0,0,0
+Delhi,Dengue,1,1,0,0,0,0,0,0,1,1,0,0
+Assam,Dengue,1,1,1,0,1,1,0,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,1,0,1,1,1,1,1,0,0,0,0,0
+West Bengal,Hepatitis,0,1,0,1,1,1,1,1,0,0,0,0
+Rajasthan,Hepatitis,1,1,0,0,0,1,0,1,0,0,0,0
+Bihar,Hepatitis,0,0,0,1,1,1,1,1,0,1,0,1
+Kerala,Typhoid,1,0,0,0,1,0,1,0,0,0,0,0
+Odisha,Cholera,0,1,0,1,1,0,1,0,0,1,0,0
+Tamil Nadu,Hepatitis,1,1,0,1,1,0,1,1,0,0,0,0
+West Bengal,Malaria,1,1,0,1,1,0,0,0,1,0,0,0
+Tamil Nadu,Malaria,1,1,1,1,1,0,0,0,1,0,0,0
+Odisha,Dengue,1,1,0,0,0,0,0,0,1,1,1,0
+Odisha,Dengue,1,1,1,0,0,0,0,0,1,1,0,0
+Karnataka,Cholera,0,0,1,1,1,0,0,0,0,0,0,0
+Tamil Nadu,Typhoid,1,1,1,0,0,0,1,0,1,0,0,0
+Rajasthan,Typhoid,0,0,1,0,1,0,1,0,0,0,0,0
+Karnataka,Malaria,1,0,0,0,1,0,0,0,1,0,0,0
+Odisha,Dengue,1,1,1,1,0,0,0,1,0,1,0,0
+Rajasthan,Malaria,1,1,0,1,1,1,0,0,1,0,0,0
+Bihar,Malaria,1,1,1,0,0,1,0,0,1,0,0,0
+Delhi,Amoebiasis,0,1,0,1,0,1,1,0,0,0,0,0
+Tamil Nadu,Amoebiasis,0,1,1,1,1,1,1,0,0,0,1,1
+Delhi,Dengue,1,0,1,1,1,0,1,0,0,1,1,0
+Maharashtra,Hepatitis,0,1,0,1,1,0,1,1,0,0,0,0
+Karnataka,Cholera,1,0,0,1,0,1,1,0,0,1,0,0
+West Bengal,Typhoid,1,1,0,1,1,1,1,0,1,0,0,0
+Gujarat,Typhoid,0,0,0,1,1,1,1,0,0,0,0,0
+Rajasthan,Malaria,1,0,1,0,0,1,0,0,0,0,0,0
+Delhi,Hepatitis,1,1,0,1,0,0,0,0,1,0,0,0
+Bihar,Amoebiasis,0,0,1,0,0,1,1,0,0,0,0,0
+Maharashtra,Hepatitis,1,0,0,1,1,1,0,1,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,1,0,1,0,1,0,0,0,0,0
+Gujarat,Malaria,1,1,1,0,0,0,0,0,1,0,0,0
+Assam,Amoebiasis,1,0,0,1,1,0,0,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,1,1,0,1,1,0,0,0,0,0
+Maharashtra,Dengue,0,1,0,0,0,1,0,0,0,1,0,0
+West Bengal,Amoebiasis,0,0,0,1,0,1,1,1,0,0,0,0
+Tamil Nadu,Typhoid,0,0,1,1,1,0,1,0,0,0,0,1
+Maharashtra,Cholera,1,1,0,0,0,1,0,1,0,0,0,0
+Maharashtra,Amoebiasis,0,1,1,0,0,1,1,0,0,0,0,0
+Bihar,Typhoid,1,1,1,0,1,1,0,0,0,1,1,0
+West Bengal,Hepatitis,1,1,0,1,0,1,1,1,0,0,0,0
+Tamil Nadu,Malaria,0,1,1,1,0,0,0,0,1,0,1,0
+Delhi,Dengue,1,1,0,0,1,1,0,0,0,1,0,0
+West Bengal,Hepatitis,0,0,0,0,1,0,0,0,0,0,0,0
+Uttar Pradesh,Cholera,1,0,1,1,1,1,1,0,0,0,1,0
+Bihar,Typhoid,1,1,1,1,0,0,0,0,0,0,1,1
+Uttar Pradesh,Dengue,1,1,1,1,0,0,0,0,0,0,0,0
+Karnataka,Typhoid,1,1,0,0,0,0,0,0,0,0,0,0
+West Bengal,Dengue,1,0,1,1,1,0,0,0,1,0,1,0
+Assam,Cholera,1,0,0,0,0,1,0,0,0,0,0,0
+Karnataka,Typhoid,1,1,1,1,0,1,1,0,1,0,1,0
+Gujarat,Typhoid,0,1,1,0,1,0,1,0,1,0,0,0
+Gujarat,Amoebiasis,1,0,0,1,1,0,0,0,0,0,0,0
+Tamil Nadu,Typhoid,1,0,0,1,1,1,0,0,1,0,1,0
+Karnataka,Hepatitis,0,1,0,1,0,0,0,1,0,0,1,0
+Uttar Pradesh,Amoebiasis,0,1,0,1,0,1,1,0,0,0,0,0
+Bihar,Cholera,0,0,1,0,1,1,1,0,0,0,0,0
+Rajasthan,Hepatitis,1,0,0,0,0,1,1,1,0,0,0,0
+West Bengal,Hepatitis,0,0,1,1,1,0,1,1,0,0,0,0
+Rajasthan,Malaria,1,0,1,0,0,1,0,0,1,0,0,0
+Maharashtra,Typhoid,1,1,0,1,0,0,0,0,0,0,1,0
+Maharashtra,Typhoid,1,1,1,0,0,1,1,1,0,0,0,0
+Odisha,Malaria,0,1,0,1,0,0,1,0,1,0,1,0
+Karnataka,Cholera,0,1,0,1,1,0,1,0,0,0,0,0
+Assam,Hepatitis,0,0,0,1,0,0,1,1,0,0,0,0
+Assam,Cholera,0,0,1,1,1,1,0,0,0,0,0,0
+Karnataka,Typhoid,1,1,0,1,1,0,0,0,0,0,0,0
+Rajasthan,Amoebiasis,1,1,1,1,0,0,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,1,0,1,0,0,1,1,0,0,0,1
+Tamil Nadu,Typhoid,1,0,0,0,1,1,1,0,0,0,0,0
+West Bengal,Typhoid,1,0,1,1,0,0,1,0,0,0,0,0
+Karnataka,Malaria,1,0,1,1,0,1,1,0,1,0,0,1
+West Bengal,Cholera,1,0,1,0,0,1,0,0,0,0,1,0
+Rajasthan,Dengue,1,1,0,0,1,0,0,0,0,0,0,0
+Gujarat,Hepatitis,0,0,1,0,1,0,1,1,0,0,0,0
+Maharashtra,Typhoid,1,1,1,0,0,0,1,0,0,0,0,0
+Assam,Typhoid,1,1,1,0,0,1,1,0,0,0,0,0
+Odisha,Hepatitis,1,1,1,1,1,0,1,1,1,0,0,1
+Gujarat,Dengue,1,1,1,1,1,0,0,0,1,0,0,0
+Delhi,Hepatitis,1,0,1,1,1,0,0,1,0,0,0,0
+Uttar Pradesh,Typhoid,1,1,0,0,1,0,1,0,0,0,0,0
+Rajasthan,Dengue,1,1,1,0,0,0,1,1,1,0,0,0
+West Bengal,Dengue,1,1,1,0,0,0,0,0,1,1,1,0
+Rajasthan,Malaria,1,1,0,0,1,0,1,0,1,0,1,0
+Rajasthan,Cholera,1,0,0,1,0,1,1,0,0,0,0,0
+West Bengal,Malaria,0,0,1,0,1,0,1,0,1,0,0,0
+Maharashtra,Hepatitis,0,0,0,1,1,1,0,1,0,0,0,0
+Bihar,Amoebiasis,1,0,0,0,1,0,1,0,0,0,0,0
+Uttar Pradesh,Malaria,1,1,0,1,0,0,1,0,1,0,0,0
+Assam,Dengue,1,1,1,1,0,0,0,0,0,1,0,0
+Rajasthan,Typhoid,1,1,1,0,0,1,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,0,0,0,0,0,0,1,1,0
+Tamil Nadu,Hepatitis,0,1,1,1,0,0,0,1,0,0,0,0
+Gujarat,Dengue,1,1,1,0,0,0,0,0,1,0,1,0
+Odisha,Malaria,1,0,1,0,0,1,0,0,1,0,0,0
+Kerala,Dengue,1,0,1,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Amoebiasis,1,1,1,0,0,1,1,0,0,0,0,0
+Gujarat,Amoebiasis,1,1,0,1,0,1,1,1,0,0,0,0
+Karnataka,Dengue,1,1,1,0,1,0,0,0,1,1,1,0
+Assam,Malaria,1,1,1,1,0,0,1,0,1,0,0,1
+Tamil Nadu,Typhoid,1,1,0,1,0,0,0,0,0,0,0,0
+Maharashtra,Amoebiasis,1,0,0,1,1,0,1,0,0,0,0,0
+Kerala,Dengue,1,1,0,0,0,1,1,0,0,0,1,0
+West Bengal,Dengue,0,1,0,0,0,0,0,0,0,1,0,0
+Odisha,Hepatitis,0,0,0,1,1,0,1,1,0,1,0,0
+Odisha,Cholera,0,1,0,0,1,1,0,0,0,0,0,0
+Kerala,Dengue,1,0,1,0,1,0,0,0,0,1,1,1
+Maharashtra,Amoebiasis,0,0,0,0,0,1,0,0,0,0,0,0
+West Bengal,Typhoid,1,1,1,0,0,1,1,0,1,0,0,0
+Assam,Cholera,1,0,1,1,1,1,1,0,0,0,1,0
+Tamil Nadu,Typhoid,0,0,0,0,0,1,1,0,0,0,0,0
+Gujarat,Hepatitis,1,0,0,1,0,0,0,1,0,0,0,0
+Maharashtra,Amoebiasis,1,1,1,1,1,1,1,0,0,0,0,0
+Gujarat,Hepatitis,0,0,0,0,1,1,0,1,0,0,0,0
+Delhi,Malaria,1,0,1,1,0,0,0,1,1,0,0,0
+Assam,Cholera,0,0,0,1,1,1,1,0,1,0,1,0
+Kerala,Dengue,1,1,1,0,1,1,0,0,1,0,0,0
+Tamil Nadu,Malaria,1,1,0,1,0,1,0,0,1,1,0,0
+Kerala,Dengue,0,1,1,0,1,0,0,0,0,0,0,0
+Tamil Nadu,Hepatitis,1,0,0,0,0,0,0,1,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,0,1,1,0,1,0,0,0,0,0
+Karnataka,Malaria,1,1,1,1,1,0,0,0,1,0,0,0
+Bihar,Typhoid,1,1,0,0,0,0,1,0,0,0,0,0
+Gujarat,Malaria,1,1,1,1,1,0,0,0,1,0,0,0
+Uttar Pradesh,Dengue,1,1,0,1,1,0,1,0,1,0,0,0
+Karnataka,Cholera,1,0,0,1,1,1,0,0,0,0,0,0
+Uttar Pradesh,Typhoid,0,1,0,1,0,1,1,0,0,0,0,0
+West Bengal,Dengue,1,1,0,0,1,0,0,0,1,1,0,0
+Tamil Nadu,Amoebiasis,1,0,1,0,1,0,1,1,0,0,0,0
+Tamil Nadu,Typhoid,1,1,1,0,0,1,1,0,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,0,0,0,1,0,0,0,0,0,0
+Gujarat,Dengue,1,1,1,0,1,0,0,1,0,0,0,0
+Maharashtra,Dengue,1,1,1,0,1,0,1,1,0,1,0,0
+West Bengal,Malaria,1,1,1,0,0,0,0,0,1,0,0,0
+Uttar Pradesh,Amoebiasis,1,1,1,1,0,1,1,0,1,1,0,1
+Rajasthan,Dengue,1,0,1,1,0,1,1,0,0,1,1,1
+Assam,Hepatitis,1,0,1,0,0,0,1,0,0,0,1,0
+Delhi,Typhoid,1,1,1,1,0,0,1,0,0,0,0,0
+Kerala,Hepatitis,1,1,1,0,0,0,1,0,0,0,0,0
+Uttar Pradesh,Malaria,1,0,0,1,0,0,0,0,1,0,0,0
+Karnataka,Amoebiasis,1,0,1,1,1,1,1,0,1,0,0,0
+Delhi,Malaria,1,0,0,0,0,0,1,0,1,1,0,0
+Gujarat,Hepatitis,0,0,0,0,1,0,0,1,0,0,0,0
+Kerala,Cholera,1,0,0,0,1,1,1,0,0,0,0,0
+West Bengal,Cholera,0,1,0,0,0,1,1,0,0,0,0,0
+West Bengal,Typhoid,1,1,0,1,0,0,1,0,0,0,0,0
+Tamil Nadu,Cholera,0,0,1,0,0,1,0,0,0,0,0,0
+Uttar Pradesh,Typhoid,0,1,1,0,0,0,1,0,0,0,0,0
+Odisha,Dengue,1,0,0,0,1,0,0,1,0,0,0,0
+Maharashtra,Hepatitis,0,1,0,1,0,0,0,1,0,1,0,0
+Karnataka,Malaria,1,1,1,0,1,1,0,0,1,0,0,0
+Bihar,Malaria,1,0,1,0,0,0,0,0,1,0,0,0
+Maharashtra,Malaria,1,1,1,0,1,0,1,0,1,0,1,0
+Delhi,Dengue,1,1,1,1,0,0,0,0,0,0,0,0
+West Bengal,Dengue,1,1,1,0,1,0,0,0,0,0,0,0
+Maharashtra,Hepatitis,0,1,0,1,1,0,0,1,0,0,0,0
+Rajasthan,Typhoid,1,1,1,1,1,0,0,0,0,0,0,0
+Uttar Pradesh,Malaria,0,1,1,0,0,0,1,1,1,0,0,0
+Bihar,Malaria,1,0,0,1,0,0,1,1,1,1,0,0
+Assam,Malaria,1,0,0,1,0,0,0,0,0,0,0,0
+West Bengal,Dengue,1,1,1,1,1,0,1,0,1,1,1,0
+Rajasthan,Amoebiasis,0,1,1,1,1,1,1,0,0,0,0,0
+Maharashtra,Hepatitis,0,0,1,1,0,0,1,1,0,0,0,0
+Kerala,Cholera,0,1,0,1,1,1,1,0,0,0,1,0
+Gujarat,Typhoid,1,0,0,0,0,0,1,0,0,0,0,0
+Uttar Pradesh,Malaria,0,0,1,1,1,0,0,0,1,0,1,0
+Maharashtra,Hepatitis,1,1,0,1,1,1,1,1,0,0,0,0
+Uttar Pradesh,Amoebiasis,1,0,0,1,0,0,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,0,1,1,0,1,0,1,1,0,0,0,0
+Delhi,Dengue,1,0,1,0,0,0,0,0,1,0,0,0
+Kerala,Cholera,1,0,0,1,0,1,0,0,0,0,1,0
+Rajasthan,Hepatitis,1,1,0,0,1,0,1,1,0,0,1,0
+Maharashtra,Dengue,1,1,1,1,1,0,0,0,1,1,0,0
+Odisha,Hepatitis,1,1,0,1,0,1,0,1,0,0,0,0
+Delhi,Amoebiasis,0,1,1,0,0,1,0,0,0,0,0,0
+Karnataka,Cholera,1,0,0,0,1,1,1,0,1,0,0,0
+Gujarat,Dengue,1,1,1,1,0,0,1,0,0,0,0,0
+West Bengal,Malaria,1,1,1,0,1,0,0,0,1,0,0,0
+Bihar,Hepatitis,0,0,0,0,0,1,1,1,0,0,0,0
+Rajasthan,Dengue,0,0,1,0,0,1,1,1,0,0,0,0
+Kerala,Typhoid,1,1,1,0,0,0,0,0,0,0,0,0
+Maharashtra,Amoebiasis,0,1,0,1,1,0,1,0,0,1,0,0
+Tamil Nadu,Malaria,0,1,1,1,0,0,0,0,1,0,0,0
+Rajasthan,Malaria,1,1,0,1,0,0,0,0,1,0,1,0
+Rajasthan,Cholera,0,0,1,1,0,0,1,0,0,0,0,1
+Maharashtra,Hepatitis,1,1,1,0,1,0,0,1,0,0,0,0
+Bihar,Malaria,1,0,1,0,1,0,0,0,0,0,1,0
+Assam,Hepatitis,1,0,1,1,0,0,0,1,1,0,0,0
+Maharashtra,Typhoid,0,1,1,1,0,0,1,0,0,0,0,0
+Bihar,Cholera,1,1,0,1,0,1,0,0,0,0,0,0
+Rajasthan,Typhoid,0,1,0,1,0,1,1,0,0,1,0,0
+Odisha,Hepatitis,1,1,0,1,0,0,1,1,0,0,0,0
+Uttar Pradesh,Dengue,1,0,1,1,1,0,1,0,0,0,1,0
+Odisha,Malaria,1,1,0,0,0,0,0,1,0,0,0,0
+Tamil Nadu,Hepatitis,0,0,1,1,1,0,1,0,0,0,1,1
+Delhi,Typhoid,1,1,1,1,0,1,1,0,0,0,0,0
+Tamil Nadu,Hepatitis,0,0,0,1,1,0,1,1,0,0,0,0
+Delhi,Cholera,1,0,0,1,1,1,0,0,1,0,0,0
+Uttar Pradesh,Amoebiasis,1,1,0,1,1,1,1,0,1,0,0,0
+Kerala,Dengue,1,0,1,1,0,1,1,0,1,0,1,0
+Uttar Pradesh,Malaria,1,1,1,1,0,0,1,0,0,0,0,0
+Gujarat,Cholera,0,0,0,0,1,1,1,0,0,0,0,0
+Kerala,Typhoid,0,1,1,1,1,1,1,0,0,1,0,0
+Rajasthan,Dengue,1,1,1,0,0,1,0,0,0,1,1,0
+Delhi,Amoebiasis,0,1,0,0,1,0,1,0,0,0,0,0
+Uttar Pradesh,Cholera,1,0,1,1,1,1,1,0,0,0,0,0
+Bihar,Cholera,1,1,1,0,1,1,1,0,0,0,0,0
+Maharashtra,Dengue,1,0,1,1,0,0,0,0,0,0,0,0
+Kerala,Malaria,0,1,0,1,0,1,1,0,1,0,1,0
+Tamil Nadu,Dengue,1,0,1,1,1,0,1,1,0,0,0,0
+Bihar,Amoebiasis,1,1,0,0,0,1,1,1,0,0,0,0
+West Bengal,Cholera,1,0,0,0,0,1,1,0,0,0,0,0
+Kerala,Typhoid,0,1,1,1,0,0,1,0,0,0,0,0
+Assam,Amoebiasis,0,0,1,0,1,0,1,0,0,0,0,0
+Assam,Amoebiasis,0,0,1,1,1,0,1,0,0,0,0,0
+Assam,Malaria,1,1,1,0,1,0,1,0,1,0,0,0
+Maharashtra,Hepatitis,1,1,0,1,1,0,0,1,0,0,0,0
+Rajasthan,Malaria,1,1,1,1,1,0,1,0,0,0,0,0
+Rajasthan,Malaria,0,1,1,1,0,0,0,0,1,0,0,0
+Bihar,Typhoid,1,1,0,1,1,0,0,0,0,0,0,0
+Gujarat,Amoebiasis,0,1,1,1,0,1,1,0,0,0,0,0
+Gujarat,Amoebiasis,1,0,0,0,1,1,1,0,0,0,0,0
+Rajasthan,Dengue,1,1,1,0,0,0,0,0,1,1,1,0
+Karnataka,Hepatitis,1,0,1,0,0,0,1,1,0,0,1,1
+Karnataka,Typhoid,1,1,0,0,0,0,1,0,0,0,0,0
+Bihar,Malaria,1,0,0,0,0,1,0,0,1,0,0,0
+Kerala,Dengue,1,1,1,0,0,0,0,0,0,0,1,0
+Karnataka,Amoebiasis,1,1,0,0,1,0,1,0,0,0,0,1
+Gujarat,Hepatitis,1,1,1,1,1,0,1,0,0,0,0,0
+Bihar,Dengue,1,1,1,0,0,1,0,0,0,1,1,1
+Uttar Pradesh,Cholera,0,1,0,0,0,1,1,0,0,0,0,0
+Delhi,Malaria,1,0,1,1,1,0,0,0,1,0,0,0
+Uttar Pradesh,Hepatitis,0,0,1,1,0,1,0,1,0,0,0,0
+Odisha,Typhoid,1,1,1,1,0,1,1,0,0,0,0,0
+Maharashtra,Hepatitis,0,0,0,1,1,0,1,0,0,0,0,1
+Karnataka,Malaria,1,1,0,0,0,0,0,0,1,0,1,0
+Gujarat,Typhoid,0,0,1,1,1,0,1,0,1,0,0,0
+Maharashtra,Hepatitis,1,1,1,1,1,0,0,1,0,0,0,0
+Bihar,Malaria,1,0,1,0,1,0,1,0,0,0,0,0
+Odisha,Typhoid,0,1,1,1,1,1,1,0,0,0,0,0
+Rajasthan,Amoebiasis,0,0,1,1,0,1,0,0,0,0,0,0
+Karnataka,Typhoid,1,1,0,1,1,1,0,0,0,0,0,0
+Kerala,Hepatitis,1,1,1,1,0,0,1,1,0,0,0,0
+Karnataka,Hepatitis,1,0,0,1,1,0,1,1,0,0,1,0
+Delhi,Dengue,0,1,1,0,0,0,0,0,0,1,1,0
+Delhi,Amoebiasis,1,0,0,1,1,1,1,0,0,0,0,0
+Kerala,Malaria,1,0,1,0,0,1,0,0,1,0,0,0
+Delhi,Cholera,1,0,1,1,0,1,1,0,0,0,1,0
+Gujarat,Typhoid,0,0,0,1,0,0,1,0,0,0,0,0
+Kerala,Malaria,1,1,0,0,1,0,0,0,1,0,0,0
+Odisha,Typhoid,0,1,0,1,1,0,1,0,0,0,0,0
+Maharashtra,Hepatitis,1,0,0,1,1,1,1,1,0,0,0,0
+West Bengal,Amoebiasis,0,0,0,1,0,0,1,0,0,1,0,0
+Bihar,Typhoid,0,1,0,0,0,0,1,0,0,0,1,0
+Tamil Nadu,Malaria,0,0,1,1,1,1,0,0,1,0,0,0
+Kerala,Cholera,0,1,1,1,1,0,0,0,0,0,0,0
+Maharashtra,Hepatitis,1,0,1,1,0,0,1,1,0,0,0,0
+Delhi,Dengue,1,1,1,0,0,0,0,0,0,1,1,0
+Karnataka,Hepatitis,1,0,1,1,0,0,0,1,0,0,0,0
+Kerala,Typhoid,0,1,0,1,0,1,1,0,1,0,0,0
+Gujarat,Dengue,1,1,1,0,0,0,0,0,0,0,0,0
+Delhi,Cholera,0,0,0,1,1,1,1,0,0,0,0,0
+Bihar,Dengue,1,1,1,1,0,0,1,0,1,1,0,0
+Uttar Pradesh,Dengue,1,1,1,1,1,0,0,0,0,0,0,1
+Maharashtra,Amoebiasis,1,1,1,0,0,1,1,0,0,0,0,0
+Gujarat,Typhoid,1,0,1,1,0,0,1,0,0,0,0,0
+Karnataka,Typhoid,1,1,0,1,0,1,0,0,0,0,0,0
+Tamil Nadu,Dengue,1,1,1,1,0,1,0,0,0,0,0,0
+Delhi,Amoebiasis,0,0,1,0,1,1,1,0,0,0,0,0
+Maharashtra,Dengue,1,1,1,1,1,0,1,0,0,1,1,0
+Tamil Nadu,Amoebiasis,0,1,0,1,1,1,1,0,0,0,0,0
+Delhi,Hepatitis,1,1,0,1,0,1,1,1,0,0,0,0
+Rajasthan,Typhoid,1,1,0,1,0,0,1,0,0,0,0,0
+Kerala,Typhoid,0,0,0,0,0,0,1,0,0,0,0,0
+Bihar,Malaria,1,1,1,1,0,0,1,0,1,0,1,1
+Gujarat,Amoebiasis,0,0,0,0,1,1,1,0,0,1,0,0
+Uttar Pradesh,Amoebiasis,1,0,1,0,1,0,1,0,0,0,1,0
+Assam,Cholera,0,1,0,0,1,1,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,1,0,1,0,0,1,0,1,0,0,0
+Maharashtra,Hepatitis,0,1,0,1,0,1,0,1,0,0,0,1
+Karnataka,Malaria,1,1,1,0,0,0,1,1,1,0,0,0
+West Bengal,Hepatitis,0,0,0,1,0,0,0,1,0,0,0,0
+Gujarat,Hepatitis,1,0,0,1,1,0,1,1,0,0,0,1
+Karnataka,Amoebiasis,0,1,0,1,0,1,1,0,0,0,0,0
+Kerala,Malaria,1,0,1,1,0,0,1,0,1,0,0,0
+Kerala,Dengue,1,0,1,1,1,0,0,0,0,1,0,0
+Uttar Pradesh,Typhoid,1,1,1,1,0,0,0,0,0,0,0,0
+Delhi,Typhoid,1,0,0,1,0,1,0,0,0,1,0,0
+Maharashtra,Dengue,1,0,1,0,1,0,0,0,1,0,0,1
+West Bengal,Dengue,0,1,1,1,1,0,1,0,1,1,1,0
+Delhi,Amoebiasis,1,0,0,0,0,0,1,0,0,0,0,0
+Tamil Nadu,Dengue,1,0,1,0,1,0,0,0,0,1,1,1
+Gujarat,Malaria,0,1,1,0,0,0,0,0,0,0,0,0
+Odisha,Hepatitis,0,1,0,0,1,0,1,1,0,0,0,1
+Delhi,Dengue,1,1,1,1,1,0,1,1,0,0,0,0
+Karnataka,Dengue,1,1,1,1,1,1,0,0,0,0,1,1
+Rajasthan,Amoebiasis,1,0,1,1,1,0,1,0,0,0,0,0
+Odisha,Typhoid,1,0,0,1,0,1,1,0,0,0,0,0
+Uttar Pradesh,Hepatitis,1,1,0,1,0,0,0,1,0,0,0,1
+Delhi,Cholera,1,0,1,1,1,1,0,0,0,0,0,0
+Bihar,Cholera,0,0,1,0,0,1,0,0,0,0,0,0
+West Bengal,Dengue,1,1,1,0,0,1,0,0,0,0,0,0
+Rajasthan,Dengue,1,1,1,1,0,0,0,0,0,1,0,0
+Assam,Dengue,1,1,1,1,1,1,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,1,0,0,0,0,0,1,0,0,0,0,0
+Gujarat,Hepatitis,0,0,1,1,1,0,1,1,0,0,0,0
+Tamil Nadu,Dengue,1,0,0,0,1,0,0,0,0,1,0,0
+Delhi,Malaria,1,1,1,1,1,1,1,0,1,0,0,0
+Rajasthan,Hepatitis,1,0,1,0,1,0,0,1,0,0,0,0
+Bihar,Typhoid,1,1,0,1,0,1,0,0,1,0,0,0
+Maharashtra,Amoebiasis,0,0,1,0,1,1,1,0,0,0,0,0
+Uttar Pradesh,Malaria,1,1,1,1,0,0,0,0,1,0,1,0
+Assam,Cholera,0,0,0,1,0,1,0,0,0,1,0,0
+Bihar,Malaria,1,1,0,0,0,0,0,0,1,0,0,0
+Kerala,Typhoid,1,0,0,1,1,0,1,0,0,0,0,0
+Maharashtra,Malaria,1,0,1,0,0,0,1,0,1,0,0,1
+Delhi,Amoebiasis,1,1,1,1,1,1,1,0,0,0,0,0
+Rajasthan,Malaria,0,0,1,1,1,1,1,1,1,0,0,0
+Karnataka,Dengue,1,0,1,0,0,0,1,0,0,1,0,0
+Uttar Pradesh,Hepatitis,0,0,1,1,1,1,0,1,0,0,0,0
+Assam,Dengue,0,0,1,1,1,0,0,0,0,1,1,0
+Karnataka,Cholera,0,1,0,0,1,1,1,1,1,0,0,0
+Gujarat,Typhoid,1,1,0,0,1,1,0,0,0,0,0,0
+Assam,Typhoid,0,0,0,1,0,0,1,0,0,0,0,0
+Uttar Pradesh,Dengue,1,0,1,1,1,0,0,0,1,0,1,0
+Odisha,Cholera,0,1,1,0,1,1,1,0,0,0,0,0
+Odisha,Amoebiasis,0,1,1,0,0,1,1,0,1,0,0,0
+Tamil Nadu,Malaria,1,1,1,0,1,1,0,0,1,0,0,0
+Gujarat,Dengue,1,1,1,1,0,0,0,0,0,0,1,0
+Bihar,Typhoid,1,0,1,1,0,0,1,0,0,0,0,0
+Rajasthan,Hepatitis,1,0,1,1,1,1,1,1,0,0,0,0
+Delhi,Dengue,1,1,1,0,0,0,0,0,0,0,0,0
+Bihar,Typhoid,0,0,0,0,1,0,1,0,0,0,0,0
+Karnataka,Hepatitis,1,0,1,1,1,0,1,1,1,0,0,1
+Rajasthan,Hepatitis,1,0,1,1,0,0,0,0,0,0,0,1
+West Bengal,Dengue,1,1,1,1,0,0,1,0,0,1,0,0
+Odisha,Cholera,1,1,1,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Typhoid,1,0,0,0,1,1,0,0,0,0,0,0
+Bihar,Dengue,0,1,1,0,1,0,0,0,0,1,1,0
+Karnataka,Typhoid,1,1,1,0,1,0,1,0,1,0,0,0
+Gujarat,Malaria,1,1,1,0,0,0,0,0,1,0,1,0
+West Bengal,Dengue,1,1,1,1,1,0,0,0,1,0,1,0
+Kerala,Amoebiasis,1,1,1,1,1,1,1,1,0,0,0,0
+Assam,Dengue,1,1,1,1,0,0,0,1,1,1,0,0
+Delhi,Cholera,0,0,0,1,1,1,1,0,0,1,1,0
+Kerala,Dengue,1,1,1,0,1,0,0,0,1,0,0,0
+West Bengal,Dengue,1,1,1,0,0,0,0,0,0,1,1,0
+Odisha,Hepatitis,1,0,0,0,1,0,1,1,0,0,0,0
+Uttar Pradesh,Typhoid,0,0,0,1,0,0,1,0,0,0,0,0
+Maharashtra,Malaria,1,1,0,0,0,0,0,0,1,0,1,0
+Bihar,Cholera,0,1,1,0,1,1,0,0,0,0,0,0
+Gujarat,Cholera,1,0,0,1,0,1,1,1,0,0,0,0
+Uttar Pradesh,Hepatitis,0,0,0,0,1,0,1,1,0,0,0,0
+Kerala,Malaria,1,0,1,1,0,1,0,0,0,0,1,0
+Tamil Nadu,Malaria,1,0,1,0,0,0,0,1,1,0,0,0
+Tamil Nadu,Malaria,0,0,0,0,1,0,0,0,1,0,1,0
+Karnataka,Dengue,1,1,1,1,1,0,0,0,1,0,0,0
+Tamil Nadu,Typhoid,1,0,1,1,0,0,1,0,0,0,0,0
+Bihar,Typhoid,1,1,1,1,1,1,0,0,0,0,0,0
+Maharashtra,Dengue,1,0,0,0,1,0,0,0,1,1,0,0
+West Bengal,Cholera,0,1,0,0,0,1,0,0,0,0,0,0
+Odisha,Dengue,1,1,1,0,0,1,0,0,0,0,0,0
+Odisha,Typhoid,0,0,0,1,1,1,1,0,1,0,0,0
+Karnataka,Dengue,1,1,1,1,0,0,0,0,1,1,0,0
+Assam,Malaria,1,1,1,0,1,0,0,1,0,0,0,0
+Gujarat,Amoebiasis,1,0,0,0,0,1,0,0,0,0,0,0
+Tamil Nadu,Cholera,0,1,0,0,1,1,0,0,0,0,0,0
+Assam,Amoebiasis,0,0,0,1,1,1,0,0,0,0,0,0
+Tamil Nadu,Cholera,0,0,0,1,0,1,0,0,0,0,0,0
+Karnataka,Typhoid,0,1,1,1,1,0,1,0,1,0,0,0
+Karnataka,Cholera,0,0,0,1,0,1,0,1,0,0,0,0
+Karnataka,Hepatitis,0,0,0,1,0,0,0,1,0,0,0,0
+Assam,Hepatitis,0,0,1,1,0,0,0,1,0,0,0,1
+Gujarat,Cholera,0,1,0,1,0,1,0,0,0,0,0,0
+Maharashtra,Cholera,0,0,1,0,0,1,0,0,0,0,0,0
+Assam,Typhoid,1,0,0,1,0,1,1,0,0,1,0,1
+Kerala,Hepatitis,0,1,1,1,0,0,0,1,0,0,0,0
+Gujarat,Malaria,1,1,0,1,0,0,0,0,1,0,0,1
+Kerala,Amoebiasis,1,1,0,1,1,1,1,0,0,0,1,0
+Tamil Nadu,Hepatitis,1,1,1,0,0,0,1,1,0,0,0,0
+Uttar Pradesh,Amoebiasis,0,0,1,0,0,0,0,0,0,0,0,0
+Maharashtra,Cholera,1,0,1,1,1,1,1,0,1,0,0,0
+Gujarat,Hepatitis,1,0,1,1,0,0,0,1,0,0,0,0
+Kerala,Dengue,0,1,0,1,1,0,0,0,0,0,1,0
+Gujarat,Malaria,1,0,0,0,1,0,0,0,1,0,0,0
+Tamil Nadu,Dengue,1,0,1,0,1,0,0,0,0,0,1,0
+Assam,Malaria,0,1,0,0,1,0,1,0,0,0,1,0
+West Bengal,Typhoid,1,1,1,1,0,1,1,0,1,0,1,0
+Assam,Amoebiasis,0,0,0,1,1,0,1,0,0,0,0,0
+Tamil Nadu,Amoebiasis,0,0,0,0,0,1,1,0,0,0,0,0
+Tamil Nadu,Malaria,1,0,1,0,0,1,1,0,1,0,0,0
+Bihar,Malaria,1,1,1,1,0,0,1,0,1,0,1,0
+Uttar Pradesh,Dengue,1,1,1,0,1,0,0,1,1,1,0,0
+Delhi,Malaria,1,0,1,0,0,0,0,0,0,0,0,0
+Karnataka,Dengue,0,1,0,0,1,0,1,0,0,1,1,0
+Karnataka,Malaria,1,1,1,1,0,0,0,1,1,0,0,0
+Maharashtra,Dengue,1,1,1,1,0,1,0,0,0,0,1,1
+Karnataka,Hepatitis,1,0,0,0,0,0,0,1,0,1,0,0
+Assam,Malaria,1,0,1,1,1,1,0,0,1,0,0,0
+Assam,Malaria,1,0,0,1,0,1,1,0,1,0,0,0
+Maharashtra,Malaria,1,1,0,0,1,1,1,0,1,0,0,0
+Kerala,Hepatitis,0,0,0,1,0,1,1,1,0,0,0,0
+Odisha,Dengue,1,1,1,1,1,0,0,0,1,1,0,0
+Rajasthan,Malaria,1,0,1,1,0,0,0,0,1,0,0,1
+Gujarat,Typhoid,0,0,0,0,1,1,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,1,0,0,0,1,1,1,1,1,0,0,0
+Uttar Pradesh,Dengue,1,0,1,0,0,0,0,0,0,1,0,0
+Maharashtra,Hepatitis,1,0,0,1,0,0,1,1,1,0,0,0
+Karnataka,Dengue,1,0,1,0,0,1,0,0,0,1,1,0
+Uttar Pradesh,Dengue,1,1,1,1,1,0,0,0,0,0,0,0
+Kerala,Cholera,0,1,1,0,1,1,1,0,1,0,0,0
+Bihar,Malaria,0,1,1,0,0,0,0,0,1,0,0,0
+Assam,Amoebiasis,0,0,0,1,1,1,1,0,0,0,1,0
+Karnataka,Malaria,1,1,1,0,0,0,1,0,0,0,0,0
+Uttar Pradesh,Cholera,0,1,1,0,0,1,0,0,0,0,0,0
+Assam,Typhoid,0,0,0,1,1,0,1,1,0,0,0,0
+Tamil Nadu,Dengue,1,0,0,0,1,0,1,1,0,0,0,0
+Assam,Amoebiasis,0,1,0,0,1,0,1,0,0,0,0,0
+Uttar Pradesh,Typhoid,0,0,1,1,0,1,1,1,1,0,0,0
+Assam,Malaria,1,1,1,1,1,0,0,0,1,0,0,0
+Tamil Nadu,Hepatitis,1,0,0,1,0,0,0,1,1,0,0,0
+Uttar Pradesh,Typhoid,0,1,0,1,1,0,1,0,0,0,0,0
+Delhi,Hepatitis,1,1,1,1,1,1,1,1,0,0,0,0
+Gujarat,Amoebiasis,1,0,0,1,1,0,1,0,0,0,0,0
+Delhi,Dengue,0,1,0,0,1,0,0,0,0,0,1,0
+Maharashtra,Hepatitis,1,0,1,0,0,1,0,1,0,0,0,0
+Delhi,Typhoid,1,0,0,1,1,0,0,1,0,0,0,0
+Karnataka,Dengue,1,1,1,1,0,1,0,0,0,0,0,0
+Odisha,Hepatitis,1,1,1,0,1,0,1,1,0,0,0,1
+Kerala,Malaria,1,0,1,1,1,0,1,1,1,1,0,0
+Odisha,Cholera,0,0,0,1,0,1,0,0,1,0,0,0
+Gujarat,Typhoid,1,1,0,0,0,0,1,0,0,1,0,0
+Rajasthan,Malaria,1,1,1,0,0,0,1,0,1,0,0,0
+Rajasthan,Typhoid,0,1,0,1,0,0,0,0,0,0,0,0
+Uttar Pradesh,Malaria,1,1,0,1,0,0,0,0,1,0,0,0
+Kerala,Malaria,1,0,1,0,1,1,0,0,1,0,0,0
+Gujarat,Typhoid,0,0,1,1,0,1,1,0,0,0,1,0
+Odisha,Typhoid,0,0,1,0,0,1,1,0,0,0,0,0
+Maharashtra,Amoebiasis,0,1,0,1,0,0,1,0,0,0,0,0
+Gujarat,Dengue,1,0,0,1,1,1,0,0,1,1,0,0
+Assam,Amoebiasis,0,0,1,0,0,0,1,0,0,0,0,0
+Maharashtra,Dengue,1,0,1,0,1,0,0,0,0,0,1,0
+Bihar,Cholera,1,0,0,0,0,1,1,0,0,0,0,0
+Gujarat,Hepatitis,1,1,0,1,1,0,1,1,0,0,0,0
+Maharashtra,Hepatitis,1,1,1,1,0,1,1,1,0,0,0,0
+Delhi,Typhoid,0,1,1,1,0,0,1,0,0,0,0,0
+Bihar,Typhoid,0,0,0,1,0,0,0,0,1,0,0,0
+Maharashtra,Typhoid,0,1,0,1,0,0,0,0,0,0,0,0
+Bihar,Typhoid,0,1,0,1,1,0,1,0,0,0,0,0
+Rajasthan,Hepatitis,1,0,1,0,0,1,0,1,0,0,0,0
+Kerala,Malaria,0,1,0,1,1,0,0,0,1,0,0,1
+Kerala,Typhoid,1,1,1,0,1,0,0,0,1,0,0,0
+Gujarat,Typhoid,1,1,0,1,1,1,1,0,0,0,0,0
+Rajasthan,Dengue,1,1,1,0,0,1,0,0,0,1,1,1
+Odisha,Amoebiasis,1,1,0,0,0,0,1,0,0,0,0,0
+Gujarat,Typhoid,1,1,1,1,0,0,1,0,0,0,0,0
+Kerala,Typhoid,0,1,0,1,0,0,1,1,0,0,0,0
