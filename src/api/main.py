@@ -1,3 +1,34 @@
+# replace the direct joblib.load(CAL_MODEL_PATH) call with this safe loader
+import joblib, os, warnings
+
+def safe_load_model(primary_path, fallback_path=None):
+    try:
+        return joblib.load(primary_path)
+    except Exception as e:
+        warnings.warn(f"Failed to load primary model {primary_path}: {e}")
+        if fallback_path and os.path.exists(fallback_path):
+            try:
+                return joblib.load(fallback_path)
+            except Exception as e2:
+                warnings.warn(f"Also failed to load fallback model {fallback_path}: {e2}")
+        raise
+
+# use it like:
+CAL_MODEL_PATH = os.path.join(ROOT, "models", "your_xgb_model.joblib")  # existing path
+FALLBACK_MODEL_PATH = os.path.join(ROOT, "models", "disease_rf_model.joblib")  # scikit-learn RF path if present
+
+model_art = safe_load_model(CAL_MODEL_PATH, FALLBACK_MODEL_PATH)  # this returns the joblib object
+# then extract model, label encoder, features
+try:
+    model = model_art.get("model", model_art)  # joblib may return dict or model directly
+    label_encoder = model_art.get("label_encoder", None)
+    feature_columns = model_art.get("feature_columns", None)
+except Exception:
+    # if joblib returned a raw model object
+    model = model_art
+    label_encoder = None
+    feature_columns = None
+
 # src/api/main.py
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, conint
